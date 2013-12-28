@@ -68,15 +68,19 @@
 	      {% assign group = 'navigation' %}
 	      {% include JB/pages_list %}
 	      <div class="btn-group ">
-		<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-		  Issues
+		<div type="button" class="btn btn-default">
+		  <a href="https://github.com/opentx/opentx/issues">All Issues</a>
+		</div>
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
 		  <span class="caret"></span>
+		  <span class="sr-only">Toggle Dropdown</span>
 		</button>
 		<ul class="dropdown-menu">
 		  <li><a href="https://github.com/opentx/opentx/issues?labels=Radio+Firmware&page=1&state=open">Firmware Issues</a></li>
 		  <li><a href="https://github.com/opentx/opentx/issues?labels=PC+companion&page=1&state=open">Companion Issues</a></li>
 		  <li class="divider"></li>
-		  <li><a href="https://github.com/opentx/opentx/issues">All Issues</a></li>
+		  <li><a href="https://github.com/opentx/opentx/issues/new">New Issue</a></li>
+
 		</ul>
 	      </div>
 	  </div>
