@@ -14,7 +14,7 @@ group: navigation
 
 - [OpenTX for Turnigy 9x - french](https://docs.google.com/document/d/1EEOyRytOoSxIifFb2CMIQml5a6LPC7WmlZWaKT2nkbw)
 
-# OpenTX Developers Documentation
+## OpenTX Developers Documentation
 
 - [Howto use an hardware debugger on FrSky Taranis](https://docs.google.com/document/d/1qG_68uKkrQq_x09bceWVhwMK9IB5B8ZEJzpvExmSpUk)
 
