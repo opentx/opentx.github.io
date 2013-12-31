@@ -5,8 +5,6 @@ header: Documentation
 group: navigation
 ---
 
-# OpenTX Manuals
-
 ## OpenTX for FrSky Taranis
 
 - [OpenTX for FrSky Taranis - english](https://docs.google.com/document/d/1qlh09LzxtpPt7j_aqG8yiOu2yoYMzP9XA-PJA81rDJQ)
