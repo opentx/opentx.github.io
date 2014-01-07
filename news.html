@@ -1,0 +1,11 @@
+---
+layout: page
+title : News
+header : News Timeline
+---
+{% include JB/setup %}
+
+<a href="rss.xml">OpenTX RSS Feed</a>
+
+{% assign posts_collate = site.posts %}
+{% include JB/posts_collate %}

@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>OpenTX</title>
+        <description>OpenTX - OpenTX</description>
+        <link>http://www.open-tx.org</link>
+        <link>http://www.open-tx.org</link>
+        <lastBuildDate>2014-01-07T21:57:59+01:00</lastBuildDate>
+        <pubDate>2014-01-07T21:57:59+01:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Polish OpenTX Taranis Manual</title>
+                <description>&lt;p&gt;OpenTX manual for the FrSky Taranis radio.&lt;br /&gt;The document is created and downloaded from the latest available editable version.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1_H0T2a49twiTmHLSmVgGCA2inkCYrdOa52KzNLn2APk/export?format=pdf&quot;&gt;Document Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2014/01/03/opentx-frsky-manual-pl</link>
+                <guid>http://www.open-tx.org/2014/01/03/opentx-frsky-manual-pl</guid>
+                <pubDate>2014-01-03T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX Companion v1.51 for Windows</title>
+                <description>&lt;p&gt;This is a Windows installer package&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/companion9xInstall_v1.51.exe&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/10/30/companion9x-v151-for-windows</link>
+                <guid>http://www.open-tx.org/2013/10/30/companion9x-v151-for-windows</guid>
+                <pubDate>2013-10-30T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX Companion v1.51 for Ubuntu Linux 64 Bits</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/companion9x_1.51_amd64.deb&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/10/30/companion9x-v151-for-ubuntu-linux-64b</link>
+                <guid>http://www.open-tx.org/2013/10/30/companion9x-v151-for-ubuntu-linux-64b</guid>
+                <pubDate>2013-10-30T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX Companion v1.51 for Ubuntu Linux 32 Bits</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/companion9x_1.51_i386.deb&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/10/30/companion9x-v151-for-ubuntu-linux-32-bits</link>
+                <guid>http://www.open-tx.org/2013/10/30/companion9x-v151-for-ubuntu-linux-32-bits</guid>
+                <pubDate>2013-10-30T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX Companion v1.51 for OSX</title>
+                <description>&lt;p&gt;OpenTX Companion MacOSX Full Setup&lt;br /&gt;This new installer, include AVRDude, dfu-util-0.7 and libraries&lt;br /&gt;Download, run and install&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/companion9x_1.51_Mac_Full_Setup.dmg&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/10/30/companion9x-v151-for-osx</link>
+                <guid>http://www.open-tx.org/2013/10/30/companion9x-v151-for-osx</guid>
+                <pubDate>2013-10-30T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX v2834</title>
+                <description>&lt;p&gt;&lt;strong&gt;All Platforms&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mixer bug when a MULTIPLY mix used with a slow&lt;/li&gt;
+
+&lt;li&gt;I GVAR popup removed&lt;/li&gt;
+
+&lt;li&gt;Sticky virtual switches are reset when ResetFlight function is called&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Arm Boards&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Altitude played without decimal when &amp;gt;= 10m&lt;/li&gt;
+
+&lt;li&gt;Check to avoid too long paths when playing SD files&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <link>http://www.open-tx.org/2013/10/29/opentx-v2834</link>
+                <guid>http://www.open-tx.org/2013/10/29/opentx-v2834</guid>
+                <pubDate>2013-10-29T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Italian OpenTX Taranis Manual</title>
+                <description>&lt;p&gt;Versione 1.0.8-j&lt;br /&gt;&lt;a href=&quot;https://opentx.googlecode.com/files/manuale-italiano-1.0.8j.pdf&quot;&gt;Document Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/10/16/opentx-frsky-manual-it</link>
+                <guid>http://www.open-tx.org/2013/10/16/opentx-frsky-manual-it</guid>
+                <pubDate>2013-10-16T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>French Modele magazine article about Open9x (april 2013)</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://opentx.googlecode.com/files/MMAG739_Open9x.pdf&quot;&gt;Document Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/10/08/french-modele-magazine-article-about-open9x-april-2013</link>
+                <guid>http://www.open-tx.org/2013/10/08/french-modele-magazine-article-about-open9x-april-2013</guid>
+                <pubDate>2013-10-08T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>openOCD 0.7.0 for Taranis debug</title>
+                <description>&lt;p&gt;See Wiki page here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/opentx/opentx/wiki/Taranis-Hardware-Debugging&quot;&gt;Taranis Harware Debugging&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://downloads.open-tx.org/tools/openocd-0.7.0.zip&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/10/07/openocd-0.7.0-for-tarinis-debug</link>
+                <guid>http://www.open-tx.org/2013/10/07/openocd-0.7.0-for-tarinis-debug</guid>
+                <pubDate>2013-10-07T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>dfu util 0.7 for Ubuntu 12.04+, 64bit</title>
+                <description>&lt;p&gt;Flashing utility for the Taranis on Linux (Ubuntu 12.04+ 64bit, not tested on other systems).&lt;br /&gt;First uninstall the existing dfu-util if your system has an old version. Then download and install, and make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/usr/bin/dfu-util”. Dismiss with OK, and you should now be able to flash.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/dfu-util-0.7_0.7-1~precise_amd64.deb&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/09/25/dfu-util-07-for-ubuntu-1204-64bit</link>
+                <guid>http://www.open-tx.org/2013/09/25/dfu-util-07-for-ubuntu-1204-64bit</guid>
+                <pubDate>2013-09-25T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>dfu util 0.7 for Ubuntu 12.04+, 32bit</title>
+                <description>&lt;p&gt;Flashing utility for the Taranis on Linux (Ubuntu 12.04+ 32bit, not tested on other systems). &lt;br /&gt;First uninstall the existing dfu-util if your system has an old version.&lt;br /&gt;Then download and install, and make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/usr/bin/dfu-util”. Dismiss with OK, and you should now be able to flash.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/dfu-util-0.7_0.7-1~precise_i386.deb&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/09/25/dfu-util-07-for-ubuntu-1204-32bit</link>
+                <guid>http://www.open-tx.org/2013/09/25/dfu-util-07-for-ubuntu-1204-32bit</guid>
+                <pubDate>2013-09-25T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX v2768</title>
+                <description>&lt;p&gt;&lt;strong&gt;All Platforms&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Name badly displayed after SD Model Restore&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Stock&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Custom switches not working when comparing a timer with a value (stock only without telemetry mod)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Boards with SD card&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fixes in logging function&lt;/li&gt;
+
+&lt;li&gt;Confirmation Popup before SD Format&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;FrSky Taranis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Model image not reloaded after Copy/Move/Delete/Restore&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <link>http://www.open-tx.org/2013/09/20/opentx-v2768</link>
+                <guid>http://www.open-tx.org/2013/09/20/opentx-v2768</guid>
+                <pubDate>2013-09-20T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX v2751</title>
+                <description>&lt;p&gt;&lt;strong&gt;All Platforms&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fixes in translations (FR, IT, PT)&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <link>http://www.open-tx.org/2013/09/01/opentx-v2751</link>
+                <guid>http://www.open-tx.org/2013/09/01/opentx-v2751</guid>
+                <pubDate>2013-09-01T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX v2746</title>
+                <description>&lt;p&gt;&lt;strong&gt;All Platforms&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Limits are now -125:0 and 0:125 instead of -125:25 and -25:125&lt;/li&gt;
+
+&lt;li&gt;INPUTS instead of STICKS for BL activation&lt;/li&gt;
+
+&lt;li&gt;Curves presets bug fix&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Stock&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fix bug with Battery calibration&lt;/li&gt;
+
+&lt;li&gt;14051 can be used for THR and AIL connections (telemetry)&lt;/li&gt;
+
+&lt;li&gt;CH1 PPM output was truncated&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Boards with SD card&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Flight mode sound files now are read from: /SOUNDS/(lang)/modelname/fpname-ON.wav and /SOUNDS/(lang)/modelname/fpname-OFF.wav&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;FrSky Taranis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rx voltage was not displayed on main screen if VFAS or CELLS chosen&lt;/li&gt;
+
+&lt;li&gt;GVARS can now refer to the GVAR of another phase&lt;/li&gt;
+
+&lt;li&gt;Vario and Altitude bug fixes&lt;/li&gt;
+
+&lt;li&gt;PPM UNIT=PREC0 / US taken into account in channels view&lt;/li&gt;
+
+&lt;li&gt;DJT removed and receiver number hidden from PXX settings when proto != D16&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <link>http://www.open-tx.org/2013/08/30/opentx-v2746</link>
+                <guid>http://www.open-tx.org/2013/08/30/opentx-v2746</guid>
+                <pubDate>2013-08-30T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>French OpenTX Taranis Manual</title>
+                <description>&lt;p&gt;OpenTX manual for the FrSky Taranis radio.&lt;br /&gt;The document is created and downloaded from the latest available editable version.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1EEOyRytOoSxIifFb2CMIQml5a6LPC7WmlZWaKT2nkbw/export?format=pdf&quot;&gt;Document Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/08/22/opentx-frsky-manual-fr</link>
+                <guid>http://www.open-tx.org/2013/08/22/opentx-frsky-manual-fr</guid>
+                <pubDate>2013-08-22T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>English OpenTX Taranis Manual</title>
+                <description>&lt;p&gt;OpenTX manual for the FrSky Taranis radio.&lt;br /&gt;The document is created and downloaded from the latest available editable version.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1qlh09LzxtpPt7j_aqG8yiOu2yoYMzP9XA-PJA81rDJQ/export?format=pdf&quot;&gt;Document Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/08/22/opentx-frsky-manual-en</link>
+                <guid>http://www.open-tx.org/2013/08/22/opentx-frsky-manual-en</guid>
+                <pubDate>2013-08-22T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX v2688</title>
+                <description>&lt;p&gt;&lt;strong&gt;Stock&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fix bug with imperial units&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;gruvin9x&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fix bug with imperial units&lt;/li&gt;
+
+&lt;li&gt;Fix small bug with SOMO 14D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Boards with SD card&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Telemetry logs now split by date&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <link>http://www.open-tx.org/2013/07/28/opentx-v2688</link>
+                <guid>http://www.open-tx.org/2013/07/28/opentx-v2688</guid>
+                <pubDate>2013-07-28T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX v2667</title>
+                <description>&lt;p&gt;&lt;strong&gt;FrSky Taranis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Backlight brightness adjustment added&lt;/li&gt;
+
+&lt;li&gt;SWR units removed (audio)&lt;/li&gt;
+
+&lt;li&gt;Copy/paste/delete of custom switches and custom functions&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <link>http://www.open-tx.org/2013/07/25/opentx-v2667</link>
+                <guid>http://www.open-tx.org/2013/07/25/opentx-v2667</guid>
+                <pubDate>2013-07-25T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX v2647</title>
+                <description>&lt;p&gt;&lt;strong&gt;All&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fix for Replace type mixes with Slow Down &amp;gt;0&lt;/li&gt;
+
+&lt;li&gt;Fix for custom switches that refer another custom switch&lt;/li&gt;
+
+&lt;li&gt;Negative timer display fix&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;SD-card enabled boards&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Logs now include more values, fix for some negative numbers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ARM boards&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All fonts now support language-specific special characters&lt;/li&gt;
+
+&lt;li&gt;Useless sources (e.g. empty channels) don’t appear in the sources anymore&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;FrSky Taranis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fix for a decoding bug in telemetry data&lt;/li&gt;
+
+&lt;li&gt;Sliders’ center points now included in calibration&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <link>http://www.open-tx.org/2013/07/21/opentx-v2647</link>
+                <guid>http://www.open-tx.org/2013/07/21/opentx-v2647</guid>
+                <pubDate>2013-07-21T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Taranis Windows USB driver for manual installation</title>
+                <description>&lt;ul&gt;
+&lt;li&gt;Unzip the archive.&lt;/li&gt;
+
+&lt;li&gt;Go to the device manager, right-click on either “STM32 BOOTLOADER” that should have an exclamation mark or “STM device in DFU mode” in the Universal Serial Bus controllers category.&lt;/li&gt;
+
+&lt;li&gt;choose Update Driver Software&lt;/li&gt;
+
+&lt;li&gt;Browse my computer for driver software -&amp;gt; Let me pick from a list of device drivers on my computer-&amp;gt; Have Disk&lt;/li&gt;
+
+&lt;li&gt;Point to the folder you unzipped the archive in, and select “STM32 BOOTLOADER”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If prompted that the driver is not signed, choose Install anyway.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/Taranis_WinUSB_driver.zip&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/07/18/taranis-windows-usb-driver-for-manual-installation</link>
+                <guid>http://www.open-tx.org/2013/07/18/taranis-windows-usb-driver-for-manual-installation</guid>
+                <pubDate>2013-07-18T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>tcl_lib for sky9x board (for SAM BA 2.11)</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/tcl_lib_for_SAM-BA_2.11.zip&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/07/17/tcl_lib-for-sky9x-board-for-sam-ba-211</link>
+                <guid>http://www.open-tx.org/2013/07/17/tcl_lib-for-sky9x-board-for-sam-ba-211</guid>
+                <pubDate>2013-07-17T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>dfu util 0.7 for Mac, Taranis flashing utility</title>
+                <description>&lt;p&gt;Flashing utility for the Taranis on Mac OS X.&lt;br /&gt;Download and install, then make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/opt/local/bin/dfu-util”. Dismiss with OK, and you should now be able to flash.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/dfu-util-0.7.mpkg&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/07/15/dfu-util-07-for-mac-taranis-flashing-utility</link>
+                <guid>http://www.open-tx.org/2013/07/15/dfu-util-07-for-mac-taranis-flashing-utility</guid>
+                <pubDate>2013-07-15T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Zadig for XP, driver installer for Taranis flashing</title>
+                <description>&lt;p&gt;Zadig v2.0.1.160 for Windows XP.&lt;br /&gt;Source: &lt;a href=&quot;http://sourceforge.net/projects/libwdi/files/zadig/&quot;&gt;http://sourceforge.net/projects/libwdi/files/zadig/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/zadig_xp.exe&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/07/08/zadig-for-xp-driver-installer-for-taranis-flashing</link>
+                <guid>http://www.open-tx.org/2013/07/08/zadig-for-xp-driver-installer-for-taranis-flashing</guid>
+                <pubDate>2013-07-08T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Zadig for Vista and later, driver installer for Taranis flashing</title>
+                <description>&lt;p&gt;Zadig v2.0.1.160 for Windows Vista and later.&lt;br /&gt;Source: &lt;a href=&quot;http://sourceforge.net/projects/libwdi/files/zadig/&quot;&gt;http://sourceforge.net/projects/libwdi/files/zadig/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/zadig.exe&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/07/08/zadig-for-vista-and-later-driver-installer-for-taranis-flashing</link>
+                <guid>http://www.open-tx.org/2013/07/08/zadig-for-vista-and-later-driver-installer-for-taranis-flashing</guid>
+                <pubDate>2013-07-08T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Some advanced features for gliders</title>
+                <description>&lt;ul&gt;
+&lt;li&gt;Full flaperon and quadroflap setup&lt;/li&gt;
+
+&lt;li&gt;Flight phase management&lt;/li&gt;
+
+&lt;li&gt;Global wing camber (static + snap-flap&lt;/li&gt;
+
+&lt;li&gt;Global wing differential with flight phase differentiation&lt;/li&gt;
+
+&lt;li&gt;V-Tail with rudder differential&lt;/li&gt;
+
+&lt;li&gt;Airbrakes to elevator compensation&lt;/li&gt;
+
+&lt;li&gt;Multi-assignment of throttle stick (airbrakes + electric motor&lt;/li&gt;
+
+&lt;li&gt;Throw optimization for ailerons and flaps servos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://opentx.googlecode.com/files/OpenTx_AdvancedGliders.zip&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/06/01/some-advanced-features-for-gliders</link>
+                <guid>http://www.open-tx.org/2013/06/01/some-advanced-features-for-gliders</guid>
+                <pubDate>2013-06-01T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>German Open9x User Guide</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://opentx.googlecode.com/files/OpenTx%20Manual%20DE.pdf&quot;&gt;Document Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/04/01/german-open9x-user-guide</link>
+                <guid>http://www.open-tx.org/2013/04/01/german-open9x-user-guide</guid>
+                <pubDate>2013-04-01T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Czech Open9x User Guide</title>
+                <description>&lt;p&gt;Český návod, pokrývá verzi r1568. Vychází z původního francouzského manuálu z 28.2.2012, postupně aktualizován&lt;/p&gt;
+
+&lt;h2 id=&quot;toto_nen_peklad_novho_oficilnho_francouzskho_manulu&quot;&gt;Toto NENÍ překlad NOVÉHO oficiálního francouzského manuálu!&lt;/h2&gt;
+
+&lt;p&gt;Doplněn podrobnější popis podmínek v uživatelských spinačích.&lt;br /&gt;Doplněna kapitola Telemetrie.&lt;br /&gt;Přidán popis globálních proměnných.&lt;br /&gt;Upraven Úvod, popsána nová struktura menu Radio Setup, upraven graf průběhu v Limits, české obrázky v kapitole Global Variables.&lt;br /&gt;Doplněna informace o alternativních zákl. deskách, upraven popis telemeterií a popis vazby GV na letové fáze.&lt;br /&gt;Doplnění popisů protokolů PPM, PPM16, PPMsim, PXX a DSM2 do kapitoly Setup.&lt;br /&gt;Vložena přehledová tabulka vstupních veličin pro uživatelské přepínače (Vlastní spínače/Custom Switches)&lt;br /&gt;Přidán obrázek typů cykliky.&lt;br /&gt;3.3.2013 &lt;br /&gt;Úpravy podle Andrease Weitla (zrušen popis položky “Filtr ADC”, doplnění vzorců pro výpočet řádku mixu)&lt;br /&gt;Drobné úpravy textů &lt;br /&gt;Popis významu „!“&lt;br /&gt;Doplnění “DOWN LONG” a “UP LONG” na hl. obr. &lt;br /&gt;Vložení kapitoly „Přehled struktury menu“ s obrázky od P. Čuje &lt;br /&gt;Vložení odstavce „Další informace“ do kapitoly „Mixer“ (překlad a doplnění textu od Andrease Weitla)&lt;/p&gt;
+
+&lt;p&gt;Czech user guide - covers version r1568.&lt;br /&gt;It is based on the original French manual of 2012, Febr. 28 gradually updated&lt;/p&gt;
+
+&lt;h2 id=&quot;this_is_not_a_translation_of_the_new_official_french_manual&quot;&gt;This is NOT a translation of the NEW official French manual!&lt;/h2&gt;
+
+&lt;p&gt;Supplemented by a more detailed description of the conditions in the user switches.&lt;br /&gt;Added Chapter Telemetry.&lt;br /&gt;Added Global Variables.&lt;br /&gt;Modified Introduction, described the new structure of the menu Radio Setup, modified graph of the Limits, Czech pictures added to chapter Global Variables.&lt;br /&gt;Added information on alternative motherboards, modified description of telemetry and description of the GV link to the flight phases.&lt;br /&gt;Descriptions of protocols PPM, PPM16, PPMsim, PXX and DSM2 were added to chapter Setup.&lt;br /&gt;Inserted summary table for user switch input variables (Custom Switches)&lt;br /&gt;Picture of swashplate types added.&lt;br /&gt;March 3, 2013&lt;br /&gt;Editing by Andreas Weitl (repealed item description Filter ADC, addition formulas for calculating line mixing), &lt;br /&gt;Minor editing of texts, &lt;br /&gt;A description of the meaning of “!”, &lt;br /&gt;Added “LONG DOWN” and “UP LONG” on main screen, &lt;br /&gt;Inserted the chapter “Overview of the menu structure” with pictures from P. Čuj, &lt;br /&gt;Insertion of “Other information” in a “Mixer” (translation and amendments of the Andreas Weitl texts)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://opentx.googlecode.com/files/OpenTX%20Manual%20CZ.pdf&quot;&gt;Document Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/04/01/czech-open9x-user-guide</link>
+                <guid>http://www.open-tx.org/2013/04/01/czech-open9x-user-guide</guid>
+                <pubDate>2013-04-01T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>9x Modifications FR</title>
+                <description>&lt;p&gt;Modifications de la carte mère d’origine pour:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;flashage&lt;/li&gt;
+
+&lt;li&gt;pilotage du rétro-éclairage&lt;/li&gt;
+
+&lt;li&gt;télémesure FrSky&lt;/li&gt;
+
+&lt;li&gt;batterie LiIon 2S&lt;/li&gt;
+
+&lt;li&gt;régulateur 5V à faible tension de déchet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://opentx.googlecode.com/files/9x_modifications_FR.pdf&quot;&gt;Document Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/04/01/9x-modifications-fr</link>
+                <guid>http://www.open-tx.org/2013/04/01/9x-modifications-fr</guid>
+                <pubDate>2013-04-01T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>9x Modifications EN</title>
+                <description>&lt;p&gt;Basic modifications on stock board for:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ISP&lt;/li&gt;
+
+&lt;li&gt;backlight driving&lt;/li&gt;
+
+&lt;li&gt;FrSky telemetry&lt;/li&gt;
+
+&lt;li&gt;2S LiIon battery&lt;/li&gt;
+
+&lt;li&gt;5V low-drop regulator&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://opentx.googlecode.com/files/9x_modifications_EN.pdf&quot;&gt;Document Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2013/04/01/9x-modifications-en</link>
+                <guid>http://www.open-tx.org/2013/04/01/9x-modifications-en</guid>
+                <pubDate>2013-04-01T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>OpenTX Companion v0.97 for OSX</title>
+                <description>&lt;p&gt;Download, open and run installer&lt;br /&gt;Thats it&lt;br /&gt;Have Fun&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/Companion9x.Mac.v.0.97.dmg&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://www.open-tx.org/2012/09/02/companion9x-v097-for-osx</link>
+                <guid>http://www.open-tx.org/2012/09/02/companion9x-v097-for-osx</guid>
+                <pubDate>2012-09-02T00:00:00+02:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

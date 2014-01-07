@@ -23,7 +23,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://opentx.github.io
+production_url : http://www.open-tx.org
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -69,8 +69,8 @@ JB :
   #
   archive_path: /archive.html
   categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
+  tags_path : /archive.html
+  # atom_path : /atom.xml
   rss_path : /rss.xml
 
   # Settings for comments helper
