@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "French OpenTX Taranis Manual"
+title: "OpenTX for 9x French Manual"
 description: ""
 category: ""
 tags: [Documents]
 ---
 {% include JB/setup %}
-OpenTX manual for the FrSky Taranis radio.  
+OpenTX for 9x manual by Franck Aguerre.
 
 The document is either viewable below, or available from download as a PDF file from [this link](https://docs.google.com/document/d/1EEOyRytOoSxIifFb2CMIQml5a6LPC7WmlZWaKT2nkbw/export?format=pdf). The PDF is automatically generated from the current version.
 
