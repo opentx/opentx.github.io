@@ -7,6 +7,6 @@ tags: [Downloads]
 ---
 {% include JB/setup %}
 Zadig v2.0.1.160 for Windows Vista and later.  
-Source: [http://sourceforge.net/projects/libwdi/files/zadig/](http://sourceforge.net/projects/libwdi/files/zadig/)
+Source: [http://sourceforge.net/projects/libwdi/files/zadig/](http://downloads.open-tx.org/tools/zadig/)
 
-[Download Link](https://companion9x.googlecode.com/files/zadig.exe)
+[Download Link](http://downloads.open-tx.org/tools/zadig.exe)

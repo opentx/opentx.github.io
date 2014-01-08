@@ -9,4 +9,4 @@ tags: [Downloads]
 Zadig v2.0.1.160 for Windows XP.  
 Source: [http://sourceforge.net/projects/libwdi/files/zadig/](http://sourceforge.net/projects/libwdi/files/zadig/)
 
-[Download Link](https://companion9x.googlecode.com/files/zadig_xp.exe)
+[Download Link](http://downloads.open-tx.org/tools/zadig_xp.exe)

@@ -6,4 +6,4 @@ category: ""
 tags: [Downloads]
 ---
 {% include JB/setup %}
-[Download Link](https://companion9x.googlecode.com/files/tcl_lib_for_SAM-BA_2.11.zip)
+[Download Link](http://downloads.open-tx.org/tools/tcl_lib_for_SAM-BA_2.11.zip)

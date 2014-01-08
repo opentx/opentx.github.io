@@ -5,8 +5,8 @@
         <description>OpenTX - OpenTX</description>
         <link>http://www.open-tx.org</link>
         <link>http://www.open-tx.org</link>
-        <lastBuildDate>2014-01-07T21:57:59+01:00</lastBuildDate>
-        <pubDate>2014-01-07T21:57:59+01:00</pubDate>
+        <lastBuildDate>2014-01-08T09:57:44+01:00</lastBuildDate>
+        <pubDate>2014-01-08T09:57:44+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -112,7 +112,7 @@
                 <title>dfu util 0.7 for Ubuntu 12.04+, 64bit</title>
                 <description>&lt;p&gt;Flashing utility for the Taranis on Linux (Ubuntu 12.04+ 64bit, not tested on other systems).&lt;br /&gt;First uninstall the existing dfu-util if your system has an old version. Then download and install, and make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/usr/bin/dfu-util”. Dismiss with OK, and you should now be able to flash.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/dfu-util-0.7_0.7-1~precise_amd64.deb&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&quot;http://downloads.open-tx.org/tools/dfu-util-0.7_0.7-1~precise_amd64.deb&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2013/09/25/dfu-util-07-for-ubuntu-1204-64bit</link>
                 <guid>http://www.open-tx.org/2013/09/25/dfu-util-07-for-ubuntu-1204-64bit</guid>
                 <pubDate>2013-09-25T00:00:00+02:00</pubDate>
@@ -122,7 +122,7 @@
                 <title>dfu util 0.7 for Ubuntu 12.04+, 32bit</title>
                 <description>&lt;p&gt;Flashing utility for the Taranis on Linux (Ubuntu 12.04+ 32bit, not tested on other systems). &lt;br /&gt;First uninstall the existing dfu-util if your system has an old version.&lt;br /&gt;Then download and install, and make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/usr/bin/dfu-util”. Dismiss with OK, and you should now be able to flash.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/dfu-util-0.7_0.7-1~precise_i386.deb&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&quot;http://downloads.open-tx.org/tools/dfu-util-0.7_0.7-1~precise_i386.deb&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2013/09/25/dfu-util-07-for-ubuntu-1204-32bit</link>
                 <guid>http://www.open-tx.org/2013/09/25/dfu-util-07-for-ubuntu-1204-32bit</guid>
                 <pubDate>2013-09-25T00:00:00+02:00</pubDate>
@@ -334,7 +334,7 @@
 
 &lt;p&gt;If prompted that the driver is not signed, choose Install anyway.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/Taranis_WinUSB_driver.zip&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&quot;http://downloads.open-tx.org/tools/Taranis_WinUSB_driver.zip&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2013/07/18/taranis-windows-usb-driver-for-manual-installation</link>
                 <guid>http://www.open-tx.org/2013/07/18/taranis-windows-usb-driver-for-manual-installation</guid>
                 <pubDate>2013-07-18T00:00:00+02:00</pubDate>
@@ -342,7 +342,7 @@
 
         <item>
                 <title>tcl_lib for sky9x board (for SAM BA 2.11)</title>
-                <description>&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/tcl_lib_for_SAM-BA_2.11.zip&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <description>&lt;p&gt;&lt;a href=&quot;http://downloads.open-tx.org/tools/tcl_lib_for_SAM-BA_2.11.zip&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2013/07/17/tcl_lib-for-sky9x-board-for-sam-ba-211</link>
                 <guid>http://www.open-tx.org/2013/07/17/tcl_lib-for-sky9x-board-for-sam-ba-211</guid>
                 <pubDate>2013-07-17T00:00:00+02:00</pubDate>
@@ -350,9 +350,17 @@
 
         <item>
                 <title>dfu util 0.7 for Mac, Taranis flashing utility</title>
-                <description>&lt;p&gt;Flashing utility for the Taranis on Mac OS X.&lt;br /&gt;Download and install, then make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/opt/local/bin/dfu-util”. Dismiss with OK, and you should now be able to flash.&lt;/p&gt;
+                <description>&lt;p&gt;Flashing utility for the Taranis on Mac OS X.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/dfu-util-0.7.mpkg&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;Download and install&lt;/li&gt;
+
+&lt;li&gt;Make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/opt/local/bin/dfu-util”.&lt;/li&gt;
+
+&lt;li&gt;Dismiss with OK, and you should now be able to flash.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://downloads.open-tx.org/tools/dfu-util-0.7.mpkg&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2013/07/15/dfu-util-07-for-mac-taranis-flashing-utility</link>
                 <guid>http://www.open-tx.org/2013/07/15/dfu-util-07-for-mac-taranis-flashing-utility</guid>
                 <pubDate>2013-07-15T00:00:00+02:00</pubDate>
@@ -362,7 +370,7 @@
                 <title>Zadig for XP, driver installer for Taranis flashing</title>
                 <description>&lt;p&gt;Zadig v2.0.1.160 for Windows XP.&lt;br /&gt;Source: &lt;a href=&quot;http://sourceforge.net/projects/libwdi/files/zadig/&quot;&gt;http://sourceforge.net/projects/libwdi/files/zadig/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/zadig_xp.exe&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&quot;http://downloads.open-tx.org/tools/zadig_xp.exe&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2013/07/08/zadig-for-xp-driver-installer-for-taranis-flashing</link>
                 <guid>http://www.open-tx.org/2013/07/08/zadig-for-xp-driver-installer-for-taranis-flashing</guid>
                 <pubDate>2013-07-08T00:00:00+02:00</pubDate>
@@ -370,9 +378,9 @@
 
         <item>
                 <title>Zadig for Vista and later, driver installer for Taranis flashing</title>
-                <description>&lt;p&gt;Zadig v2.0.1.160 for Windows Vista and later.&lt;br /&gt;Source: &lt;a href=&quot;http://sourceforge.net/projects/libwdi/files/zadig/&quot;&gt;http://sourceforge.net/projects/libwdi/files/zadig/&lt;/a&gt;&lt;/p&gt;
+                <description>&lt;p&gt;Zadig v2.0.1.160 for Windows Vista and later.&lt;br /&gt;Source: &lt;a href=&quot;http://downloads.open-tx.org/tools/zadig/&quot;&gt;http://sourceforge.net/projects/libwdi/files/zadig/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/zadig.exe&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&quot;http://downloads.open-tx.org/tools/zadig.exe&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2013/07/08/zadig-for-vista-and-later-driver-installer-for-taranis-flashing</link>
                 <guid>http://www.open-tx.org/2013/07/08/zadig-for-vista-and-later-driver-installer-for-taranis-flashing</guid>
                 <pubDate>2013-07-08T00:00:00+02:00</pubDate>
