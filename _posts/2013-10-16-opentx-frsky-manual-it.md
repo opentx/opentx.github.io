@@ -3,7 +3,7 @@ layout: post
 title: "Italian OpenTX Taranis Manual"
 description: ""
 category: ""
-tags: [Documents]
+tags: [Documents, Italian]
 ---
 {% include JB/setup %}
 Versione 1.0.8-j  

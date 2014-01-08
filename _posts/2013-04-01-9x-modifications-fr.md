@@ -3,7 +3,7 @@ layout: post
 title: "9x Modifications FR"
 description: ""
 category: ""
-tags: [Documents]
+tags: [Documents, French]
 ---
 {% include JB/setup %}
 Modifications de la carte mère d'origine pour:

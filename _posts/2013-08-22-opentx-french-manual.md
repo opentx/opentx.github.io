@@ -3,7 +3,7 @@ layout: post
 title: "OpenTX for 9x French Manual"
 description: ""
 category: ""
-tags: [Documents]
+tags: [Documents, French]
 ---
 {% include JB/setup %}
 OpenTX for 9x manual by Franck Aguerre.

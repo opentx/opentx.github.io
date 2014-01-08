@@ -3,7 +3,7 @@ layout: post
 title: "Czech Open9x User Guide"
 description: ""
 category: ""
-tags: [Documents]
+tags: [Documents, Czech]
 ---
 {% include JB/setup %}
 

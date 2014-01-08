@@ -3,7 +3,7 @@ layout: post
 title: "German Open9x User Guide"
 description: ""
 category: ""
-tags: [Documents]
+tags: [Documents, German]
 ---
 {% include JB/setup %}
 [Document Link](https://opentx.googlecode.com/files/OpenTx%20Manual%20DE.pdf)

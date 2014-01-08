@@ -26,10 +26,22 @@ Then you select the firmware configuration you want and let OpenTX Companion dow
 You find the latest OpenTX Companion versions in [Downloads](downloads.html).
     
 ## [News](news.html)
+
 <ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+{% for post in site.posts %}
+  <div class="post_info">
+    <li>
+         <span>{{ post.date | date_to_string }}</span>          
+
+         {% if post.tags contains 'Italian' %} <img src="assets/images/flags/it.png"> {% endif %}         
+         {% if post.tags contains 'French' %}  <img src="assets/images/flags/fr.png"> {% endif %}
+         {% if post.tags contains 'German' %}  <img src="assets/images/flags/fr.png"> {% endif %}
+         {% if post.tags contains 'English' %} <img src="assets/images/flags/gb.png"> {% endif %}
+         {% if post.tags contains 'Czech' %}   <img src="assets/images/flags/cz.png"> {% endif %}
+         {% if post.tags contains 'Polish' %}  <img src="assets/images/flags/pl.png"> {% endif %}
+
+         <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+    </div>
   {% endfor %}
 </ul>
-
-

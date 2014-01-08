@@ -3,7 +3,7 @@ layout: post
 title: "Polish OpenTX Taranis Manual"
 description: ""
 category: ""
-tags: [Documents]
+tags: [Documents, Polish]
 ---
 {% include JB/setup %}
 OpenTX manual for the FrSky Taranis radio.  

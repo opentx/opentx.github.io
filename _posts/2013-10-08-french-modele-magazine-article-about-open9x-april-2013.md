@@ -3,7 +3,7 @@ layout: post
 title: "French Modele Magazine article about Open9x (April 2013)"
 description: ""
 category: ""
-tags: [Documents]
+tags: [Documents, French]
 ---
 {% include JB/setup %}
 
