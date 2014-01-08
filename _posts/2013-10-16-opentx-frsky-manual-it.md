@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Italian OpenTX Taranis Manual"
+title: "OpenTX for Taranis Manual"
 description: ""
 category: ""
 tags: [Documents, Italian]

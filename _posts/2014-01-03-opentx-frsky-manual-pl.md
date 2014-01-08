@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Polish OpenTX Taranis Manual"
+title: "OpenTX for Taranis Manual"
 description: ""
 category: ""
 tags: [Documents, Polish]
