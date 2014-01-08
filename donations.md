@@ -6,13 +6,13 @@ group: navigation
 ---
 {% include JB/setup %}
 
-The OpenTX team has no intention of making a profit from their work. OpenTX is free and open soure and will remain free and open source.  
+The OpenTX team has no intention of making a profit from their work. OpenTX is free and open source and will remain free and open source.  
 But OpenTX is more expensive to maintain than most open source projects. The reason is that there is a never ending flood of hardware to integrate and maintain code for. Hardware that costs.  
 
 
 Another reason is that OpenTX maintains a build server that serves firmware compiled on demand. This is where OpenTX Companion orders your customized firmware. The server is not for free and the bandwidth is ever increasing with tens of thousands of firmware downloads each month.
 
-The OpenTX team is greateful to those who have donated to the projet. You have helped making OpenTX and OpenTX Companion great. 
+The OpenTX team is grateful to those who have donated to the project. You have helped making OpenTX and OpenTX Companion great. 
 
 The [Github Donor List](https://github.com/opentx/opentx/blob/next/DONATIONS.txt) is updated at each OpenTX release.
 

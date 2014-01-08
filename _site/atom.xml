@@ -5,8 +5,8 @@
         <description>OpenTX - OpenTX</description>
         <link>http://www.open-tx.org</link>
         <link>http://www.open-tx.org</link>
-        <lastBuildDate>2014-01-08T09:57:44+01:00</lastBuildDate>
-        <pubDate>2014-01-08T09:57:44+01:00</pubDate>
+        <lastBuildDate>2014-01-08T10:23:49+01:00</lastBuildDate>
+        <pubDate>2014-01-08T10:23:49+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -89,7 +89,7 @@
         </item>
 
         <item>
-                <title>French Modele magazine article about Open9x (april 2013)</title>
+                <title>French Modele Magazine article about Open9x (April 2013)</title>
                 <description>&lt;p&gt;&lt;a href=&quot;https://opentx.googlecode.com/files/MMAG739_Open9x.pdf&quot;&gt;Document Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2013/10/08/french-modele-magazine-article-about-open9x-april-2013</link>
                 <guid>http://www.open-tx.org/2013/10/08/french-modele-magazine-article-about-open9x-april-2013</guid>
@@ -110,7 +110,21 @@
 
         <item>
                 <title>dfu util 0.7 for Ubuntu 12.04+, 64bit</title>
-                <description>&lt;p&gt;Flashing utility for the Taranis on Linux (Ubuntu 12.04+ 64bit, not tested on other systems).&lt;br /&gt;First uninstall the existing dfu-util if your system has an old version. Then download and install, and make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/usr/bin/dfu-util”. Dismiss with OK, and you should now be able to flash.&lt;/p&gt;
+                <description>&lt;p&gt;Flashing utility for the Taranis on Linux (Ubuntu 12.04+ 64bit, not tested on other systems).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download the package.&lt;/li&gt;
+
+&lt;li&gt;First uninstall the existing dfu-util if your system has an old version.&lt;/li&gt;
+
+&lt;li&gt;Install the package.&lt;/li&gt;
+
+&lt;li&gt;Make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/usr/bin/dfu-util”.&lt;/li&gt;
+
+&lt;li&gt;Dismiss with OK.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You should now be able to flash.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://downloads.open-tx.org/tools/dfu-util-0.7_0.7-1~precise_amd64.deb&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2013/09/25/dfu-util-07-for-ubuntu-1204-64bit</link>
@@ -120,7 +134,21 @@
 
         <item>
                 <title>dfu util 0.7 for Ubuntu 12.04+, 32bit</title>
-                <description>&lt;p&gt;Flashing utility for the Taranis on Linux (Ubuntu 12.04+ 32bit, not tested on other systems). &lt;br /&gt;First uninstall the existing dfu-util if your system has an old version.&lt;br /&gt;Then download and install, and make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/usr/bin/dfu-util”. Dismiss with OK, and you should now be able to flash.&lt;/p&gt;
+                <description>&lt;p&gt;Flashing utility for the Taranis on Linux (Ubuntu 12.04+ 64bit, not tested on other systems).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download the package.&lt;/li&gt;
+
+&lt;li&gt;First uninstall the existing dfu-util if your system has an old version.&lt;/li&gt;
+
+&lt;li&gt;Install the package.&lt;/li&gt;
+
+&lt;li&gt;Make sure that in OpenTX Companion’s Burn Preferences (OpenTX Companion menu -&amp;gt; Preferences) the dfu-util path is set to “/usr/bin/dfu-util”.&lt;/li&gt;
+
+&lt;li&gt;Dismiss with OK.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You should now be able to flash.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://downloads.open-tx.org/tools/dfu-util-0.7_0.7-1~precise_i386.deb&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2013/09/25/dfu-util-07-for-ubuntu-1204-32bit</link>
@@ -325,7 +353,7 @@
 
 &lt;li&gt;Go to the device manager, right-click on either “STM32 BOOTLOADER” that should have an exclamation mark or “STM device in DFU mode” in the Universal Serial Bus controllers category.&lt;/li&gt;
 
-&lt;li&gt;choose Update Driver Software&lt;/li&gt;
+&lt;li&gt;Choose Update Driver Software&lt;/li&gt;
 
 &lt;li&gt;Browse my computer for driver software -&amp;gt; Let me pick from a list of device drivers on my computer-&amp;gt; Have Disk&lt;/li&gt;
 
@@ -486,9 +514,7 @@
 
         <item>
                 <title>OpenTX Companion v0.97 for OSX</title>
-                <description>&lt;p&gt;Download, open and run installer&lt;br /&gt;Thats it&lt;br /&gt;Have Fun&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/Companion9x.Mac.v.0.97.dmg&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
+                <description>&lt;p&gt;&lt;a href=&quot;https://companion9x.googlecode.com/files/Companion9x.Mac.v.0.97.dmg&quot;&gt;Download Link&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://www.open-tx.org/2012/09/02/companion9x-v097-for-osx</link>
                 <guid>http://www.open-tx.org/2012/09/02/companion9x-v097-for-osx</guid>
                 <pubDate>2012-09-02T00:00:00+02:00</pubDate>

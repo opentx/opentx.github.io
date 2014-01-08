@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Modele magazine article about Open9x (april 2013)"
+title: "French Modele Magazine article about Open9x (April 2013)"
 description: ""
 category: ""
 tags: [Documents]
