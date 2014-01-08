@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9x Modifications"
+title: "9x Modifications FR"
 description: ""
 category: ""
 tags: [Documents, French]

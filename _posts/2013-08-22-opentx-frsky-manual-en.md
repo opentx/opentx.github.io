@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenTX for Taranis Manual"
+title: "English OpenTX Taranis Manual"
 description: ""
 category: ""
 tags: [Documents, English]

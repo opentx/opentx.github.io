@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open9x User Guide"
+title: "Czech Open9x User Guide"
 description: ""
 category: ""
 tags: [Documents, Czech]
