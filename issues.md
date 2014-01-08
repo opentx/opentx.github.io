@@ -18,7 +18,7 @@ The issue is then closed by a OpenTX administrator.
 It is a good idea to also check the closed issues before  you open a new one.  
  
 [Closed Issues in OpenTX](https://github.com/opentx/opentx/issues?labels=Radio+Firmware&page=1&state=closed)  
-[Closed Issues in Companion](https://github.com/opentx/opentx/issues?labels=Companionx&page=1&state=closed)  
+[Closed Issues in Companion](https://github.com/opentx/opentx/issues?labels=Companion&page=1&state=closed)  
 
 When you are sure that your issue is a new one, you can go ahead and add it to the database.  
 
