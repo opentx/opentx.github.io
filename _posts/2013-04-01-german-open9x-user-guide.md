@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "German Open9x User Guide"
+title: "Open9x User Guide"
 description: ""
 category: ""
 tags: [Documents, German]

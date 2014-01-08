@@ -32,14 +32,7 @@ You find the latest OpenTX Companion versions in [Downloads](downloads.html).
   <div class="post_info">
     <li>
          <span>{{ post.date | date_to_string }} </span>          
- 
-         {% if post.tags contains 'Italian' %} <img src="assets/images/flags/it.png"> {% endif %}         
-         {% if post.tags contains 'French' %}  <img src="assets/images/flags/fr.png"> {% endif %}
-         {% if post.tags contains 'German' %}  <img src="assets/images/flags/de.png"> {% endif %}
-         {% if post.tags contains 'English' %} <img src="assets/images/flags/gb.png"> {% endif %}
-         {% if post.tags contains 'Czech' %}   <img src="assets/images/flags/cz.png"> {% endif %}
-         {% if post.tags contains 'Polish' %}  <img src="assets/images/flags/pl.png"> {% endif %}
-
+         {% include display_flags.html %}
          <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </li>
     </div>

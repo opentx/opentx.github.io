@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenTX for 9x French Manual"
+title: "OpenTX for 9x Manual"
 description: ""
 category: ""
 tags: [Documents, French]
