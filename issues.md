@@ -9,7 +9,7 @@ Bug reports and enhancement ideas are reported in a common database. The posts i
 If you you want to contribute a new idea or report a problem, you can add an issue to the database.  
 The first step is to check so that the issue does not already exist.   
  
-[All Open Issues](https://github.com/opentx/opentx/issues)  
+[All Open Issues](https://github.com/opentx/opentx/issues?labels=&milestone=&page=1&state=open)  
 [Open Issues in OpenTX](https://github.com/opentx/opentx/issues?labels=Radio+Firmware&page=1&state=open)  
 [Open Issues in Companion](https://github.com/opentx/opentx/issues?labels=Companion9x&page=1&state=open)  
 
