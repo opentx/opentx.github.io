@@ -26,15 +26,14 @@ Then you select the firmware configuration you want and let OpenTX Companion dow
 You find the latest OpenTX Companion versions in [Downloads](downloads.html).
     
 ## [News](news.html)
-
 <ul class="posts">
-{% for post in site.posts %}
+{% for post in site.tags.News %}
   <div class="post_info">
     <li>
-         <span>{{ post.date | date_to_string }} </span>          
          {% include display_flags.html %}
-         <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
     </li>
     </div>
-  {% endfor %}
+{% endfor %}
 </ul>

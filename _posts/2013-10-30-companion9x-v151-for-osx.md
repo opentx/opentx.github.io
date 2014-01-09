@@ -3,7 +3,7 @@ layout: post
 title: "OpenTX Companion v1.51 for OSX"
 description: ""
 category: ""
-tags: [Releases]
+tags: [Releases, News]
 ---
 {% include JB/setup %}
 OpenTX Companion MacOSX Full Setup  

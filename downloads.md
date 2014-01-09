@@ -12,23 +12,35 @@ You use OpenTX Companion to select exactly which options you want to have enable
 You can check the release history of OpenTX firmware [on this page](https://github.com/opentx/opentx/releases)
 
 ## OpenTX Companion Releases
-{% for tag in site.tags %} 
-{% if tag[0] == "Releases" %}
-  <ul>
-    {% assign pages_list = tag[1] %}  
-    {% include JB/pages_list %}
-  </ul>
-{% endif %}
+<ul class="posts">
+
+<!-- Insert Fixed List Items Here -->
+
+{% for post in site.tags.Releases %}
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
 {% endfor %}
+</ul>
+
 You can check the release history of Companion [on this page](https://github.com/opentx/opentx/wiki/Companion-Changelog)
 
 ## Other Downloads
-{% for tag in site.tags %} 
-{% if tag[0] == "Downloads" %}
-  <ul>
-    {% assign pages_list = tag[1] %}  
-    {% include JB/pages_list %}
-  </ul>
-{% endif %}
+<ul class="posts">
+
+<!-- Insert Fixed List Items Here -->
+
+{% for post in site.tags.Downloads %}
+  <div class="post_info">
+    <li>
+         {% include display_flags.html %}
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
 {% endfor %}
+</ul>
 

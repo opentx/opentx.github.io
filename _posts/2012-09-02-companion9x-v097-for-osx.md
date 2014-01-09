@@ -3,7 +3,7 @@ layout: post
 title: "OpenTX Companion v0.97 for OSX"
 description: ""
 category: ""
-tags: [Releases]
+tags: [Releases, News]
 ---
 {% include JB/setup %}
 

@@ -6,8 +6,10 @@ group: navigation
 ---
 {% include JB/setup %}
 
-
 <ul class="posts">
+
+<!-- Insert Fixed List Items Here -->
+
 {% for post in site.tags.Documents %}
   <div class="post_info">
     <li>
@@ -16,5 +18,5 @@ group: navigation
          <span>({{ post.date | date:"%Y-%m-%d" }})</span>
     </li>
     </div>
-  {% endfor %}
+{% endfor %}
 </ul>
