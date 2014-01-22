@@ -8,7 +8,7 @@ group: navigation
 
 The following radios and radio boards are compatible with OpenTX. 
 
-![Taranis](assets/images/head_taranis.png)
+<img src="assets/images/head_taranis.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_taranis.jpg"></td><td>
 <p style="text-align:left">
@@ -22,7 +22,7 @@ SD data logger  <br>
 </p>
 </td></tr></table>
 
-![9XR](assets/images/head_9xr.png)
+<img src="assets/images/head_9xr.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_9xr.png"></td><td>
 <p style="text-align:left">
@@ -32,7 +32,7 @@ ATmega128 8-bit 16MHz  <br>
 </p>
 </td></tr></table>
 
-![FlySky9x](assets/images/head_flysky9x.png)
+<img src="assets/images/head_flysky9x.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_flysky9x.png"></td><td>
 <p style="text-align:left">
@@ -43,7 +43,7 @@ A lot of mods supported (audio, voice, telemetry, rotary encoder navigation, ...
 </p>
 </td></tr></table>
 
-![SkyNorth](assets/images/head_sky9x.png)
+<img src="assets/images/head_sky9x.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_sky.png"></td><td>
 <p style="text-align:left">
@@ -57,7 +57,7 @@ SD data logger  <br>
 </p>
 </td></tr></table>
 
-![Gruvin9x](assets/images/head_gruvin9x.png)
+<img src="assets/images/head_gruvin9x.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_gruvin.png"></td><td>
 <p style="text-align:left">
