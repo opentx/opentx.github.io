@@ -5,7 +5,7 @@ tagline: Improving yourTx
 ---
 {% include JB/setup %}
 
-## This is the future home of OpenTX  
+## This is the home of OpenTX  
 The OpenTX team is currently hard at work preparing the next major release of OpenTX firmware and OpenTX Companion.  
 Both will be announced here when they are finished.  
 In the mean time the old home page is available and functional. We intend to keep it that way until we are done with the move. 
