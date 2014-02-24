@@ -22,8 +22,8 @@ It is a good idea to also check the closed issues before  you open a new one.
 
 When you are sure that your issue is a new one, you can go ahead and add it to the database.  
 
-[Create New OpenTX Issue](https://github.com/opentx/opentx/issues/new?labels=Radio)  
-[Create New Companion Issue](https://github.com/opentx/opentx/issues/new?labels=Companion)
+[Create New OpenTX Issue](https://github.com/opentx/opentx/issues/new?labels=Radio_Firmware#)  
+[Create New Companion Issue](https://github.com/opentx/opentx/issues/new?labels=Companion#)
 
 
 
