@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 Bug reports and enhancement ideas are reported in a common database. The posts in the database are referred to as "issues".  
-If you you want to contribute a new idea or report a problem, you can add an issue to the database.  
+If you want to contribute a new idea or report a problem, you can add an issue to the database.  
 The first step is to check so that the issue does not already exist.   
  
 [All Open Issues](https://github.com/opentx/opentx/issues?labels=&milestone=&page=1&state=open)  
