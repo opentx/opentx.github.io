@@ -13,4 +13,6 @@ OpenTX Speaker is intended for use on Windows Vista and later. The reason is tha
 
 The program does not need any installation. Just unpack and run it. If you generate sound files for the Taranis, they will end up in the folder that you started the program in.
   
-[Download Link](https://dl.dropboxusercontent.com/u/17640459/OpenTXspeak.zip)
+[Download Link](https://dl.dropboxusercontent.com/u/17640459/OpenTXspeak.zip)   
+
+[[../assets/images/speaker_logo.png]]
