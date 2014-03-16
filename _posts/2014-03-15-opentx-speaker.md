@@ -19,6 +19,6 @@ The program does not need any installation. Just unpack and run it.
   
 [Download Link](https://dl.dropboxusercontent.com/u/17640459/OpenTXspeak.zip)   
 
-![](/assets/images/speaker_logo.png)
+![](/assets/images/opentx-speaker-logo.png)
 
 
