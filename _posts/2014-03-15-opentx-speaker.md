@@ -17,7 +17,7 @@ OpenTX Speaker is intended for use on Windows Vista and later. The reason is tha
 
 The program does not need any installation. Just unpack and run it.
   
-[Download Link](https://dl.dropboxusercontent.com/u/17640459/OpenTXspeak.zip)   
+[Download Link](https://dl.dropboxusercontent.com/u/17640459/OpenTXspeaker.zip)   
 
 ![](/assets/images/opentx-speaker-logo.png)
 
