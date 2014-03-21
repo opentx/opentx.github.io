@@ -15,7 +15,8 @@ OpenTX Companion is available for Windows, Apple OSX and Linux.
 
 ## ![OpenTX Sound Logo](/assets/images/opentx-sound-logo.png)
 There are two applicaions available for creating and managing the soundfiles used by OpenTX.   
-***OpenTX Speaker is used*** to generate synthetic speech files for OpenTX. ***OpenTX Recorder*** is a specialised voice recording program for capturing voice messages for OpenTX. Both programs can generate sound files for all OpenTX voice languages. Every radio meassage, including system messages, can be changed.   
+**OpenTX Speaker** is used to generate voice files for OpenTX by using synthetic speech. **OpenTX Recorder** is used to record voice files via a microphone.   
+Both programs can generate sound files for all OpenTX voice languages. Every radio meassage, including system messages, can be changed.   
 OpenTX Speaker and OpenTXRecorder are available for Windows7.
 
 ## Installation
