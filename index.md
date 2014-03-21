@@ -13,10 +13,10 @@ Read more about [which radios are supported](radios.html).
 The team also develops the OpenTX Companion transmitter support software. OpenTX Companion is used for many different tasks like loading OpenTX firmware to the radio, backing up model settings, editing settings and running radio simulators.   
 OpenTX Companion is available for Windows, Apple OSX and Linux.
 
-## ![OpenTX Speaker Logo](/assets/images/opentx-speaker-logo.png)
-## ![OpenTX Recorder Logo](/assets/images/opentx-recorder-logo.png)
-OpenTX Speaker is used to generate synthetic speech files for OpenTX. OpenTX Recorder is a specialised voice recording program for capturing voice messages for OpenTX. Both programs can generate sound files for all OpenTX voice languages. Every radio meassage, including system messages, can be changed.   
-OpenTX Speaker and OpenTXRecorder are available for Windows7 and later.
+## ![OpenTX Sound Logo](/assets/images/opentx-sound-logo.png)
+There are two applicaions available for creating and managing the soundfiles used by OpenTX.   
+***OpenTX Speaker is used*** to generate synthetic speech files for OpenTX. ***OpenTX Recorder*** is a specialised voice recording program for capturing voice messages for OpenTX. Both programs can generate sound files for all OpenTX voice languages. Every radio meassage, including system messages, can be changed.   
+OpenTX Speaker and OpenTXRecorder are available for Windows7.
 
 ## Installation
 The first step to upgrade your radio with the latest OpenTX version is to install OpenTX Companion on your computer.  
