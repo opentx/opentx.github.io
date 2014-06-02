@@ -22,7 +22,7 @@ Do like this:
 * Download the wizard from here: [Download Link](http://lua-20.open-tx.org/wizard.zip) 
 
 
-* UNzip the files.
+* Unzip the files.
 
 
 * Create a folder on the microSD card called TEMPLATES 
