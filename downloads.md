@@ -28,6 +28,39 @@ You can check the release history of OpenTX firmware [on this page](https://gith
 
 You can check the release history of Companion [on this page](https://github.com/opentx/opentx/wiki/Companion-Changelog)
 
+
+## OpenTX Sound
+<ul class="posts">
+
+<!-- Insert Fixed List Items Here -->
+
+{% for post in site.tags.Sound %}
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+{% endfor %}
+</ul>
+
+
+## LUA Scripts 
+<ul class="posts">
+
+<!-- Insert Fixed List Items Here -->
+
+{% for post in site.tags.LUA %}
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+{% endfor %}
+</ul>
+
+
 ## Other Downloads
 <ul class="posts">
 

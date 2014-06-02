@@ -3,7 +3,7 @@ layout: post
 title: "Wizard LUA script for OpenTX 2.0"
 description: ""
 category: ""
-tags: [News, Downloads, LUA]
+tags: [News, LUA]
 ---
 {% include JB/setup %}
 

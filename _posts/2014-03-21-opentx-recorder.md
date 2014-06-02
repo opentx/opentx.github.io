@@ -3,7 +3,7 @@ layout: post
 title: "OpenTX Recorder - Voice recorder for Taranis"
 description: ""
 category: ""
-tags: [News, Downloads]
+tags: [News, Sound]
 ---
 {% include JB/setup %}
 

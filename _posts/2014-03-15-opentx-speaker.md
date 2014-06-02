@@ -3,7 +3,7 @@ layout: post
 title: "OpenTX Speaker - Voice generator for Taranis"
 description: ""
 category: ""
-tags: [News, Downloads]
+tags: [News, Sound]
 ---
 {% include JB/setup %}
 
