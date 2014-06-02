@@ -3,7 +3,7 @@ layout: post
 title: "Some advanced features for gliders"
 description: ""
 category: ""
-tags: [Downloads]
+tags: [Documents, French, English]
 ---
 {% include JB/setup %}
 * Full flaperon and quadroflap setup
