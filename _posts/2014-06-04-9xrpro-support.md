@@ -9,7 +9,7 @@ tags: [News]
 
 HobbyKing just released the Turnigy 9XR PRO. 
 
-OpenTX 2.0 is available for the 9XR PRO from the start. OpenTX Companion 2 can be used to download the firmware firmware version, just like for the other radios.
+OpenTX 2.0 is available for the 9XR PRO from the start. OpenTX Companion 2 will be able to to download OpenTX 2.0 firmware for the new 9XR PRO, just like for the other radios.
   
 ![](/assets/images/9xrprologo.png)
 
