@@ -22,6 +22,19 @@ SD data logger  <br>
 </p>
 </td></tr></table>
 
+<img src="assets/images/head_9xrpro.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_9xrpro.png"></td><td>
+<p style="text-align:left">
+ARM Cortex M3 32-bit 36MHz  <br>
+60 models + infinite on SD  <br>
+9 flight modes  <br>
+Telemetry Interface through Futaba trainer jack<br>
+Advanced audio functions (voice files from SD, vario, ...)<br>
+SD data logger<br>
+</p>
+</td></tr></table>
+
 <img src="assets/images/head_9xr.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_9xr.png"></td><td>
