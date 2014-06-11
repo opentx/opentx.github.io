@@ -12,7 +12,7 @@ The following radios and radio boards are compatible with OpenTX.
 
 <table><tr><td style="width:220px"><img src="assets/images/img_taranis.jpg"></td><td>
 <p style="text-align:left">
-ARM Cortex M3 32-bit 60MHz  <br>
+ARM Cortex M3 32-bit 120MHz  <br>
 212x64 LCD with gray scales  <br>
 60 models + infinite on SD  <br>
 9 flight modes  <br>
