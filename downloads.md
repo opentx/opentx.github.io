@@ -11,7 +11,7 @@ You use OpenTX Companion to select exactly which options you want to have enable
   
 You can check the release history of OpenTX firmware [on this page](https://github.com/opentx/opentx/releases)
 
-## OpenTX Companion
+## OpenTX Companion Releases
 <ul class="posts">
 
 <!-- Insert Fixed List Items Here -->
@@ -45,15 +45,7 @@ You can check the release history of Companion [on this page](https://github.com
 </ul>
 
 
-## OpenTX Images
-<ul>
-<li><a href="icons-taranis.html">Taranis Model Icons</a></li>
-<li><a href="screens-taranis.html">Taranis Start Screens</a></li>
-<li><a href="screens-9x.html">9X/9XR Start Screens</a></li>
-</ul>
-
-
-## OpenTX LUA Scripts 
+## LUA Scripts 
 <ul class="posts">
 
 <!-- Insert Fixed List Items Here -->
