@@ -181,9 +181,6 @@
 - name: "e-raze.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/e-raze.bmp
-- name: "f27q stryker.bmp"
-  type: image
-  url: assets/images/icons-taranis/Flying_Wings/f27q stryker.bmp
 - name: "flying-wing.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/flying-wing.bmp
@@ -223,9 +220,6 @@
 - name: "wildthing.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/wildthing.bmp
-- name: "wing.bmp"
-  type: image
-  url: assets/images/icons-taranis/Flying_Wings/wing.bmp
 - name: "wingwing.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/wingwing.bmp
