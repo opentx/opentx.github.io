@@ -10,7 +10,7 @@ These start screens are checked by the OpenTX team and work well in the Taranis.
 <ul>
 {% for pic in site.data.screens-taranis %}
 <a href="assets/images/screens-taranis/{{ pic.name }}" download="{{ pic.name }}" title="{{ pic.name }}">
-   <img src="assets/images/screens-taranis/{{ pic.name }}" alt="{{ pic.name }}" style="border:1px solid black" />
+   <img src="assets/images/screens-taranis/{{ pic.name }}" alt="{{ pic.name }}" style="border:1px solid black" width="212" height="64" />
 </a> 
 {% endfor %}
 </ul>

@@ -10,7 +10,7 @@ These model icons are checked by the OpenTX team and work well in the Taranis. C
 <ul>
 {% for pic in site.data.icons-taranis %}
 <a href="assets/images/icons-taranis/{{ pic.name }}" download="{{ pic.name }}" title="{{ pic.name }}">
-   <img src="assets/images/icons-taranis/{{ pic.name }}" alt="{{ pic.name }}" style="border:1px solid black" />
+   <img src="assets/images/icons-taranis/{{ pic.name }}" alt="{{ pic.name }}" style="border:1px solid black" width="64" height="32" />
 </a> 
 {% endfor %}
 </ul>
