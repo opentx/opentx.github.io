@@ -181,12 +181,18 @@
 - name: "e-raze.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/e-raze.bmp
-- name: "fjultra.bmp"
-  type: image
-  url: assets/images/icons-taranis/Flying_Wings/fjultra.bmp
 - name: "flying-wing.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/flying-wing.bmp
+- name: "funjet-1.bmp"
+  type: image
+  url: assets/images/icons-taranis/Flying_Wings/funjet-1.bmp
+- name: "funjet-2.bmp"
+  type: image
+  url: assets/images/icons-taranis/Flying_Wings/funjet-2.bmp
+- name: "funjet-3.bmp"
+  type: image
+  url: assets/images/icons-taranis/Flying_Wings/funjet-3.bmp
 - name: "funjet.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/funjet.bmp
@@ -650,15 +656,6 @@
 - name: "extra300sp.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/extra300sp.bmp
-- name: "funjet-1.bmp"
-  type: image
-  url: assets/images/icons-taranis/Low_Winged_Planes/funjet-1.bmp
-- name: "funjet.bmp"
-  type: image
-  url: assets/images/icons-taranis/Low_Winged_Planes/funjet.bmp
-- name: "ga.bmp"
-  type: image
-  url: assets/images/icons-taranis/Low_Winged_Planes/ga.bmp
 - name: "galaxy.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/galaxy.bmp
