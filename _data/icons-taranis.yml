@@ -33,18 +33,18 @@
 - name: "fokkerdr1.bmp"
   type: image
   url: assets/images/icons-taranis/Biplanes/fokkerdr1.bmp
-- name: "m-gemini.bmp"
+- name: "gemini.bmp"
   type: image
-  url: assets/images/icons-taranis/Biplanes/m-gemini.bmp
+  url: assets/images/icons-taranis/Biplanes/gemini.bmp
 - name: "minisaturn.bmp"
   type: image
   url: assets/images/icons-taranis/Biplanes/minisaturn.bmp
+- name: "nieuport11.bmp"
+  type: image
+  url: assets/images/icons-taranis/Biplanes/nieuport11.bmp
 - name: "nieuport17.bmp"
   type: image
   url: assets/images/icons-taranis/Biplanes/nieuport17.bmp
-- name: "nieuportxi.bmp"
-  type: image
-  url: assets/images/icons-taranis/Biplanes/nieuportxi.bmp
 - name: "pitts-m12.bmp"
   type: image
   url: assets/images/icons-taranis/Biplanes/pitts-m12.bmp
@@ -104,21 +104,30 @@
 - name: "bixler2.bmp"
   type: image
   url: assets/images/icons-taranis/Electrical_Gliders/bixler2.bmp
+- name: "blizzard.bmp"
+  type: image
+  url: assets/images/icons-taranis/Electrical_Gliders/blizzard.bmp
+- name: "easystar.bmp"
+  type: image
+  url: assets/images/icons-taranis/Electrical_Gliders/easystar.bmp
 - name: "ehawk.bmp"
   type: image
   url: assets/images/icons-taranis/Electrical_Gliders/ehawk.bmp
 - name: "electrafun.bmp"
   type: image
   url: assets/images/icons-taranis/Electrical_Gliders/electrafun.bmp
+- name: "ezglider.bmp"
+  type: image
+  url: assets/images/icons-taranis/Electrical_Gliders/ezglider.bmp
 - name: "fox.bmp"
   type: image
   url: assets/images/icons-taranis/Electrical_Gliders/fox.bmp
+- name: "gracia-1.bmp"
+  type: image
+  url: assets/images/icons-taranis/Electrical_Gliders/gracia-1.bmp
 - name: "gracia.bmp"
   type: image
   url: assets/images/icons-taranis/Electrical_Gliders/gracia.bmp
-- name: "gracia2.bmp"
-  type: image
-  url: assets/images/icons-taranis/Electrical_Gliders/gracia2.bmp
 - name: "grafas-2.bmp"
   type: image
   url: assets/images/icons-taranis/Electrical_Gliders/grafas-2.bmp
@@ -128,15 +137,6 @@
 - name: "greensleev.bmp"
   type: image
   url: assets/images/icons-taranis/Electrical_Gliders/greensleev.bmp
-- name: "m-blizzard.bmp"
-  type: image
-  url: assets/images/icons-taranis/Electrical_Gliders/m-blizzard.bmp
-- name: "m-easystar.bmp"
-  type: image
-  url: assets/images/icons-taranis/Electrical_Gliders/m-easystar.bmp
-- name: "m-ezglider.bmp"
-  type: image
-  url: assets/images/icons-taranis/Electrical_Gliders/m-ezglider.bmp
 - name: "merlin.bmp"
   type: image
   url: assets/images/icons-taranis/Electrical_Gliders/merlin.bmp
@@ -181,24 +181,21 @@
 - name: "e-raze.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/e-raze.bmp
+- name: "fjultra.bmp"
+  type: image
+  url: assets/images/icons-taranis/Flying_Wings/fjultra.bmp
 - name: "flying-wing.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/flying-wing.bmp
-- name: "flyingw.bmp"
+- name: "funjet.bmp"
   type: image
-  url: assets/images/icons-taranis/Flying_Wings/flyingw.bmp
+  url: assets/images/icons-taranis/Flying_Wings/funjet.bmp
 - name: "gulp.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/gulp.bmp
 - name: "ifo-mk3.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/ifo-mk3.bmp
-- name: "m-fjultra.bmp"
-  type: image
-  url: assets/images/icons-taranis/Flying_Wings/m-fjultra.bmp
-- name: "m-funjet.bmp"
-  type: image
-  url: assets/images/icons-taranis/Flying_Wings/m-funjet.bmp
 - name: "popwing.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/popwing.bmp
@@ -264,9 +261,6 @@
 - name: "efair.bmp"
   type: image
   url: assets/images/icons-taranis/Gliders/efair.bmp
-- name: "eflite-ask-21.bmp"
-  type: image
-  url: assets/images/icons-taranis/Gliders/eflite-ask-21.bmp
 - name: "eso.bmp"
   type: image
   url: assets/images/icons-taranis/Gliders/eso.bmp
@@ -279,27 +273,24 @@
 - name: "fox-glider.bmp"
   type: image
   url: assets/images/icons-taranis/Gliders/fox-glider.bmp
+- name: "fox.bmp"
+  type: image
+  url: assets/images/icons-taranis/Gliders/fox.bmp
 - name: "gpfling.bmp"
   type: image
   url: assets/images/icons-taranis/Gliders/gpfling.bmp
 - name: "ka8b.bmp"
   type: image
   url: assets/images/icons-taranis/Gliders/ka8b.bmp
-- name: "le fish.bmp"
+- name: "le-fish.bmp"
   type: image
-  url: assets/images/icons-taranis/Gliders/le fish.bmp
-- name: "m-fox.bmp"
-  type: image
-  url: assets/images/icons-taranis/Gliders/m-fox.bmp
+  url: assets/images/icons-taranis/Gliders/le-fish.bmp
 - name: "mystique.bmp"
   type: image
   url: assets/images/icons-taranis/Gliders/mystique.bmp
 - name: "pilatus.bmp"
   type: image
   url: assets/images/icons-taranis/Gliders/pilatus.bmp
-- name: "planeur.bmp"
-  type: image
-  url: assets/images/icons-taranis/Gliders/planeur.bmp
 - name: "s2g_satyr.bmp"
   type: image
   url: assets/images/icons-taranis/Gliders/s2g_satyr.bmp
@@ -335,9 +326,6 @@
 - name: "atom.bmp"
   type: image
   url: assets/images/icons-taranis/Helicopters/atom.bmp
-- name: "auto-g.bmp"
-  type: image
-  url: assets/images/icons-taranis/Helicopters/auto-g.bmp
 - name: "avro90.bmp"
   type: image
   url: assets/images/icons-taranis/Helicopters/avro90.bmp
@@ -386,9 +374,6 @@
 - name: "raptor.bmp"
   type: image
   url: assets/images/icons-taranis/Helicopters/raptor.bmp
-- name: "rex600n.bmp"
-  type: image
-  url: assets/images/icons-taranis/Helicopters/rex600n.bmp
 - name: "synergy.bmp"
   type: image
   url: assets/images/icons-taranis/Helicopters/synergy.bmp
@@ -404,6 +389,9 @@
 - name: "trex600.bmp"
   type: image
   url: assets/images/icons-taranis/Helicopters/trex600.bmp
+- name: "trex600n.bmp"
+  type: image
+  url: assets/images/icons-taranis/Helicopters/trex600n.bmp
 - name: "trex700.bmp"
   type: image
   url: assets/images/icons-taranis/Helicopters/trex700.bmp
@@ -424,24 +412,15 @@
 - name: "apprentice.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/apprentice.bmp
-- name: "beaver-1.bmp"
-  type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/beaver-1.bmp
 - name: "beaver.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/beaver.bmp
-- name: "bnislander.bmp"
-  type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/bnislander.bmp
 - name: "canadair.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/canadair.bmp
 - name: "carbon-cub.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/carbon-cub.bmp
-- name: "cessna.bmp"
-  type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/cessna.bmp
 - name: "cessna182.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/cessna182.bmp
@@ -451,15 +430,15 @@
 - name: "cessna337.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/cessna337.bmp
-- name: "cessnah2o.bmp"
-  type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/cessnah2o.bmp
 - name: "decathlon-1.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/decathlon-1.bmp
 - name: "decathlon.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/decathlon.bmp
+- name: "do-228.bmp"
+  type: image
+  url: assets/images/icons-taranis/High_Winged_Planes/do-228.bmp
 - name: "ember2.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/ember2.bmp
@@ -475,30 +454,21 @@
 - name: "j3cub.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/j3cub.bmp
-- name: "m-mentor.bmp"
+- name: "mentor.bmp"
   type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/m-mentor.bmp
-- name: "m-twinstar.bmp"
-  type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/m-twinstar.bmp
+  url: assets/images/icons-taranis/High_Winged_Planes/mentor.bmp
 - name: "monocoup.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/monocoup.bmp
 - name: "mulligan.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/mulligan.bmp
-- name: "pby.bmp"
+- name: "pc-6.bmp"
   type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/pby.bmp
-- name: "pc-6 icon.bmp"
-  type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/pc-6 icon.bmp
+  url: assets/images/icons-taranis/High_Winged_Planes/pc-6.bmp
 - name: "reliant.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/reliant.bmp
-- name: "seawind.bmp"
-  type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/seawind.bmp
 - name: "slow-stick.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/slow-stick.bmp
@@ -517,9 +487,6 @@
 - name: "taylorcraft.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/taylorcraft.bmp
-- name: "tidewater.bmp"
-  type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/tidewater.bmp
 - name: "toledo.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/toledo.bmp
@@ -529,9 +496,9 @@
 - name: "twinotter.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/twinotter.bmp
-- name: "twinstar2.bmp"
+- name: "twinstar.bmp"
   type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/twinstar2.bmp
+  url: assets/images/icons-taranis/High_Winged_Planes/twinstar.bmp
 - name: "ultra-stick.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/ultra-stick.bmp
@@ -561,6 +528,9 @@
 - name: "eurof.bmp"
   type: image
   url: assets/images/icons-taranis/Jets/eurof.bmp
+- name: "evader.bmp"
+  type: image
+  url: assets/images/icons-taranis/Jets/evader.bmp
 - name: "f117.bmp"
   type: image
   url: assets/images/icons-taranis/Jets/f117.bmp
@@ -588,15 +558,6 @@
 - name: "falcon.bmp"
   type: image
   url: assets/images/icons-taranis/Jets/falcon.bmp
-- name: "funjet-1.bmp"
-  type: image
-  url: assets/images/icons-taranis/Jets/funjet-1.bmp
-- name: "funjet.bmp"
-  type: image
-  url: assets/images/icons-taranis/Jets/funjet.bmp
-- name: "gpevader.bmp"
-  type: image
-  url: assets/images/icons-taranis/Jets/gpevader.bmp
 - name: "habu.bmp"
   type: image
   url: assets/images/icons-taranis/Jets/habu.bmp
@@ -606,12 +567,6 @@
 - name: "j35.bmp"
   type: image
   url: assets/images/icons-taranis/Jets/j35.bmp
-- name: "liner.bmp"
-  type: image
-  url: assets/images/icons-taranis/Jets/liner.bmp
-- name: "mig.bmp"
-  type: image
-  url: assets/images/icons-taranis/Jets/mig.bmp
 - name: "mig_bot.bmp"
   type: image
   url: assets/images/icons-taranis/Jets/mig_bot.bmp
@@ -656,9 +611,6 @@
 - name: "carbonz.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/carbonz.bmp
-- name: "cartoon.bmp"
-  type: image
-  url: assets/images/icons-taranis/Low_Winged_Planes/cartoon.bmp
 - name: "chipmunk.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/chipmunk.bmp
@@ -677,9 +629,6 @@
 - name: "crackyak.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/crackyak.bmp
-- name: "dragonfly.bmp"
-  type: image
-  url: assets/images/icons-taranis/Low_Winged_Planes/dragonfly.bmp
 - name: "drone.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/drone.bmp
@@ -701,6 +650,12 @@
 - name: "extra300sp.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/extra300sp.bmp
+- name: "funjet-1.bmp"
+  type: image
+  url: assets/images/icons-taranis/Low_Winged_Planes/funjet-1.bmp
+- name: "funjet.bmp"
+  type: image
+  url: assets/images/icons-taranis/Low_Winged_Planes/funjet.bmp
 - name: "ga.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/ga.bmp
@@ -752,15 +707,9 @@
 - name: "perc-gull.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/perc-gull.bmp
-- name: "piper-pawnee.bmp"
-  type: image
-  url: assets/images/icons-taranis/Low_Winged_Planes/piper-pawnee.bmp
 - name: "piper.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/piper.bmp
-- name: "plane.bmp"
-  type: image
-  url: assets/images/icons-taranis/Low_Winged_Planes/plane.bmp
 - name: "pulse xt.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/pulse xt.bmp
@@ -779,9 +728,6 @@
 - name: "shoestring.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/shoestring.bmp
-- name: "silhouette.bmp"
-  type: image
-  url: assets/images/icons-taranis/Low_Winged_Planes/silhouette.bmp
 - name: "spark-1.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/spark-1.bmp
@@ -838,18 +784,15 @@
   url: assets/images/icons-taranis/Low_Winged_Planes/zoom.bmp
 - name: "Miscellaneous"
   type: title
-- name: "bald-eagle.bmp"
+- name: "auto-g.bmp"
   type: image
-  url: assets/images/icons-taranis/Miscellaneous/bald-eagle.bmp
+  url: assets/images/icons-taranis/Miscellaneous/auto-g.bmp
 - name: "buddyb_w.bmp"
   type: image
   url: assets/images/icons-taranis/Miscellaneous/buddyb_w.bmp
 - name: "buddyb_wl.bmp"
   type: image
   url: assets/images/icons-taranis/Miscellaneous/buddyb_wl.bmp
-- name: "fish.bmp"
-  type: image
-  url: assets/images/icons-taranis/Miscellaneous/fish.bmp
 - name: "gemini.bmp"
   type: image
   url: assets/images/icons-taranis/Miscellaneous/gemini.bmp
@@ -865,9 +808,6 @@
 - name: "radio.bmp"
   type: image
   url: assets/images/icons-taranis/Miscellaneous/radio.bmp
-- name: "shark.bmp"
-  type: image
-  url: assets/images/icons-taranis/Miscellaneous/shark.bmp
 - name: "Multirotors"
   type: title
 - name: "discovery.bmp"
@@ -900,6 +840,32 @@
 - name: "v939.bmp"
   type: image
   url: assets/images/icons-taranis/Multirotors/v939.bmp
+- name: "Sea_Planes"
+  type: title
+- name: "beaver.bmp"
+  type: image
+  url: assets/images/icons-taranis/Sea_Planes/beaver.bmp
+- name: "bnislander.bmp"
+  type: image
+  url: assets/images/icons-taranis/Sea_Planes/bnislander.bmp
+- name: "catalina.bmp"
+  type: image
+  url: assets/images/icons-taranis/Sea_Planes/catalina.bmp
+- name: "cessnah2o.bmp"
+  type: image
+  url: assets/images/icons-taranis/Sea_Planes/cessnah2o.bmp
+- name: "dragonfly.bmp"
+  type: image
+  url: assets/images/icons-taranis/Sea_Planes/dragonfly.bmp
+- name: "pby.bmp"
+  type: image
+  url: assets/images/icons-taranis/Sea_Planes/pby.bmp
+- name: "seawind.bmp"
+  type: image
+  url: assets/images/icons-taranis/Sea_Planes/seawind.bmp
+- name: "tidewater.bmp"
+  type: image
+  url: assets/images/icons-taranis/Sea_Planes/tidewater.bmp
 - name: "WW2_Planes"
   type: title
 - name: "avrolanc.bmp"
@@ -914,18 +880,9 @@
 - name: "b26.bmp"
   type: image
   url: assets/images/icons-taranis/WW2_Planes/b26.bmp
-- name: "bf109f.bmp"
-  type: image
-  url: assets/images/icons-taranis/WW2_Planes/bf109f.bmp
-- name: "catalina.bmp"
-  type: image
-  url: assets/images/icons-taranis/WW2_Planes/catalina.bmp
 - name: "criticalma.bmp"
   type: image
   url: assets/images/icons-taranis/WW2_Planes/criticalma.bmp
-- name: "do-228.bmp"
-  type: image
-  url: assets/images/icons-taranis/WW2_Planes/do-228.bmp
 - name: "dogfighter.bmp"
   type: image
   url: assets/images/icons-taranis/WW2_Planes/dogfighter.bmp
@@ -944,9 +901,12 @@
 - name: "hurricane.bmp"
   type: image
   url: assets/images/icons-taranis/WW2_Planes/hurricane.bmp
-- name: "m-schmitt.bmp"
+- name: "me109-1.bmp"
   type: image
-  url: assets/images/icons-taranis/WW2_Planes/m-schmitt.bmp
+  url: assets/images/icons-taranis/WW2_Planes/me109-1.bmp
+- name: "me109.bmp"
+  type: image
+  url: assets/images/icons-taranis/WW2_Planes/me109.bmp
 - name: "mosquito.bmp"
   type: image
   url: assets/images/icons-taranis/WW2_Planes/mosquito.bmp
@@ -959,15 +919,15 @@
 - name: "p47.bmp"
   type: image
   url: assets/images/icons-taranis/WW2_Planes/p47.bmp
+- name: "p51-1.bmp"
+  type: image
+  url: assets/images/icons-taranis/WW2_Planes/p51-1.bmp
+- name: "p51-2.bmp"
+  type: image
+  url: assets/images/icons-taranis/WW2_Planes/p51-2.bmp
 - name: "p51.bmp"
   type: image
   url: assets/images/icons-taranis/WW2_Planes/p51.bmp
-- name: "p51d.bmp"
-  type: image
-  url: assets/images/icons-taranis/WW2_Planes/p51d.bmp
-- name: "p51mustang.bmp"
-  type: image
-  url: assets/images/icons-taranis/WW2_Planes/p51mustang.bmp
 - name: "pt19.bmp"
   type: image
   url: assets/images/icons-taranis/WW2_Planes/pt19.bmp
