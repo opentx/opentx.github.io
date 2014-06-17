@@ -29,6 +29,14 @@ Current content tags are: **Documents, Downloads, Releases, News**. Current lang
 * Test your changes and commit+push the new files to the remote repository.  
 * The publication is now done automatically by github!  
 
+## Adding model images or start screens
+Jekyll builds static web pages, which means that there is no way to add content on a page based on checked in files. The model icon page and the start screen pages basically consist of lists of image files. Adding static links to each individual image would be error prone and boring. A python script has been developed to handle this task.
+To update the model icon page or the start screen pages the python script is started. The script browses through the image directories and builds three index files. The index files are then checked into github along with any new or modified image files. Do like this:
+* Add the new image files to the proper directories (assets/images/...)
+* Update image file names (if needed)
+* Run the script from the root directory of the page. This is where all your .md pages are: "python update-indexes.py"
+* Commit and push the changes to the github repository
+
 ## Jekyll-Bootstrap Documentation and help.
 For all JekyllBootstrap documentation please see: <http://jekyllbootstrap.com>  
 The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com  
