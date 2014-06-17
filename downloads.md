@@ -58,7 +58,7 @@ You can check the release history of Companion [on this page](https://github.com
 
 <!-- Insert Fixed List Items Here -->
 
-{% for post in site.tags.LUA %}
+{% for post in site.tags.Lua %}
   <div class="post_info">
     <li>
          <a href="{{ post.url }}">{{ post.title }}</a>
