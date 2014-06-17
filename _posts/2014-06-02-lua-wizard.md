@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Wizard LUA script for OpenTX 2.0"
+title: "Wizard Lua script for OpenTX 2.0"
 description: ""
 category: ""
-tags: [News, LUA]
+tags: [News, Lua]
 ---
 {% include JB/setup %}
 
@@ -13,7 +13,7 @@ A long standing request for OpenTX is a more beginner friendly way of setting up
 This is why the OpenTX team have added a model Wizard function for OpenTX 2.0. The model wizard will let you answer a number of questions and as a result a model will be set up for you according to your specific model.
 
 
-The Wizard is implemented in LUA-scripting and is not part of the actual OpenTX firmware. This means that the you need to download and place the wizard files on the microSD-card in the radio yourself. Support for this may be added to Companion at a later time, but at the moment the installation is manual.
+The Wizard is implemented in Lua-scripting and is not part of the actual OpenTX firmware. This means that the you need to download and place the wizard files on the microSD-card in the radio yourself. Support for this may be added to Companion at a later time, but at the moment the installation is manual.
 
 Other limitations are that the wizard is only available in English and for the Taranis.
 
