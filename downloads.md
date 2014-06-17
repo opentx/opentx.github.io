@@ -6,12 +6,12 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## OpenTX Firmware
+## OpenTX Firmware - Current: 2.0.2
 You use OpenTX Companion to select exactly which options you want to have enabled in your radio. A firmware file with these options is prepared for you by our build server and downloaded to your PC. OpenTX Companion is then used to load the firmware to your radio.  
   
 You can check the release history of OpenTX firmware [on this page](https://github.com/opentx/opentx/releases)
 
-## OpenTX Companion
+## OpenTX Companion - Current: 2.0.2
 <ul class="posts">
 
 <!-- Insert Fixed List Items Here -->
