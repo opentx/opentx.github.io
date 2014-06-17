@@ -6,7 +6,7 @@ In order to maintain the site, you need to clone the opentx.github.io repository
 
 ## Site Structure
 The site consists of pages in the root folder and posts in the _posts folder. The rest of the site is include files and will only need to be changed to alter the appearance and function, not to add content.  
-All pages with a YAML heading are automatically included in the menu of the site.
+Pages on a the top level that has a YAML heading and a group property looking like this: "group: Navigation" are automatically included in the menu of the site.
 The normal way of adding content is to add new posts, rather than editing existing pages.
 
 ## Adding a Post
