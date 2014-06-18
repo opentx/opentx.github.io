@@ -25,10 +25,10 @@ Do like this:
 * Unzip the files.
 
 
-* Create a folder on the microSD card called TEMPLATES 
+* Create a folder on the microSD card called TEMPLATES (OpenTX 2.0.1 - 2.0.2) or /SCRIPTS/WIZARD (OpenTX 2.0.3  or greater) 
 
 
-* Place all the unzipped files in the TEMPLATES folder.
+* Place all the unzipped files in the folder.
 
 
 That is it. The next time you create a model in OpenTX 2.0, the wizard will be opened and lead you through the definition.
