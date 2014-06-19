@@ -53,7 +53,10 @@ You can check the release history of Companion [on this page](https://github.com
 </ul>
 
 
-## OpenTX Lua Scripts 
+## OpenTX Lua Scripts
+ 
+Before using Lua you should read the [Lua Instructions](lua-instructions.html) 
+
 <ul class="posts">
 
 <!-- Insert Fixed List Items Here -->
