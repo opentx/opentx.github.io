@@ -39,9 +39,16 @@ Please note that all persistent scripts are halted during the execution of one t
 The script folders have been reorganized in OpenTX 2.0.3. The folder structure looks like this:
 
 * /SCRIPTS/WIZARD/ - For the Wizard script
-* /SCRIPTS/MIXES - For model scripts
+* /SCRIPTS/MIXES/ - For model scripts
 * /SCRIPTS/FUNCTIONS/ - For function scripts
 * /SCRIPTS/<<modelname>>/telemXX.lua - For telemetry scripts
 * /SCRIPTS/TEMPLATES/ - For template scripts 
 
 More folders may be added over time. 
+
+### Make your own scripts
+The scripts are text files. Anyone can edit them and change how they work. If you would like to try this there is a section in the OpenTX development wiki that will be helpefull:
+
+[Wiki Link](https://github.com/opentx/opentx/wiki/Lua-scripting-in-OpenTX)
+
+The easiest way to develop scripts is to first test them in the OpenTX Taranis simulator. When things seem to work as far as the simulator goes, you transfer the scripts to the radio and test them there.
