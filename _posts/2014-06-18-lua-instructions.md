@@ -8,38 +8,41 @@ tags: [Lua]
 {% include JB/setup %}
 
 ## What is Lua?
-Support for Lua-scripting is a new feature in OpenTX 2.0. Lua-scripts are stored in text files and are loaded and unloaded whenever they are needed by the radio. The scripts are not part of the firmware. They are rather customization options.
-One limitation (due to RAM usage) is on the scripts count. 7 is the maximum (shared by all categories). 
+Lua is a general purpose scripting language. Support for Lua-scripting is a new feature in OpenTX 2.0. Lua-scripts are stored in text files and are loaded and unloaded whenever they are needed by the radio. The scripts are not part of the firmware. They are firmware customization options.
 
-### Lua script types
-There are five kinds of of OpenTX lua scripts. One time scripts, Model scripts, Function scripts, Telemetry scripts and Template scripts. They all use the same script language, but are used in slightly different roles. 
+### Persistent scripts
+Persistent scripts are loaded by the radio and run until they are no longer needed. Several scripts may be active at the same time. There is a limitation (due to RAM usage) on the number of persistent scripts. 7 is the maximum (shared by all categories). If a script uses too much memory or processor time it will be forcefully terminated.
 
-- One time scripts
+There are three kinds of of OpenTX persistent lua scripts. Model scripts, Function scripts and Telemetry scripts. They all use the same script language, but are used in slightly different roles. 
 
-  The wizard is currently the only one time script. These scripts start when called upon by a specific radio function. They do their task and are then terminate and unloaded. 
+- **Model scripts**
+  A model script runs on a continuous basis once loaded into a model. As long as the model is selected, the script is running. You should never use a model script for calculating any sort of input that is vital to your model. Remember that scripts may be terminated at any time. 
 
-- Model scripts
+- **Function scripts (new in 2.0.3)**
+  Scripts that can be called from the Special Functions screen. Much like the available firmware functions.  
 
-  A model script runs on a continuous basis once loaded into a model. As long as the model is selected, the script is running. If a model script uses too much memory or processor time it will be forcefully terminated. You obviously do not want to use a model script for calculating any sort of input vital to your model, since any scripting error can lead to unexpected terminations. 
+- **Telemetry scripts (planned for 2.0.4)**
+  Used for building customized telemetry screens. Theorically it is possible to have up to 7 custom telemetry screens, all written in Lua. It is possible to use different scripts on a per model basis.
 
-- Function scripts (new in 2.0.3)
+### One time scripts
 
-  Scripts that can be called from the Special Functions screen. Much like the available firmware functions.
+These scripts start when called upon by a specific radio function or when the user selects them from a contextual menu. They do their task and are then terminated and unloaded.
+Please note that all persistant scripts are halted during the execution of one time scripts. They are automatically restarted once the one time script is finnished. This is done to provide enough system resources to execute the one time script.
 
-- Telemetry scripts (planned for 2.0.4)
+- **The model wizard script**
+  This scripts adds a wizard function to the radio that provides guidance in setting up models. Once installed it is called automatically when a model is created.
 
-  Used for building customized telemetry screens. Theorically it will be possible to have up to 7 custom telemetry screens, all written in Lua. It is possible to use different scripts on a per model basis.
-
-- Template scripts (planned for 2.0.5)
-
-  These scripts will be available in a contextual menu, just like the Wizard.
+- **Template scripts (planned for 2.0.5)**
+  Functionality not yet described.
 
 
 ### Folder structure
 The script folders have been reorganized in OpenTX 2.0.3. The folder structure looks like this:
 
-* /SCRIPTS/WIZARD/ - For the Wizard one time script
+* /SCRIPTS/WIZARD/ - For the Wizard script
 * /SCRIPTS/MIXES - For model scripts
 * /SCRIPTS/FUNCTIONS/ - For function scripts
-* /SCRIPTS/<<modelname>>/telemXX.lua - For telemetry screen scripts
+* /SCRIPTS/<<modelname>>/telemXX.lua - For telemetry scripts
 * /SCRIPTS/TEMPLATES/ - For template scripts 
+
+More folders may be added over time. 
