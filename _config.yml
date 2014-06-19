@@ -25,6 +25,11 @@ author :
 #
 production_url : http://www.open-tx.org
 
+# Github is planning to switch from the current Maruku markdown parser, since Maruku has 
+# become obsolete. Kramdown will be used instead. Rather than waiting for the inevitable
+# we take the plunge right away.
+markdown: kramdown
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -126,3 +131,4 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+
