@@ -26,7 +26,7 @@ You can check the release history of OpenTX firmware [on this page](https://gith
 {% endfor %}
 </ul>
 
-You can check the release history of Companion [on this page](https://github.com/opentx/opentx/wiki/Companion-Changelog)
+You can check the release history of Companion [on this page](https://raw.githubusercontent.com/opentx/opentx/master/companion/releasenotes.txt)
 
 
 ## OpenTX Sound
