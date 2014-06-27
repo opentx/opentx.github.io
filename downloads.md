@@ -11,6 +11,8 @@ You use OpenTX Companion to select exactly which options you want to have enable
   
 You can check the release history of OpenTX firmware [on this page](https://github.com/opentx/opentx/releases)
 
+For people wanting to upgrade a Taranis from a pre-2.0 version (either OpenTX or the FrSky firmware) and who have a working "DfuSe Demonstration" flashing setup (as per FrSky instructions), a copy of OpenTX 2.0.5 packaged in a .dfu file is available [here](http://downloads-20.open-tx.org/companion/opentx-taranis-en-2.0.5.dfu).
+
 ## OpenTX Companion - Current: 2.0.5
 <ul class="posts">
 
