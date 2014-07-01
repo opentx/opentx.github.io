@@ -17,10 +17,10 @@ There are three kinds of OpenTX persistent Lua scripts. Model scripts, Function 
 - **Model scripts**
   A model script runs on a continuous basis once loaded into a model. As long as the model is selected, the script is running. You should never use a model script for calculating any sort of input that is vital to your model. Remember that scripts may be terminated at any time. 
 
-- **Function scripts (new in 2.0.3)**
+- **Function scripts (added in 2.0.3)**
   Scripts that can be called from the Special Functions screen. Much like the available firmware functions.  
 
-- **Telemetry scripts (planned for 2.0.4)**
+- **Telemetry scripts (added in 2.0.4)**
   Used for building customized telemetry screens. Theoretically it is possible to have up to 7 custom telemetry screens, all written in Lua. It is possible to use different scripts on a per model basis.
 
 ### One time scripts
@@ -31,12 +31,12 @@ Please note that all persistent scripts are halted during the execution of one t
 - **The model wizard script**
   This scripts adds a wizard function to the radio that provides guidance in setting up models. Once installed it is called automatically when a model is created.
 
-- **Template scripts (planned for 2.0.5)**
+- **Template scripts (planned feature)**
   Functionality not yet described.
 
 
 ### Folder structure
-The script folders have been reorganized in OpenTX 2.0.3. The folder structure looks like this:
+The script folders were reorganized in OpenTX 2.0.3. The folder structure in OpenTX 2.0.3 or later looks like this:
 
 * /SCRIPTS/WIZARD/ - For the Wizard script
 * /SCRIPTS/MIXES/ - For model scripts
