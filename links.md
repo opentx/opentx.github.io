@@ -7,17 +7,17 @@ group: navigation
 {% include JB/setup %}
 
 ## OpenTX
-[OpenTX GitHub Project](https://github.com/opentx/opentx)
+[OpenTX GitHub Project](https://github.com/opentx/opentx)  
 [OpenTX RSS Feed](rss.xml)  
 [OpenTX Development Wiki](https://github.com/opentx/opentx/wiki)  
-[OpenTX Web Site Maintenance](https://github.com/opentx/opentx.github.io)
-[OpenTX Old Home Page](https://code.google.com/p/opentx) on google code
+[OpenTX Web Site Maintenance](https://github.com/opentx/opentx.github.io)  
+[OpenTX Old Home Page](https://code.google.com/p/opentx) on google code  
 
 ## OpenTX Users Mailing List
 
 <div>
 <form action="http://groups.google.com/group/opentx-users/boxsubscribe" id="formconf" onsubmit="msgbox()">
-  Email: <input type="text" name="email" id="emailconf">
+  Enter your email: <input type="text" name="email" id="emailconf">
   <input type="submit" value="Subscribe">
 </form>
 </div>
