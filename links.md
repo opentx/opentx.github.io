@@ -14,6 +14,7 @@ group: navigation
 [OpenTX Old Home Page](https://code.google.com/p/opentx) on google code
 
 ## OpenTX Users Mailing List
+
 <form action="http://groups.google.com/group/opentx-users/boxsubscribe" id="formconf" onsubmit="msgbox()">
   Email: <input type=text name=email id="emailconf">
   <input type="submit" value="Subscribe">
