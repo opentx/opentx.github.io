@@ -15,10 +15,12 @@ group: navigation
 
 ## OpenTX Users Mailing List
 
+<div>
 <form action="http://groups.google.com/group/opentx-users/boxsubscribe" id="formconf" onsubmit="msgbox()">
   Email: <input type=text name=email id="emailconf">
   <input type="submit" value="Subscribe">
 </form>
+</div>
 
 ## Community
 [openRCforums](http://openrcforums.com) developer forum  
