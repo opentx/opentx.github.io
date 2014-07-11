@@ -7,10 +7,26 @@ group: navigation
 {% include JB/setup %}
 
 ## OpenTX
-[OpenTX Old Home Page](https://code.google.com/p/opentx) on google code  
+[OpenTX GitHub Project](https://github.com/opentx/opentx)
 [OpenTX RSS Feed](rss.xml)  
 [OpenTX Development Wiki](https://github.com/opentx/opentx/wiki)  
-[OpenTX Web Site Maintenance](https://github.com/opentx/opentx.github.io)  
+[OpenTX Web Site Maintenance](https://github.com/opentx/opentx.github.io)
+[OpenTX Old Home Page](https://code.google.com/p/opentx) on google code
+
+## OpenTX Users Mailing List
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/forum/embed/?place=forum/opentx-users'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script>
 
 ## Community
 [openRCforums](http://openrcforums.com) developer forum  
