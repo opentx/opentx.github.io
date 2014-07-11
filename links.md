@@ -17,7 +17,7 @@ group: navigation
 
 <div>
 <form action="http://groups.google.com/group/opentx-users/boxsubscribe" id="formconf" onsubmit="msgbox()">
-  Email: <input type=text name=email id="emailconf">
+  Email: <input type="text" name="email" id="emailconf">
   <input type="submit" value="Subscribe">
 </form>
 </div>
