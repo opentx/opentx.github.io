@@ -14,19 +14,6 @@ group: navigation
 [OpenTX Old Home Page](https://code.google.com/p/opentx) on google code
 
 ## OpenTX Users Mailing List
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="900"
-  height="700">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/forum/embed/?place=forum/opentx-users'
-     + '&showsearch=true&showpopout=true&showtabs=false'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script>
 
 ## Community
 [openRCforums](http://openrcforums.com) developer forum  
