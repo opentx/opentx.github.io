@@ -8,6 +8,7 @@ group: navigation
 
 ## OpenTX
 [OpenTX GitHub Project](https://github.com/opentx/opentx)  
+[OpenTX University](http://open-txu.org)  
 [OpenTX RSS Feed](rss.xml)  
 [OpenTX Development Wiki](https://github.com/opentx/opentx/wiki)  
 [OpenTX Web Site Maintenance](https://github.com/opentx/opentx.github.io)  
