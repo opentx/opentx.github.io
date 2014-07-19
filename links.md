@@ -23,6 +23,10 @@ group: navigation
 </form>
 </div>
 
+## OpenTX Developers Mailing Lists
+[opentx-dev](https://groups.google.com/forum/#!forum/opentx-dev) - all commits notifications sent there
+[opentx-doc](https://groups.google.com/forum/#!forum/opentx-doc)
+
 ## Community
 [openRCforums](http://openrcforums.com) developer forum  
 [companion9x](https://code.google.com/p/companion9x) home page on google code  
