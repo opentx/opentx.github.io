@@ -24,7 +24,7 @@ group: navigation
 </div>
 
 ## OpenTX Developers Mailing Lists
-[opentx-dev](https://groups.google.com/forum/#!forum/opentx-dev) - all commits notifications sent there
+[opentx-dev](https://groups.google.com/forum/#!forum/opentx-dev) (all commits notifications are sent there) 
 [opentx-doc](https://groups.google.com/forum/#!forum/opentx-doc)
 
 ## Community
