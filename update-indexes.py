@@ -1,3 +1,5 @@
+#! python2
+
 import os
 
 print 'Updating icons-taranis' 
