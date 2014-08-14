@@ -42,6 +42,9 @@
 - name: "minisaturn.bmp"
   type: image
   url: assets/images/icons-taranis/Biplanes/minisaturn.bmp
+- name: "mong.bmp"
+  type: image
+  url: assets/images/icons-taranis/Biplanes/mong.bmp
 - name: "nieuport11.bmp"
   type: image
   url: assets/images/icons-taranis/Biplanes/nieuport11.bmp
@@ -196,15 +199,15 @@
   url: assets/images/icons-taranis/Electrical_Gliders/zephyr.bmp
 - name: "Flying_Wings"
   type: title
-- name: "DeltaRay.bmp"
-  type: image
-  url: assets/images/icons-taranis/Flying_Wings/deltaray.bmp
 - name: "alula.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/alula.bmp
 - name: "c-ray.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/c-ray.bmp
+- name: "deltaray.bmp"
+  type: image
+  url: assets/images/icons-taranis/Flying_Wings/deltaray.bmp
 - name: "e-raze.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/e-raze.bmp
@@ -535,9 +538,6 @@
 - name: "mentor.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/mentor.bmp
-- name: "mong.bmp"
-  type: image
-  url: assets/images/icons-taranis/High_Winged_Planes/mong.bmp
 - name: "monocoup.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/monocoup.bmp
