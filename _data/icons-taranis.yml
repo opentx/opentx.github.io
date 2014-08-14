@@ -196,6 +196,9 @@
   url: assets/images/icons-taranis/Electrical_Gliders/zephyr.bmp
 - name: "Flying_Wings"
   type: title
+- name: "DeltaRay.bmp"
+  type: image
+  url: assets/images/icons-taranis/Flying_Wings/deltaray.bmp
 - name: "alula.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/alula.bmp
@@ -496,6 +499,9 @@
 - name: "cessna337.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/cessna337.bmp
+- name: "champ.bmp"
+  type: image
+  url: assets/images/icons-taranis/High_Winged_Planes/champ.bmp
 - name: "decathlo-1.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/decathlo-1.bmp
@@ -529,6 +535,9 @@
 - name: "mentor.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/mentor.bmp
+- name: "mong.bmp"
+  type: image
+  url: assets/images/icons-taranis/High_Winged_Planes/mong.bmp
 - name: "monocoup.bmp"
   type: image
   url: assets/images/icons-taranis/High_Winged_Planes/monocoup.bmp
@@ -978,6 +987,9 @@
 - name: "X650pro.bmp"
   type: image
   url: assets/images/icons-taranis/Multirotors/X650pro.bmp
+- name: "diatone.bmp"
+  type: image
+  url: assets/images/icons-taranis/Multirotors/diatone.bmp
 - name: "discovery.bmp"
   type: image
   url: assets/images/icons-taranis/Multirotors/discovery.bmp
