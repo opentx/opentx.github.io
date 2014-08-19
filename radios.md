@@ -8,6 +8,18 @@ group: navigation
 
 The following radios and radio boards are compatible with OpenTX. 
 
+<img src="assets/images/head_taranisplus.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_taranisplus.jpg"></td><td>
+<p style="text-align:left">
+New version of Taranis with:  <br>
+Haptic vibration <br>
+Multi colored LCD background light <br>
+Improved LCD display  <br>
+Improved audio circuits <br>
+</p>
+</td></tr></table>
+
 <img src="assets/images/head_taranis.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_taranis.jpg"></td><td>
