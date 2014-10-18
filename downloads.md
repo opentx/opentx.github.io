@@ -21,9 +21,9 @@ We recommend "normal users" not to jump on a new major revision straight away as
 
 Currently, the major versions of OpenTX are:
 <ul>
-<li>companion9x v1.52 - OpenTX firmware r2940 (stable)
-<li>OpenTX 2.0 (public, unstable)
-<li>OpenTX 2.1 (early development, developers only)
+<li>companion9x v1.52 - OpenTX firmware r2940 (stable)</li>
+<li>OpenTX 2.0 (public, unstable)</li>
+<li>OpenTX 2.1 (early development, developers only)</li>
 </ul>
 
 Major releases are independent, so companion9x 1.52 will download firmware up to r2940, OpenTX companion 2.0.x will download firmware 2.0.x, OpenTX companion 2.1.x will download firmware 2.1.x etc. Updates between major versions are manual, you need to download the required companion yourself, no updates will be automatically offered. When upgrading from one major version to the next it is recommended to backup both your current firmware and settings, and to thoroughly check all of your models' functions still operate correctly after the built-in upgrade procedure has completed. Downgrading models and settings is not possible, so should you want to switch back to an older major version you will need to either reload your backup or start from scratch again.
