@@ -28,7 +28,7 @@ Currently, the major versions of OpenTX are:
 
 Major releases are independent, so companion9x 1.52 will download firmware up to r2940, OpenTX companion 2.0.x will download firmware 2.0.x, OpenTX companion 2.1.x will download firmware 2.1.x etc. Updates between major versions are manual, you need to download the required companion yourself, no updates will be automatically offered. When upgrading from one major version to the next it is recommended to backup both your current firmware and settings, and to thoroughly check all of your models' functions still operate correctly after the built-in upgrade procedure has completed. Downgrading models and settings is not possible, so should you want to switch back to an older major version you will need to either reload your backup or start from scratch again.
  
-You can check the release history of OpenTX [on this page](https://github.com/opentx/opentx/releases)
+You can check the release history of OpenTX [on this page](https://github.com/opentx/opentx/releases).
  
 ## OpenTX Companion downloads
 
@@ -48,7 +48,7 @@ You can check the release history of OpenTX [on this page](https://github.com/op
 
 ## OpenTX firmware downloads
 
-Firmware downloads are exclusively available from within OpenTX companion's "Download" dialog. OpenTX Companion needs to be configured for the proper radio type and with the firmware options you choose, so that a customised firmware file with these options can prepared for you by our build server and downloaded to your PC. OpenTX Companion is then used to load the firmware to your radio.  
+Firmware downloads are exclusively available from within OpenTX companion's "Download" dialog. OpenTX Companion needs to be configured for the proper radio type and with the firmware options you choose, so that a customised firmware file with these options can be prepared for you by our build server and downloaded to your PC. OpenTX Companion is then used to load the firmware to your radio.  
 
 ## OpenTX Sound
 <ul class="posts">
