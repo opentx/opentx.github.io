@@ -7,9 +7,9 @@ group: navigation
 {% include JB/setup %}
 
 ## For Taranis users
-Please note that your radio has been delivered with a firmware that is customised and exclusive to FrSky, and is not part of the OpenTX team's offerings and development cycle. It is supposed to be used on its own, exclusively on the radio (no companion), and is supported directly by FrSky which means that should something not work or any feature request should be expressed directly to them. 
-It is stable and suitable for most usage cases, and is the preferred version that most Taranis owners should likely be using. 
-Switching to the OpenTX team's releases should be considered an "advanced" usage scenario that will require some computer knowledge, a bunch of reading to find out about the differences and may cause headaches if things don't go as expected. Be sure to read the paragraph below about how OpenTX versioning works.
+Please note that your radio has been delivered with a firmware that is customised and exclusive to FrSky, and is not part of the OpenTX team's offerings and development cycle. It is supposed to be used on its own, exclusively on the radio (no companion), and is supported directly by FrSky which means that should something not work or any feature request should be expressed directly to them. It is stable and suitable for most usage cases, and is the preferred version that most Taranis owners should likely be using. 
+
+Switching to the OpenTX team's releases and using tools like companion should be considered an "advanced" usage scenario that will require some computer knowledge, a bunch of reading to find out about the differences and may cause headaches if things don't go as expected. Be sure to read the paragraph below about how OpenTX versioning works, and to always use matching combinations of companion and firmware.
 The "original" Taranis comes with a version derived from OpenTX r2940, while the Taranis Plus comes with a version derived from OpenTX 2.0. If you want to switch your firmware to OpenTX and keep the known behavior you should stick to those major versions. Besides, the Taranis Plus will not work with OpenTX versions older than 2.0.10.
 
 ## About OpenTX versions
