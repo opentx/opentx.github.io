@@ -21,12 +21,11 @@ We recommend "normal users" not to jump on a new major revision straight away as
 
 Currently, the major versions of OpenTX are:
 <ul>
-<li>companion9x v1.52 - OpenTX firmware r2940 (stable)</li>
-<li>OpenTX 2.0 (public, unstable)</li>
-<li>OpenTX 2.1 (early development, developers only)</li>
+<li>OpenTX 2.0 (public, stable)</li>
+<li>OpenTX 2.1 (unstable, developers only)</li>
 </ul>
 
-Major releases are independent, so companion9x 1.52 will download firmware up to r2940, OpenTX companion 2.0.x will download firmware 2.0.x, OpenTX companion 2.1.x will download firmware 2.1.x etc. Updates between major versions are manual, you need to download the required companion yourself, no updates will be automatically offered. When upgrading from one major version to the next it is recommended to backup both your current firmware and settings, and to thoroughly check all of your models' functions still operate correctly after the built-in upgrade procedure has completed. Downgrading models and settings is not possible, so should you want to switch back to an older major version you will need to either reload your backup or start from scratch again.
+Major releases are independent, OpenTX companion 2.0.x will download firmware 2.0.x, OpenTX companion 2.1.x will download firmware 2.1.x etc. Updates between major versions are manual, you need to download the required companion yourself, no updates will be automatically offered. When upgrading from one major version to the next it is recommended to backup both your current firmware and settings, and to thoroughly check all of your models' functions still operate correctly after the built-in upgrade procedure has completed. Downgrading models and settings is not possible, so should you want to switch back to an older major version you will need to either reload your backup or start from scratch again.
  
 You can check the release history of OpenTX [on this page](https://github.com/opentx/opentx/releases).
  
@@ -110,3 +109,4 @@ Before using Lua you should read the [Lua Instructions](lua-instructions.html)
 </ul>
 
 For users wanting to upgrade a Taranis from a pre-2.0 version (either OpenTX or the FrSky firmware) who can't get the DFU driver installed with Zadig but have a working "DfuSe Demonstration" flashing setup (as per FrSky instructions), a copy of OpenTX 2.0.5 packaged in a .dfu file is available [here](http://downloads-20.open-tx.org/companion/opentx-taranis-en-2.0.5.dfu). Flash this using the FrSky method, then upgrade to the latest available version using the bootloader.
+<!--  -->
