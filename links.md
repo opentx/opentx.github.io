@@ -28,6 +28,7 @@ group: navigation
 
 ## OpenTX Developers Mailing Lists
 [opentx-dev](https://groups.google.com/forum/#!forum/opentx-dev) (all commits notifications are sent there)  
+[opentx-beta](https://groups.google.com/forum/#!forum/opentx-beta) (email sent when we need beta tests)  
 [opentx-translations](https://groups.google.com/forum/#!forum/opentx-translations) (email sent each time a translation is needed)  
 [opentx-doc](https://groups.google.com/forum/#!forum/opentx-doc) (for people working on the docs)
 
