@@ -51,10 +51,10 @@ SD data logger<br>
 
 <table><tr><td style="width:220px"><img src="assets/images/img_mega2560.jpg"></td><td>
 <p style="text-align:left">
-Arduino MEGA2660 16MHz  <br>
+Arduino (or clone) MEGA2560 16MHz  <br>
 30 models + infinite on SD  <br>
 6 flight modes  <br>
-1 rotary encoder for navigation <br>
+2 rotary encoders (one can be used for navigation) <br>
 Telemetry<br>
 SD data logger<br>
 </p>
