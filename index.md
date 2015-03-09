@@ -2,6 +2,7 @@
 layout: page
 title: Welcome to OpenTX
 tagline: Improving yourTx
+redirect_from: "open-tx.org"
 ---
 {% include JB/setup %}
 
