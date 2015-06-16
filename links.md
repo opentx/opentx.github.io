@@ -24,7 +24,11 @@ group: navigation
 
 ## OpenTX Nightly Builds
 [stable](http://jenkins.open-tx.org/nightly-20)  
-[unstable](http://jenkins.open-tx.org/nightly-21)  
+[unstable](http://jenkins.open-tx.org/nightly-21)
+
+## OpenTX Sound Packs
+[stable](http://voices-20.open-tx.org)  
+[unstable](http://voices-21.open-tx.org)
 
 ## OpenTX Developers Mailing Lists
 [opentx-dev](https://groups.google.com/forum/#!forum/opentx-dev) (all commits notifications are sent there)  
