@@ -6,8 +6,6 @@ redirect_from: "open-tx.org"
 ---
 {% include JB/setup %}
 
-## ![He drew first](/assets/images/hedrewfirst.jpg) ![Je suis Charlie](/assets/images/jesuischarlie.jpg) 
-
 ## ![OpenTX Logo](/assets/images/opentx-firmware-logo.png)
 OpenTX is open source firmware for RC radio transmitters. The firmware is highly configurable and brings much more features than found in traditional radios. The daily feadback from the thousands of users ensures the continued stability and quality of the firmware.  
 Read more about [which radios are supported](radios.html).  
