@@ -6,17 +6,24 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## For Taranis users
-Please note that your radio has been delivered with a firmware that is customised and exclusive to FrSky, and is not part of the OpenTX team's offerings and development cycle. It is supposed to be used on its own, exclusively on the radio (no companion), and is supported directly by FrSky which means that should something not work or any feature request should be expressed directly to them. It is stable and suitable for most usage cases, and is the preferred version that most Taranis owners should likely be using. 
+## OpenTX downloads
 
-Switching to the OpenTX team's releases and using tools like companion should be considered an "advanced" usage scenario that will require some computer knowledge, a bunch of reading to find out about the differences and may cause headaches if things don't go as expected. Be sure to read the paragraph below about how OpenTX versioning works, and to always use matching combinations of companion and firmware.
-<ul>
-<li>The "original" Taranis comes with a version derived from OpenTX 1.0</li>
-<li>Taranis Plus comes with a version derived from OpenTX 2.0</li>
-<li>Taranis X9E comes with a version derived from OpenTX 2.1</li>
+<ul class="posts">
+
+<!-- Insert Fixed List Items Here -->
+
+{% for post in site.tags.Releases %}
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+{% endfor %}
 </ul>
-If you want to switch your firmware to OpenTX and keep the known behavior you should stick to those major versions.
-Besides, the Taranis Plus will not work with OpenTX versions older than 2.0.10 and Taranis X9E will not work with OpenTX versions older than 2.1.0.
+
+Firmware downloads are exclusively available from within OpenTX Companion's "Download" dialog. OpenTX Companion needs to be configured for the proper radio type and with the firmware options you choose, so that a customised firmware file with these options can be prepared for you by our build server and downloaded to your PC. OpenTX Companion is then used to load the firmware to your radio.  
+
 
 ## About OpenTX versions
 OpenTX versions are delivered as sets of major and minor releases. Major releases represent big steps with lots of feature changes and new functionality, which require changes in the way model data is stored and thus breaks compatibility with the previous one. Minor releases within a major one will fix bugs, correct functionality that needs changes, add new functionality that doesn't require breaking compatibility, or remove features that are deemed useless. 
@@ -34,26 +41,20 @@ Currently, the major versions of OpenTX are:
 Major releases are independent, OpenTX companion 2.0.x will download firmware 2.0.x, OpenTX companion 2.1.x will download firmware 2.1.x etc. Updates between major versions are manual, you need to download the required companion yourself, no updates will be automatically offered. When upgrading from one major version to the next it is recommended to backup both your current firmware and settings, and to thoroughly check all of your models' functions still operate correctly after the built-in upgrade procedure has completed. Downgrading models and settings is not possible, so should you want to switch back to an older major version you will need to either reload your backup or start from scratch again.
  
 You can check the release history of OpenTX [on this page](https://github.com/opentx/opentx/releases).
- 
-## OpenTX Companion downloads
 
-<ul class="posts">
 
-<!-- Insert Fixed List Items Here -->
+## For Taranis users
+Please note that your radio has been delivered with a firmware that is customised and exclusive to FrSky, and is not part of the OpenTX team's offerings and development cycle. It is supposed to be used on its own, exclusively on the radio (no companion), and is supported directly by FrSky which means that should something not work or any feature request should be expressed directly to them. It is stable and suitable for most usage cases, and is the preferred version that most Taranis owners should likely be using. 
 
-{% for post in site.tags.Releases %}
-  <div class="post_info">
-    <li>
-         <a href="{{ post.url }}">{{ post.title }}</a>
-         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
-    </li>
-    </div>
-{% endfor %}
+Switching to the OpenTX team's releases and using tools like companion should be considered an "advanced" usage scenario that will require some computer knowledge, a bunch of reading to find out about the differences and may cause headaches if things don't go as expected. Be sure to read the paragraph below about how OpenTX versioning works, and to always use matching combinations of companion and firmware.
+<ul>
+<li>The "original" Taranis comes with a version derived from OpenTX 1.0</li>
+<li>Taranis Plus comes with a version derived from OpenTX 2.0</li>
+<li>Taranis X9E comes with a version derived from OpenTX 2.1</li>
 </ul>
+If you want to switch your firmware to OpenTX and keep the known behavior you should stick to those major versions.
+Besides, the Taranis Plus will not work with OpenTX versions older than 2.0.10 and Taranis X9E will not work with OpenTX versions older than 2.1.0.
 
-## OpenTX firmware downloads
-
-Firmware downloads are exclusively available from within OpenTX companion's "Download" dialog. OpenTX Companion needs to be configured for the proper radio type and with the firmware options you choose, so that a customised firmware file with these options can be prepared for you by our build server and downloaded to your PC. OpenTX Companion is then used to load the firmware to your radio.  
 
 ## OpenTX Sound
 <ul class="posts">

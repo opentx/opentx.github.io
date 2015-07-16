@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wizard Lua script for OpenTX 2.0"
+title: "OpenTX 2.0 - Wizard Lua script"
 description: ""
 category: ""
 tags: [News, Lua]
