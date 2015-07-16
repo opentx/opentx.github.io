@@ -10,7 +10,11 @@ group: navigation
 Please note that your radio has been delivered with a firmware that is customised and exclusive to FrSky, and is not part of the OpenTX team's offerings and development cycle. It is supposed to be used on its own, exclusively on the radio (no companion), and is supported directly by FrSky which means that should something not work or any feature request should be expressed directly to them. It is stable and suitable for most usage cases, and is the preferred version that most Taranis owners should likely be using. 
 
 Switching to the OpenTX team's releases and using tools like companion should be considered an "advanced" usage scenario that will require some computer knowledge, a bunch of reading to find out about the differences and may cause headaches if things don't go as expected. Be sure to read the paragraph below about how OpenTX versioning works, and to always use matching combinations of companion and firmware.
-The "original" Taranis comes with a version derived from OpenTX r2940, while the Taranis Plus comes with a version derived from OpenTX 2.0. If you want to switch your firmware to OpenTX and keep the known behavior you should stick to those major versions. Besides, the Taranis Plus will not work with OpenTX versions older than 2.0.10.
+<li>The "original" Taranis comes with a version derived from OpenTX 1.0</li>
+<li>Taranis Plus comes with a version derived from OpenTX 2.0</li>
+<li>Taranis X9E comes with a version derived from OpenTX 2.1</li>
+If you want to switch your firmware to OpenTX and keep the known behavior you should stick to those major versions.
+Besides, the Taranis Plus will not work with OpenTX versions older than 2.0.10 and Taranis X9E will not work with OpenTX versions older than 2.1.0.
 
 ## About OpenTX versions
 OpenTX versions are delivered as sets of major and minor releases. Major releases represent big steps with lots of feature changes and new functionality, which require changes in the way model data is stored and thus breaks compatibility with the previous one. Minor releases within a major one will fix bugs, correct functionality that needs changes, add new functionality that doesn't require breaking compatibility, or remove features that are deemed useless. 
@@ -21,8 +25,8 @@ We recommend "normal users" not to jump on a new major revision straight away as
 
 Currently, the major versions of OpenTX are:
 <ul>
-<li>OpenTX 2.0 (public, stable)</li>
-<li>OpenTX 2.1 (unstable, developers only)</li>
+<li>OpenTX 2.0</li>
+<li>OpenTX 2.1</li>
 </ul>
 
 Major releases are independent, OpenTX companion 2.0.x will download firmware 2.0.x, OpenTX companion 2.1.x will download firmware 2.1.x etc. Updates between major versions are manual, you need to download the required companion yourself, no updates will be automatically offered. When upgrading from one major version to the next it is recommended to backup both your current firmware and settings, and to thoroughly check all of your models' functions still operate correctly after the built-in upgrade procedure has completed. Downgrading models and settings is not possible, so should you want to switch back to an older major version you will need to either reload your backup or start from scratch again.
