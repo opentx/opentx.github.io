@@ -26,10 +26,6 @@ group: navigation
 [2.0 branch](http://jenkins.open-tx.org/nightly-20)  
 [2.1 branch](http://jenkins.open-tx.org/nightly-21)
 
-## OpenTX Sound Packs
-[For 2.0](http://voices-20.open-tx.org)  
-[For 2.1](http://voices-21.open-tx.org)
-
 ## OpenTX Developers Mailing Lists
 [opentx-dev](https://groups.google.com/forum/#!forum/opentx-dev) (all commits notifications are sent there)  
 [opentx-beta](https://groups.google.com/forum/#!forum/opentx-beta) (email sent when we need beta tests)  
