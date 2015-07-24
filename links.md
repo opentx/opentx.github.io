@@ -23,8 +23,7 @@ group: navigation
 </div>
 
 ## OpenTX Nightly Builds
-[2.1 - master branch (stable)](http://jenkins.open-tx.org/nightly-stable)  
-[2.2 - next branch (unstable)](http://jenkins.open-tx.org/nightly-unstable)
+[2.1 - master branch (stable)](http://downloads-21.open-tx.org/nightly/companion)  
 
 ## OpenTX Sound Packs
 [2.0](http://voices-20.open-tx.org)  
