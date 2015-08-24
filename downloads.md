@@ -8,11 +8,53 @@ group: navigation
 
 ## OpenTX downloads
 
+### OpenTX 2.1 branch
+
+Latest OpenTX major version with completely new telemetry handling, please read [this thread](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239) before upgrading from a previous version.
+This branch is the first to support the FrSky Taranis X9E (tray version).
+
 <ul class="posts">
 
 <!-- Insert Fixed List Items Here -->
 
-{% for post in site.tags.Releases %}
+{% for post in site.tags.Releases21 %}
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+{% endfor %}
+</ul>
+
+### OpenTX 2.0 branch
+
+Previous major version, still supported for normal use, no new features will be implemented but bugfixes will still be provided.
+This branch is the first to support the FrSky Taranis Plus and the Turnigy 9XR-Pro.
+
+<ul class="posts">
+
+<!-- Insert Fixed List Items Here -->
+
+{% for post in site.tags.Releases20 %}
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+{% endfor %}
+</ul>
+
+### OpenTX 1.x branch
+
+This branch is the first to support the original FrSky Taranis, and is now deprecated.
+
+<ul class="posts">
+
+<!-- Insert Fixed List Items Here -->
+
+{% for post in site.tags.Releases1x %}
   <div class="post_info">
     <li>
          <a href="{{ post.url }}">{{ post.title }}</a>

@@ -24,7 +24,7 @@ tags: [Documents, French, News]
 ```
 * Edit the title and tags fields. The title is displayed on all site pages as the name of the post.  
 The tags are used to determine which pages that shows the post. Any number of tags can be used.  
-Current content tags are: **Documents, Downloads, Releases, News**. Current language tags are: **Italian, French, Polish, Czech, German, English, Swedish**  
+Current content tags are: **Documents, Downloads, Releases21, Releases20, Releases1x, News**. Current language tags are: **Italian, French, Polish, Czech, German, English, Swedish**  
 * Edit the end of the post file to add some content.  
 * Test your changes and commit+push the new files to the remote repository.  
 * The publication is now done automatically by github!  
