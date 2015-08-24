@@ -10,7 +10,7 @@ group: navigation
 
 ### OpenTX 2.1 branch
 
-Latest OpenTX major version with completely new telemetry handling, please read [this thread](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239) before upgrading from a previous version.
+Latest OpenTX major version with completely new telemetry handling, safe for general use but please be aware that things may still be added or changed in further revisions. Please read [this thread](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239) before upgrading from a previous version, and carefully check the changelogs on each upgrade.
 This branch is the first to support the FrSky Taranis X9E (tray version).
 
 <ul class="posts">
@@ -29,7 +29,7 @@ This branch is the first to support the FrSky Taranis X9E (tray version).
 
 ### OpenTX 2.0 branch
 
-Previous major version, still supported for normal use, no new features will be implemented but bugfixes will still be provided.
+Previous major version, now stable and still supported for normal use, no new features will be implemented but bugfixes will still be provided.
 This branch is the first to support the FrSky Taranis Plus and the Turnigy 9XR-Pro.
 
 <ul class="posts">

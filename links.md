@@ -23,11 +23,7 @@ group: navigation
 </div>
 
 ## OpenTX Nightly Builds
-[2.1 - master branch (stable)](http://downloads-21.open-tx.org/nightly/companion)  
-
-## OpenTX Sound Packs
-[2.0](http://voices-20.open-tx.org)  
-[2.1 and 2.2](http://voices-21.open-tx.org)
+[2.1 - master branch](http://downloads-21.open-tx.org/nightly/companion)  
 
 ## OpenTX Developers Mailing Lists
 [opentx-dev](https://groups.google.com/forum/#!forum/opentx-dev) (all commits notifications are sent there)  
