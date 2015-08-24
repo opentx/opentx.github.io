@@ -65,6 +65,9 @@ This branch is the first to support the original FrSky Taranis, and is now depre
 </ul>
 
 Firmware downloads are exclusively available from within OpenTX Companion's "Download" dialog. OpenTX Companion needs to be configured for the proper radio type and with the firmware options you choose, so that a customised firmware file with these options can be prepared for you by our build server and downloaded to your PC. OpenTX Companion is then used to load the firmware to your radio.  
+
+### Sound packs
+
 Sound packs can be downloaded either through companion (the Download dialog will point you to the correct directory for the selected radio type), or from the links below:
 
 [Sound packs for OpenTX 2.0](http://voices-20.open-tx.org)  
