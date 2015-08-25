@@ -8,6 +8,21 @@ group: navigation
 
 The following radios and radio boards are compatible with OpenTX. 
 
+<img src="assets/images/head_taranisx9e.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_taranisx9e.jpg"></td><td>
+<p style="text-align:left">
+Tray version of Taranis Plus with:<br>
+Color OLED top mounted display for basic telemetry data<br>
+Quality 4 bearing gimbals<br>
+Bluetooth support<br>
+2 additional sliders<br>
+Safe start and safe shutdown power switch<br>
+Haptic vibration <br>
+Improved audio circuits<br>
+</p>
+</td></tr></table>
+
 <img src="assets/images/head_taranisplus.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_taranisplus.jpg"></td><td>
