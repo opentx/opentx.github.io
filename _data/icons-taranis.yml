@@ -99,6 +99,17 @@
 - name: "wacobipe.bmp"
   type: image
   url: assets/images/icons-taranis/Biplanes/wacobipe.bmp
+- name: "Cars"
+  type: title
+- name: "losi-1.bmp"
+  type: image
+  url: assets/images/icons-taranis/Cars/losi-1.bmp
+- name: "losi.bmp"
+  type: image
+  url: assets/images/icons-taranis/Cars/losi.bmp
+- name: "wrangler.bmp"
+  type: image
+  url: assets/images/icons-taranis/Cars/wrangler.bmp
 - name: "Electrical_Gliders"
   type: title
 - name: "alphaclub.bmp"
@@ -211,6 +222,9 @@
 - name: "c-ray.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/c-ray.bmp
+- name: "caipirinha.bmp"
+  type: image
+  url: assets/images/icons-taranis/Flying_Wings/caipirinha.bmp
 - name: "deltaray.bmp"
   type: image
   url: assets/images/icons-taranis/Flying_Wings/deltaray.bmp
@@ -776,6 +790,9 @@
 - name: "addict.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/addict.bmp
+- name: "addixl.bmp"
+  type: image
+  url: assets/images/icons-taranis/Low_Winged_Planes/addixl.bmp
 - name: "angel-s30.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/angel-s30.bmp
@@ -818,6 +835,9 @@
 - name: "crackyak.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/crackyak.bmp
+- name: "dc3.bmp"
+  type: image
+  url: assets/images/icons-taranis/Low_Winged_Planes/dc3.bmp
 - name: "drone.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/drone.bmp
@@ -881,6 +901,9 @@
 - name: "mxs-r.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/mxs-r.bmp
+- name: "nvision.bmp"
+  type: image
+  url: assets/images/icons-taranis/Low_Winged_Planes/nvision.bmp
 - name: "parkmas.bmp"
   type: image
   url: assets/images/icons-taranis/Low_Winged_Planes/parkmas.bmp
@@ -1062,6 +1085,9 @@
 - name: "iris quad.bmp"
   type: image
   url: assets/images/icons-taranis/Multirotors/iris quad.bmp
+- name: "mhq2.bmp"
+  type: image
+  url: assets/images/icons-taranis/Multirotors/mhq2.bmp
 - name: "mqx.bmp"
   type: image
   url: assets/images/icons-taranis/Multirotors/mqx.bmp
@@ -1124,6 +1150,9 @@
 - name: "dragonfly.bmp"
   type: image
   url: assets/images/icons-taranis/Sea_Planes/dragonfly.bmp
+- name: "magnum.bmp"
+  type: image
+  url: assets/images/icons-taranis/Sea_Planes/magnum.bmp
 - name: "pby.bmp"
   type: image
   url: assets/images/icons-taranis/Sea_Planes/pby.bmp
@@ -1210,6 +1239,9 @@
 - name: "me109.bmp"
   type: image
   url: assets/images/icons-taranis/WW2_Planes/me109.bmp
+- name: "me163.bmp"
+  type: image
+  url: assets/images/icons-taranis/WW2_Planes/me163.bmp
 - name: "me163b.bmp"
   type: image
   url: assets/images/icons-taranis/WW2_Planes/me163b.bmp
