@@ -11,5 +11,5 @@ Flashing utility for the Taranis on Mac OS X.
 * Make sure that in OpenTX Companion's Burn Preferences (OpenTX Companion menu -> Preferences) the dfu-util path is set to "/opt/local/bin/dfu-util".
 * Dismiss with OK, and you should now be able to flash.  
 
-[Download Link](http://downloads.open-tx.org/tools/dfu-util-0.7.mpkg)
+[Download Link](http://jenkins.open-tx.org/tools/dfu-util-0.7.mpkg)
 

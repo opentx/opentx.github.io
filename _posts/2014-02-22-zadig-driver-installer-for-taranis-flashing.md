@@ -16,8 +16,8 @@ The Zadig developer (Pete Batard/Akeo) has moved the Zadig home page from Source
 
 Older releases:   
 The older Zadig v2.0.1.160 for Windows XP(no longer recommended):     
-[Download Link](http://downloads.open-tx.org/tools/zadig_xp.exe)
+[Download Link](http://jenkins.open-tx.org/tools/zadig_xp.exe)
 
 
 The older Zadig v2.0.1.160 for Windows Vista and later(no longer recommended:    
-[Download Link](http://downloads.open-tx.org/tools/zadig.exe)
+[Download Link](http://jenkins.open-tx.org/tools/zadig.exe)

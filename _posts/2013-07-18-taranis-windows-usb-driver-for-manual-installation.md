@@ -14,4 +14,4 @@ tags: [Downloads]
 
 If prompted that the driver is not signed, choose Install anyway.
 
-[Download Link](http://downloads.open-tx.org/tools/Taranis_WinUSB_driver.zip)
+[Download Link](http://jenkins.open-tx.org/tools/Taranis_WinUSB_driver.zip)
