@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thanks a lot for the open-tx. Great workgit push origin master !"
+title: "Thanks a lot for the open-tx. Great work !"
 description: ""
 category: ""
 tags: [Feedback]

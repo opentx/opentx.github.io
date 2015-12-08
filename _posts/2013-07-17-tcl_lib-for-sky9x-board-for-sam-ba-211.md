@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "tcl_lib for sky9x board (for SAM BA 2.11)"
+title: "SAM-BA config for Sky9x / 9XR-Pro / AR9X"
 description: ""
 category: ""
 tags: [Downloads]
 ---
 {% include JB/setup %}
-[Download Link](http://jenkins.open-tx.org/tools/tcl_lib_for_SAM-BA_2.11.zip)
+For SAM-BA 2.11 and later
+
+Unzip into SAM-BA's install directory (usually C:\Program Files (x86)\Atmel\sam-ba_[VERSION]\), replacing existing files if prompted.
+
+[Download Link](http://jenkins.open-tx.org/tools/SAM-BA_applets_sky9x_9XRPro_AR9X.zip)
