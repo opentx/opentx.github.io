@@ -10,7 +10,8 @@ group: navigation
 
 ### OpenTX 2.1 branch
 
-Latest OpenTX major version with completely new telemetry handling, safe for general use but please be aware that things may still be added or changed in further revisions. Please read [this thread](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239) before upgrading from a previous version, and carefully check the changelogs on each upgrade.
+Latest OpenTX major version with completely new telemetry handling, safe for general use but please be aware that things may still be added or changed in further revisions. Please read [this thread](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239) before upgrading from a previous version, and carefully check the changelogs on each upgrade. And if you don't read it, at least **take note that upgrading from 2.0 to 2.1 requires you to also upgrade the voice files on your SD card with a pack made for 2.1.**  
+
 This branch is the first to support the FrSky Taranis X9E (tray version).
 
 <ul class="posts">
