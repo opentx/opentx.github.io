@@ -23,7 +23,8 @@ group: navigation
 </div>
 
 ## OpenTX Nightly Builds
-[2.1 - master branch](http://downloads-21.open-tx.org/nightly/companion)  
+[2.1 - 'master' branch](http://downloads-21.open-tx.org/nightly/companion)  
+[2.2 - 'next' branch](http://downloads-22.open-tx.org/nightly/companion)  
 
 ## OpenTX Developers Mailing Lists
 [opentx-dev](https://groups.google.com/forum/#!forum/opentx-dev) (all commits notifications are sent there)  
