@@ -10,4 +10,5 @@ For SAM-BA 2.11 and later
 
 Unzip into SAM-BA's install directory (usually C:\Program Files (x86)\Atmel\sam-ba_[VERSION]\), replacing existing files if prompted.
 
-[Download Link](http://jenkins.open-tx.org/tools/SAM-BA_applets_sky9x_9XRPro_AR9X.zip)
+[SAM-BA](http://jenkins.open-tx.org/tools/sam-ba/sam-ba_2.11.exe)
+[Applets Sky9x/9XR-PRO](http://jenkins.open-tx.org/tools/SAM-BA_applets_sky9x_9XRPro_AR9X.zip)
