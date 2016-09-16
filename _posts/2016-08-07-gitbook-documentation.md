@@ -3,7 +3,7 @@ layout: post
 title: "OpenTX 2.1 For Taranis & LUA Documentation"
 description: ""
 category: ""
-tags: [Documents, French]
+tags: [Documents, English]
 ---
 {% include JB/setup %}
 OpenTX 2.1
