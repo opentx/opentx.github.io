@@ -1,7 +1,19 @@
 # Maintaining the openTX Web
 The OpenTX web is hosted on github. The site is built using Jekyll, which is the default page parsing and serving engine of Github. Maintaining it is done primarily be editing html and markdown wiki pages. 
 
-## Fetch the site
+## Helping Maintain The Site
+First time contributors should first introduce themselves on [![Join the chat at https://opentx.rocket.chat](https://camo.githubusercontent.com/3d659054abd6ce21c0e47cf3b83a51bda69ca282/68747470733a2f2f64656d6f2e726f636b65742e636861742f696d616765732f6a6f696e2d636861742e737667)](https://opentx.rocket.chat)
+
+## Create A Site Fork (You are not a collaborator)
+To make contributions and help maintain the site you will need a GitHub account.
+* Login to GitHub
+* Goto https://github.com/opentx/opentx.github.io
+* Click on "Fork" located top right (Video https://www.youtube.com/watch?v=yr6IzOGoMsQ&feature=youtu.be)
+* Make and preview your changes (read documentation below)
+* Make a "Pull Request"
+* Over time keep your fork in sync with the master (Video https://www.youtube.com/watch?v=C5WxrnRVmuY)
+
+## Fetch the site (Your are a collaborator)
 In order to maintain the site, you need to clone the opentx.github.io repository. Make the changes locally and commit and push them back when you are done. It is a good idea to install Jekyll-Bootstrap on your local machine, so that you can test the changes.
 
 ## Site Structure
