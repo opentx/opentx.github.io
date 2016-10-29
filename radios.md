@@ -89,7 +89,9 @@ ATmega128 8-bit 16MHz  <br>
 
 <table><tr><td style="width:220px"><img src="assets/images/img_flysky9x.png"></td><td>
 <p style="text-align:left">
-ATmega64 8-bit 16MHz  <br>
+**PLEASE NOTE that Turnigy 9X's sold by Hobbyking since summer 2016 use a "clone" processor that does not work correctly with existing 9X firmwares. 
+DO NOT flash OpenTX to it as it will not work reliably, and there is no known source for the original firmware to restore it.** <br>
+ATmega64 or ATmega128, 8-bit 16MHz  <br>
 16 models    <br>
 5 flight modes  <br>
 A lot of mods supported (audio, voice, telemetry, rotary encoder navigation, ...)  <br>

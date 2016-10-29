@@ -8,6 +8,8 @@ group: navigation
 
 ## OpenTX downloads
 
+**PLEASE NOTE that Turnigy 9X's sold by Hobbyking since summer 2016 use a "clone" processor that does not work correctly with existing 9X firmwares. DO NOT flash OpenTX to it as it will not work reliably, and there is no known source for the original firmware to restore it. This version can be identified by looking at the processor on the mainboard, which is a "Green ED040501-H16D" instead of an Atmel ATmega64 or ATmega128.**  
+
 ### OpenTX 2.1 branch
 
 Latest OpenTX major version with completely new telemetry handling, safe for general use but please be aware that things may still be added or changed in further revisions. Please read [this thread](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239) before upgrading from a previous version, and carefully check the changelogs on each upgrade. And if you don't read it, at least **take note that upgrading from 2.0 to 2.1 requires you to also upgrade the voice files on your SD card with a pack made for 2.1.**  
