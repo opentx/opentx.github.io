@@ -9,4 +9,4 @@ tags: [Documents, French, News]
 Notice OpenTX pour Horus par Alain Labonne
 The article is available here as a pdf.  
 
-[Document Link](http://downloads.open-tx.org/2.2/doc/Notice%20Horus%20OpenTX.pdf)
+[Document Link](https://goo.gl/AjIptG)
