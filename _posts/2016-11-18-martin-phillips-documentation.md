@@ -3,7 +3,7 @@ layout: post
 title: "OpenTX 2.1 For Taranis PDF Documentation"
 description: ""
 category: ""
-tags: [Documents, English]
+tags: [Documents, English, News]
 ---
 {% include JB/setup %}
 OpenTX 2.1
