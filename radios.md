@@ -10,7 +10,7 @@ The following radios and radio boards are compatible with OpenTX.
 
 <img src="assets/images/head_taranisx9e.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_taranisx7.jpg"></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_x7.png"></td><td>
 <p style="text-align:left">
 Smaller version of Taranis Plus with:<br>
 Taranis plus hardware<br>
