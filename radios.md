@@ -8,12 +8,11 @@ group: navigation
 
 The following radios and radio boards are compatible with OpenTX. 
 
-<img src="assets/images/head_taranisx9e.png">
+<img src="assets/images/head_x7.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_x7.png"></td><td>
 <p style="text-align:left">
 Smaller version of Taranis Plus with:<br>
-Taranis plus hardware<br>
 Smaller LCD 128x64<br>
 6 Switches 4 x 3-position, 1 momentary, 1 x 2-position<br>
 2 Pots<br>
