@@ -8,6 +8,21 @@ group: navigation
 
 The following radios and radio boards are compatible with OpenTX. 
 
+<img src="assets/images/head_x12s.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_x12s.jpg"></td><td>
+<p style="text-align:left">
+Top of the line transmitter with:<br>
+Colour outdoor TFT 480x272<br>
+8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
+3 Pots 1 x 6-position, 2 smooth<br>
+2 Sliders 2 rear, 2 front<br>
+GPS and 6 axis sensors<br>
+Haptic vibration<br>
+Wireless trainer<br>
+</p>
+</td></tr></table>
+
 <img src="assets/images/head_x7.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_x7.jpg"></td><td>
