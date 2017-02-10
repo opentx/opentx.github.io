@@ -95,14 +95,14 @@ SD data logger<br>
 
 <table><tr><td style="width:220px"><img src="assets/images/img_aruni.jpeg"></td><td>
 <p style="text-align:left">
-Smaller version of the AR9X board
-Upgrade option for the Flysky TH9X and Turnigy 9X
-ARM Cortex M3 32-bit 64MHz
-LCD 128x64
-6 Switched 4 x 3-position, 1 momentary, 1 x 2-position
-2 Pots, 1 with detent, 1 without detent
-LCD backlight option
-Haptic vibration option
+Smaller version of the AR9X board<br>
+Upgrade option for the Flysky TH9X and Turnigy 9X<br>
+ARM Cortex M3 32-bit 64MHz<br>
+LCD 128x64<br>
+6 Switched 4 x 3-position, 1 momentary, 1 x 2-position<br>
+2 Pots, 1 with detent, 1 without detent<br>
+LCD backlight option<br>
+Haptic vibration option<br>
 </p>
 </td></tr></table>
 
