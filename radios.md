@@ -93,7 +93,7 @@ SD data logger<br>
 
 <img src="assets/images/head_aruni.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/aruni.jpg"></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_aruni.jpeg"></td><td>
 <p style="text-align:left">
 Smaller version of the AR9X board
 Upgrade option for the Flysky TH9X and Turnigy 9X
@@ -140,9 +140,9 @@ A lot of mods supported (audio, voice, telemetry, rotary encoder navigation, ...
 </p>
 </td></tr></table>
 
-<img src="assets/images/head_ar9p.png">
+<img src="assets/images/head_ar9x.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_ar9x.png"></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_ar9x.jpeg"></td><td>
 <p style="text-align:left">
 ARM Cortex M3 32-bit 64MHz<br>
 LCD 128x64<br>
