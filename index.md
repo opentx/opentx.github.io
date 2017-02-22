@@ -25,7 +25,7 @@ The first step to upgrade your radio with the latest OpenTX version is to instal
 Then you select the firmware configuration you want and let OpenTX Companion download and install it to your radio.  
 You find the latest OpenTX Companion versions in [Downloads](downloads.html).
     
-## [News](news.html)
+## News
 <ul class="posts">
 {% for post in site.tags.News %}
   <div class="post_info">
