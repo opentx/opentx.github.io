@@ -15,7 +15,7 @@ OpenTX Recorder is intended for use on Windows Vista and later.
 
 The program does not need any installation. Just unpack and run it.
   
-[Download Link](https://dl.dropboxusercontent.com/u/17640459/OpenTXrecorder.zip)   
+[Download Link](http://downloads.open-tx.org/tools/OpenTXrecorder.zip)   
 
 ![](/assets/images/opentx-recorder-logo.png)
 
