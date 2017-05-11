@@ -19,7 +19,7 @@ Other limitations are that the wizard is only available in English and for the T
 
 Do like this:
 
-* Download the wizard from here: [Download Link](http://lua-20.open-tx.org/wizard.zip) 
+* Download the wizard from here: [Download Link](http://downloads.open-tx.org/2.0/lua//wizard.zip) 
 
 
 * Unzip the files.
