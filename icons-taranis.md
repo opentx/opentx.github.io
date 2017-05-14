@@ -8,7 +8,7 @@ group:
 These model icons are checked by the OpenTX team and work well in the Taranis. Click to download those that you need and place them on your Taranis SD-card in one of the following folders:
 
 - "BMP" OpenTX versions prior to 2.2
--  "IMAGES" OpenTX version 2.2
+- "IMAGES" OpenTX version 2.2
 
 <ul>
 {% for item in site.data.icons-taranis %}
