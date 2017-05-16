@@ -1,5 +1,4 @@
-#! /usr/bin/python
-# #! python3.4
+#! python3.4
 
 import os
 
