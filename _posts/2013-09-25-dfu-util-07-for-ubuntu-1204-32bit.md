@@ -16,4 +16,4 @@ Flashing utility for the Taranis on Linux (Ubuntu 12.04+ 64bit, not tested on ot
 
 You should now be able to flash. 
 
-[Download Link](http://jenkins.open-tx.org/tools/dfu-util-0.7_0.7-1~precise_i386.deb)
+[Download Link](http://downloads.open-tx.org/tools/dfu-util-0.7_0.7-1~precise_i386.deb)

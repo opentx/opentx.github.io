@@ -17,4 +17,4 @@ Features :
 - Telemetry
 - SD data logger
 
-[Download Link](http://jenkins.open-tx.org/MEGA2560/)
+[Download Link](http://downloads.open-tx.org/MEGA2560/)
