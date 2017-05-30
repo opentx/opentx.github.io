@@ -10,7 +10,7 @@ group: navigation
 
 ### OpenTX 2.2 branch
 
-Latest OpenTX major version with added support for the FrSky Horus and Taranis Q X7 radios. Please read [this page](http://www.open-tx.org/2017/05/30/opentx-2.2.0) for more details about other changes. As usual with each major release a new sound pack is needed information is on the page.
+Latest OpenTX major version with added support for the FrSky Horus and Taranis Q X7 radios. Please read [this page](http://www.open-tx.org/2017/05/30/opentx-2.2.0) for more details about other changes. As usual with each major release new sound packs are needed, information is on the page.
 
 <ul class="posts">
 
