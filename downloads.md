@@ -8,9 +8,27 @@ group: navigation
 
 ## OpenTX downloads
 
+### OpenTX 2.2 branch
+
+Latest OpenTX major version with added support for the FrSky Horus and Taranis Q X7 radios. Please read [this page](http://www.open-tx.org/2017/05/30/opentx-2.2.0) for more details about other changes. As usual with each major release a new sound pack is needed information is on the page.
+
+<ul class="posts">
+
+<!-- Insert Fixed List Items Here -->
+
+{% for post in site.tags.Releases22 %}
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+{% endfor %}
+</ul>
+
 ### OpenTX 2.1 branch
 
-Latest OpenTX major version with completely new telemetry handling, safe for general use but please be aware that things may still be added or changed in further revisions. Please read [this thread](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239) before upgrading from a previous version, and carefully check the changelogs on each upgrade. And if you don't read it, at least **take note that upgrading from 2.0 to 2.1 requires you to also upgrade the voice files on your SD card with a pack made for 2.1.**  
+Previous major version, now stable and still supported for normal use, but no new features or bugfixes will be implemented. 2.1 introduced completely new telemetry handling compared to 2.0, and also requires a different sound pack (see below). The original upgrade notes from 2.0 to 2.1 can be found [here](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239).
 
 This branch is the first to support the FrSky Taranis X9E (tray version).
 
@@ -30,7 +48,7 @@ This branch is the first to support the FrSky Taranis X9E (tray version).
 
 ### OpenTX 2.0 branch
 
-Previous major version, now stable and still supported for normal use, no new features will be implemented but bugfixes will still be provided.
+Deprecated, no more support will be given. 2.0 introduced the Virtual Inputs system.
 This branch is the first to support the FrSky Taranis Plus and the Turnigy 9XR-Pro.
 
 <ul class="posts">
@@ -74,6 +92,7 @@ Sound packs can be downloaded either through companion (the Download dialog will
 
 [Sound packs for OpenTX 2.0](http://voices-20.open-tx.org)  
 [Sound packs for OpenTX 2.1](http://voices-21.open-tx.org)
+[SD card contents for OpenTX 2.2, with sound packs](http://downloads.open-tx.org/2.2/sdcard/)
 
 
 ## About OpenTX versions
@@ -83,10 +102,10 @@ As we are dependent on user feedback, a major release will start as "unstable" a
 
 We recommend "normal users" not to jump on a new major revision straight away as following the minor revisions of an unstable branch requires careful attention to the changelog to find out about things that may have changed and could potentially break existing setups, and documentation is usually not ready yet. They should thus stick with "stable" versions. Advanced users who want to be on the bleeding edge, want to provide feedback and/or suggest modifications, can find their way without documentation and can follow the evolution closely are welcome to do so during the unstable period, of course at their own risk. 
 
-Currently, the major versions of OpenTX are:
+Currently, the supported major versions of OpenTX are:
 <ul>
-<li>OpenTX 2.0</li>
 <li>OpenTX 2.1</li>
+<li>OpenTX 2.2</li>
 </ul>
 
 Major releases are independent, OpenTX companion 2.0.x will download firmware 2.0.x, OpenTX companion 2.1.x will download firmware 2.1.x etc. Updates between major versions are manual, you need to download the required companion yourself, no updates will be automatically offered. When upgrading from one major version to the next it is recommended to backup both your current firmware and settings, and to thoroughly check all of your models' functions still operate correctly after the built-in upgrade procedure has completed. Downgrading models and settings is not possible, so should you want to switch back to an older major version you will need to either reload your backup or start from scratch again.
@@ -104,7 +123,7 @@ Switching to the OpenTX team's releases and using tools like companion should be
 <li>Taranis X9E comes with a version derived from OpenTX 2.1</li>
 </ul>
 If you want to switch your firmware to OpenTX and keep the known behavior you should stick to those major versions.
-Besides, the Taranis Plus will not work with OpenTX versions older than 2.0.10 and Taranis X9E will not work with OpenTX versions older than 2.1.0.
+Besides, the Taranis Plus will not work with OpenTX versions older than 2.0.10 and Taranis X9E will not work with OpenTX versions older than 2.1.0. Horus and Taranis Q X7 need OpenTX 2.2.
 
 
 ## OpenTX Sound
