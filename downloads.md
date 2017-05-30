@@ -91,7 +91,7 @@ Firmware downloads are exclusively available from within OpenTX Companion's "Dow
 Sound packs can be downloaded either through companion (the Download dialog will point you to the correct directory for the selected radio type), or from the links below:
 
 [Sound packs for OpenTX 2.0](http://voices-20.open-tx.org)  
-[Sound packs for OpenTX 2.1](http://voices-21.open-tx.org)
+[Sound packs for OpenTX 2.1](http://voices-21.open-tx.org)  
 [SD card contents for OpenTX 2.2, with sound packs](http://downloads.open-tx.org/2.2/sdcard/)
 
 
