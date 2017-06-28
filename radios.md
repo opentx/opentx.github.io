@@ -133,6 +133,8 @@ ATmega128 8-bit 16MHz  <br>
 
 <table><tr><td style="width:220px"><img src="assets/images/img_flysky9x.png"></td><td>
 <p style="text-align:left">
+Also exist as Turnigy 9X  <br>
+Atmega64  <br>
 16 models    <br>
 5 flight modes  <br>
 A lot of mods supported (audio, voice, telemetry, rotary encoder navigation, ...)  <br>
