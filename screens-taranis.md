@@ -5,7 +5,7 @@ header: Taranis Start Screens
 group:
 ---
 {% include JB/setup %}
-These start screens are checked by the OpenTX team and work well in the Taranis. Click to download those that you want. Then use Companion to load the image to your radio along with the firmware.
+These start screens are checked by the OpenTX team and work well in the Taranis X9D, X9D+ and X9E. Click to download those that you want. Then use Companion to load the image to your radio along with the firmware.
 
 <ul>
 {% for pic in site.data.screens-taranis %}
