@@ -49,7 +49,7 @@ This branch is the first to support the FrSky Taranis X9E (tray version).
 ### OpenTX 2.0 branch
 
 Deprecated, no more support will be given but firmware downloads are still available for the time being. 2.0 introduced the Virtual Inputs system.
-This branch is the first to support the FrSky Taranis Plus and the Turnigy 9XR-Pro.
+This branch is the first to support the FrSky Taranis X9D+ and the Turnigy 9XR-Pro.
 
 <ul class="posts">
 
@@ -67,7 +67,7 @@ This branch is the first to support the FrSky Taranis Plus and the Turnigy 9XR-P
 
 ### OpenTX 1.x branch
 
-This branch is the first to support the original FrSky Taranis, and is now deprecated. Firmware downloads are not possible anymore, the below companion is only provided for reference.
+This branch is the first to support the original FrSky Taranis X9D, and is now deprecated. Firmware downloads are not possible anymore, the below companion is only provided for reference.
 
 <ul class="posts">
 
@@ -118,12 +118,17 @@ Please note that your radio has been delivered with a firmware that is customise
 
 Switching to the OpenTX team's releases and using tools like companion should be considered an "advanced" usage scenario that will require some computer knowledge, a bunch of reading to find out about the differences and may cause headaches if things don't go as expected. Be sure to read the paragraph below about how OpenTX versioning works, and to always use matching combinations of companion and firmware.
 <ul>
-<li>The "original" Taranis comes with a version derived from OpenTX 1.0</li>
-<li>Taranis Plus comes with a version derived from OpenTX 2.0</li>
+<li>The Taranis X9D comes with a version derived from OpenTX 1.0</li>
+<li>Taranis X9D+ comes with a version derived from OpenTX 2.0</li>
 <li>Taranis X9E comes with a version derived from OpenTX 2.1</li>
+<li>Taranis Q X7 comes with a version derived from OpenTX 2.2</li>
 </ul>
 If you want to switch your firmware to OpenTX and keep the known behavior you should stick to those major versions.
-Besides, the Taranis Plus will not work with OpenTX versions older than 2.0.10 and Taranis X9E will not work with OpenTX versions older than 2.1.0. Horus and Taranis Q X7 need OpenTX 2.2.
+<ul>
+  <li>The Taranis Plus will not work with OpenTX versions older than 2.0.10
+  <li>Taranis X9E will not work with OpenTX versions older than 2.1.0. 
+  <li>The FrSKY Horus X12S and Taranis Q X7 will not work with OpenTX versions older than 2.2.
+</ul>
 
 
 ## OpenTX Sound
@@ -144,8 +149,8 @@ Besides, the Taranis Plus will not work with OpenTX versions older than 2.0.10 a
 
 ## OpenTX Images
 <ul>
-<li><a href="icons-taranis.html">Taranis Model Icons</a></li>
-<li><a href="screens-taranis.html">Taranis Start Screens</a></li>
+<li><a href="icons-taranis.html">Taranis Model Icons (Not for X7)</a></li>
+<li><a href="screens-taranis.html">Taranis Start Screens (Not for X7)</a></li>
 <li><a href="screens-9x.html">9X/9XR Start Screens</a></li>
 </ul>
 
@@ -186,4 +191,6 @@ Before using Lua you should read the [Lua Instructions](lua-instructions.html)
 </ul>
 
 For users wanting to upgrade a Taranis from a pre-2.0 version (either OpenTX or the FrSky firmware) who can't get the DFU driver installed with Zadig but have a working "DfuSe Demonstration" flashing setup (as per FrSky instructions), a copy of OpenTX 2.0.5 packaged in a .dfu file is available [here](http://downloads-20.open-tx.org/companion/opentx-taranis-en-2.0.5.dfu). Flash this using the FrSky method, then upgrade to the latest available version using the bootloader.
+
+<b>Except for the FrSKY Horus X12S all FrSKY Transmitters purchased new do not require a seperate Zadig or DFU driver install.<\b>
 <!--  -->
