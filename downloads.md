@@ -49,7 +49,7 @@ This branch is the first to support the FrSky Taranis X9E (tray version).
 ### OpenTX 2.0 branch
 
 Deprecated, no more support will be given but firmware downloads are still available for the time being. 2.0 introduced the Virtual Inputs system.
-This branch is the first to support the FrSky Taranis Plus and the Turnigy 9XR-Pro.
+This branch is the first to support the FrSky Taranis X9D+ and the Turnigy 9XR-Pro.
 
 <ul class="posts">
 
@@ -67,7 +67,7 @@ This branch is the first to support the FrSky Taranis Plus and the Turnigy 9XR-P
 
 ### OpenTX 1.x branch
 
-This branch is the first to support the original FrSky Taranis, and is now deprecated. Firmware downloads are not possible anymore, the below companion is only provided for reference.
+This branch is the first to support the original FrSky Taranis X9D, and is now deprecated. Firmware downloads are not possible anymore, the below companion is only provided for reference.
 
 <ul class="posts">
 
