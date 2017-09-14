@@ -26,6 +26,18 @@ Latest OpenTX major version with added support for the FrSky Horus and Taranis Q
 {% endfor %}
 </ul>
 
+### Development Snapshots
+
+The development snapshots are automatic builds that are build every
+day. As during development, critical bugs might be introduced, these
+version **should not be used for flying**. Additionally a backup of
+EEPROM should be done before flashing these firmware. The snapshot
+builds are only intented to verify if bugfixes/new features work as
+expected.
+
+[macOS snapshots](http://downloads-22.open-tx.org/nightlies/companion/macosx/), [Windows snapshots](http://downloads-22.open-tx.org/nightlies/companion/windows/) and [Linux snapshots](http://downloads-22.open-tx.org/nightlies/companion/linux/)
+
+
 ### OpenTX 2.1 branch
 
 Previous major version, now stable and still supported for normal use, but no new features or bugfixes will be implemented. 2.1 introduced completely new telemetry handling compared to 2.0, and also requires a different sound pack (see below). The original upgrade notes from 2.0 to 2.1 can be found [here](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239).
@@ -45,6 +57,7 @@ This branch is the first to support the FrSky Taranis X9E (tray version).
     </div>
 {% endfor %}
 </ul>
+
 
 ### OpenTX 2.0 branch
 
@@ -192,5 +205,5 @@ Before using Lua you should read the [Lua Instructions](lua-instructions.html)
 
 For users wanting to upgrade a Taranis from a pre-2.0 version (either OpenTX or the FrSky firmware) who can't get the DFU driver installed with Zadig but have a working "DfuSe Demonstration" flashing setup (as per FrSky instructions), a copy of OpenTX 2.0.5 packaged in a .dfu file is available [here](http://downloads-20.open-tx.org/companion/opentx-taranis-en-2.0.5.dfu). Flash this using the FrSky method, then upgrade to the latest available version using the bootloader.
 
+
 <b>Except for the FrSKY Horus X12S all FrSKY Transmitters purchased new do not require a seperate Zadig or DFU driver install.<\b>
-<!--  -->
