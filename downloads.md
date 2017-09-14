@@ -33,7 +33,9 @@ day. As during development, critical bugs might be introduced, these
 version **should not be used for flying**. Additionally a backup of
 EEPROM should be done before flashing these firmware. The snapshot
 builds are only intented to verify if bugfixes/new features work as
-expected.
+expected. We provide no changelogs for these builds. To get a rough
+idea about the changes you can look at the
+[git commit log](https://github.com/opentx/opentx/commits/2.2).
 
 [macOS snapshots](http://downloads-22.open-tx.org/nightlies/companion/macosx/), [Windows snapshots](http://downloads-22.open-tx.org/nightlies/companion/windows/) and [Linux snapshots](http://downloads-22.open-tx.org/nightlies/companion/linux/)
 
