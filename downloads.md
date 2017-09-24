@@ -166,7 +166,7 @@ If you want to switch your firmware to OpenTX and keep the known behavior you sh
 <ul>
 <li><a href="icons-taranis.html">Taranis Model Icons (Not for X7)</a></li>
 <li><a href="screens-taranis.html">Taranis Start Screens (Not for X7)</a></li>
-<li><a href="screens-9x.html">9X/9XR Start Screens</a></li>
+<li><a href="screens-9x.html">128x64 LCD Start Screens (9X/9XR/AR9X and Taranis Q X7)</a></li>
 </ul>
 
 
