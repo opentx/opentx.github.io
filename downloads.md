@@ -37,7 +37,8 @@ expected. We provide no changelogs for these builds. To get a rough
 idea about the changes you can look at the
 [git commit log](https://github.com/opentx/opentx/commits/2.2).
 
-[macOS snapshots](http://downloads-22.open-tx.org/nightlies/companion/macosx/), [Windows snapshots](http://downloads-22.open-tx.org/nightlies/companion/windows/) and [Linux snapshots](http://downloads-22.open-tx.org/nightlies/companion/linux/)
+[macOS snapshots](http://downloads-22.open-tx.org/nightlies/companion/macosx/), [Windows snapshots](http://downloads-22.open-tx.org/nightlies/companion/windows/) and [Linux snapshots](http://downloads-22.open-tx.org/nightlies/companion/linux/)  
+[SD Card snapshots](http://downloads.open-tx.org/2.2/nightlies/sdcard/)
 
 
 ### OpenTX 2.1 branch
