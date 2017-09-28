@@ -26,19 +26,24 @@ Latest OpenTX major version with added support for the FrSky Horus and Taranis Q
 {% endfor %}
 </ul>
 
-### Development Snapshots
+### Nightly builds
 
-The development snapshots are automatic builds that are build every
-day. As during development, critical bugs might be introduced, these
-version **should not be used for flying**. Additionally a backup of
-EEPROM should be done before flashing these firmware. The snapshot
-builds are only intented to verify if bugfixes/new features work as
-expected. We provide no changelogs for these builds. To get a rough
-idea about the changes you can look at the
+The nightly builds are automatic builds that are build every day. As
+during development, critical bugs might be introduced, these versions
+**should not be used for flying**. Additionally a backup of EEPROM
+should be done before flashing these firmware. The nightly builds are
+only intented to verify if bugfixes/new features work as expected. We
+provide no changelogs for these builds. To get a rough idea about the
+changes you can look at the
 [git commit log](https://github.com/opentx/opentx/commits/2.2).
 
-[macOS snapshots](http://downloads-22.open-tx.org/nightlies/companion/macosx/), [Windows snapshots](http://downloads-22.open-tx.org/nightlies/companion/windows/) and [Linux snapshots](http://downloads-22.open-tx.org/nightlies/companion/linux/)  
-[SD Card snapshots](http://downloads.open-tx.org/2.2/nightlies/sdcard/)
+[macOS nightly builds](http://downloads-22.open-tx.org/nightlies/companion/macosx/),
+[Windows nightly builds](http://downloads-22.open-tx.org/nightlies/companion/windows/)
+and
+[Linux nightly builds](http://downloads-22.open-tx.org/nightlies/companion/linux/)
+
+[SD Card contents for nightly builds](http://downloads.open-tx.org/2.2/nightlies/sdcard/)
+
 
 
 ### OpenTX 2.1 branch
