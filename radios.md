@@ -20,6 +20,7 @@ Colour outdoor TFT 480x272<br>
 GPS and 6 axis sensors<br>
 Haptic vibration<br>
 Wireless trainer<br>
+RAM 8MB
 </p>
 </td></tr></table>
 
@@ -34,6 +35,7 @@ Smaller LCD 128x64<br>
 No Sliders<br>
 S.Port Jack<br>
 Haptic vibration<br>
+RAM  128K
 </p>
 </td></tr></table>
 
@@ -49,7 +51,8 @@ Bluetooth support<br>
 Safe start and safe shutdown power switch<br>
 Haptic vibration <br>
 Improved audio circuits<br>
-</p>
+RAM  192K
+  </p>
 </td></tr></table>
 
 <img src="assets/images/head_taranisplus.png">
@@ -61,7 +64,8 @@ Haptic vibration <br>
 Multi colored LCD background light <br>
 Improved LCD display  <br>
 Improved audio circuits <br>
-</p>
+RAM  128K
+  </p>
 </td></tr></table>
 
 <img src="assets/images/head_taranis.png">
@@ -75,7 +79,8 @@ ARM Cortex M3 32-bit 120MHz  <br>
 Telemetry  <br>
 Advanced audio functions (voice files from SD, vario, ...)  <br>
 SD data logger  <br>
-</p>
+RAM  128K
+  </p>
 </td></tr></table>
 
 <img src="assets/images/head_9xrpro.png">
