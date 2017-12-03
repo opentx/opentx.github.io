@@ -7,6 +7,20 @@ group: navigation
 {% include JB/setup %}
 
 The following radios and radio boards are compatible with OpenTX. 
+<img src="assets/images/head_x10s.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_x10.jpg"></td><td>
+<p style="text-align:left">
+Colour outdoor TFT 480x272<br>
+8 Switches - 6 x 3-position, 1 momentary, 1 x 2-position<br>
+3 Pots<br>
+2 Sliders<br>
+Haptic vibration<br>
+Wireless trainer<br>
+Support FrSky Free Link App<br>
+RAM 8MB
+</p>
+</td></tr></table>
 
 <img src="assets/images/head_x12s.png">
 
