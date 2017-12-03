@@ -32,6 +32,9 @@
 <!--      <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a> -->
           <a class="nav" href="{{ HOME_PATH }}"><img src="/assets/images/opentx_button.png"></a>
           <ul class="nav">
+            <li>
+              <a href="https://opentx.gitbooks.io/manual-for-opentx-2-2/">Manual</a>
+            </li>
             {% assign pages_list = site.pages | sort:"name" %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
