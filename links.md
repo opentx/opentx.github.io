@@ -36,6 +36,6 @@ group: navigation
 ## Community
 [openRCforums](http://openrcforums.com) developer forum  
 [er9x](http://code.google.com/p/er9x) project home page  
-[ersky9x](http://code.google.com/p/ersky9x) project home page
+[ersky9x](http://code.google.com/p/ersky9x) project home page  
 [SkyRaccoon](http://http://www.skyraccoon.com/) SkyRaccoon model icons site
 
