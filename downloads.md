@@ -37,10 +37,10 @@ provide no changelogs for these builds. To get a rough idea about the
 changes you can look at the
 [git commit log](https://github.com/opentx/opentx/commits/2.2).
 
-[macOS nightly builds](http://downloads-22.open-tx.org/nightlies/companion/macosx/),
-[Windows nightly builds](http://downloads-22.open-tx.org/nightlies/companion/windows/)
+[macOS nightly builds](http://downloads.open-tx.org/2.2/nightlies/companion/macosx/),
+[Windows nightly builds](http://downloads.open-tx.org/2.2/nightlies/companion/windows/)
 and
-[Linux nightly builds](http://downloads-22.open-tx.org/nightlies/companion/linux/)
+[Linux nightly builds](http://downloads.open-tx.org/2.2/nightlies/companion/linux/)
 
 [SD Card contents for nightly builds](http://downloads.open-tx.org/2.2/nightlies/sdcard/)
 
