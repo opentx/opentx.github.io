@@ -1,0 +1,14 @@
+---
+layout: post
+title: "OpenTX 2.2.2 AVR disabled"
+description: ""
+category: ""
+tags: [Releases22, News]
+---
+{% include JB/setup %}
+
+While reviewing some reported avr radio bugs, we have discovered a major issue affecting OpenTX 2.2.x on the following radios : 9x, 9xr, 9x128, 9xr128, gruvin9x and mega2560.
+
+Installing 2.2.x on those radio will result in a corrupted Eeprom. The radio will look fine at first, but any use with Companion will wipe the radio and model settings.
+
+As an imediate measure, while we continue to investigate, we have **disabled the download of 2.2.x firmwares for those radios**. We will publish a follow up on this as more information becomes available
