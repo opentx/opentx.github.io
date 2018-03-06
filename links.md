@@ -35,7 +35,7 @@ group: navigation
 [opentx-doc](https://groups.google.com/forum/#!forum/opentx-doc) (for people working on the docs)
 
 ## Community
-[OpenTX 2.2 documentation](http://openrcforums.com/forum/viewtopic.php?f=45&t=10905) Martin's comprehensive OpenTX 2.2 documentation
+[OpenTX 2.2 documentation](http://openrcforums.com/forum/viewtopic.php?f=45&t=10905) Martin Phillips s comprehensive OpenTX 2.2 documentation
 [openRCforums](http://openrcforums.com) developer forum  
 [er9x](http://code.google.com/p/er9x) project home page  
 [ersky9x](http://code.google.com/p/ersky9x) project home page  
