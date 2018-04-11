@@ -6,7 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
-The following radios and radio boards are compatible with OpenTX. 
+The radios and boards below are supported by OpenTX to varying degrees depending on developer and hardware availability. Being a volunteer developed project support for these radios changes over time. Read the release notes for each version of OpenTX to determine if a radio has active support.
+
 <img src="assets/images/head_x10s.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_x10.png"></td><td>
