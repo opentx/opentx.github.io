@@ -2,7 +2,7 @@
 The OpenTX web is hosted on github. The site is built using Jekyll, which is the default page parsing and serving engine of Github. Maintaining it is done primarily be editing html and markdown wiki pages. 
 
 ## Helping Maintain The Site
-First time contributors should first introduce themselves on [![Join the chat at https://opentx.rocket.chat](https://camo.githubusercontent.com/3d659054abd6ce21c0e47cf3b83a51bda69ca282/68747470733a2f2f64656d6f2e726f636b65742e636861742f696d616765732f6a6f696e2d636861742e737667)](https://opentx.rocket.chat)
+First time contributors should first introduce themselves on [![Join the chat at https://chat.open-tx.org](https://camo.githubusercontent.com/3d659054abd6ce21c0e47cf3b83a51bda69ca282/68747470733a2f2f64656d6f2e726f636b65742e636861742f696d616765732f6a6f696e2d636861742e737667)](https://opentx.rocket.chat)
 
 ## Create A Site Fork (You are not a collaborator)
 To make contributions and help maintain the site you will need a GitHub account.
