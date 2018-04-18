@@ -8,7 +8,7 @@ group: navigation
 
 ## OpenTX
 [OpenTX GitHub Project](https://github.com/opentx/opentx)  
-[OpenTX RocketChat](https:/chat.open-tx.org)  
+[OpenTX RocketChat](https://chat.open-tx.org)  
 [OpenTX University](http://open-txu.org)  
 [OpenTX RSS Feed](rss.xml)  
 [OpenTX Development Wiki](https://github.com/opentx/opentx/wiki)  
