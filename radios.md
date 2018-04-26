@@ -14,10 +14,9 @@ The following radios and radio boards are compatible with OpenTX.
 <p style="text-align:left">
 Game style version the Taranis:<br>
 Black & White LCD 128x64<br>
-4 Switches<br>
+4 Switches 2 x 3-position, 2 x 2-position<br>
 No Pots<br>
 2 Sliders<br>
-S.Port Jack<br>
 Haptic vibration<br>
 </p>
 </td></tr></table>
