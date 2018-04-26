@@ -12,7 +12,7 @@ The following radios and radio boards are compatible with OpenTX.
 
 <table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
 <p style="text-align:left">
-Game Style version the Taranis:<br>
+Game style version the Taranis:<br>
 LCD 128x64<br>
 4 Switches<br>
 No Pots<br>
