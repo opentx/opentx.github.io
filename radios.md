@@ -8,6 +8,20 @@ group: navigation
 
 The following radios and radio boards are compatible with OpenTX. 
 
+<img src="assets/images/head_xlite.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
+<p style="text-align:left">
+Game Style version of the X7:<br>
+LCD 128x64<br>
+4 Switches<br>
+No Pots<br>
+2 Sliders<br>
+S.Port Jack<br>
+Haptic vibration<br>
+</p>
+</td></tr></table>
+
 <img src="assets/images/head_x12s.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_x12s.jpg"></td><td>
