@@ -13,7 +13,7 @@ The following radios and radio boards are compatible with OpenTX.
 <table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
 <p style="text-align:left">
 Game style version the Taranis:<br>
-LCD 128x64<br>
+Black & White LCD 128x64<br>
 4 Switches<br>
 No Pots<br>
 2 Sliders<br>
@@ -42,7 +42,7 @@ Wireless trainer<br>
 <table><tr><td style="width:220px"><img src="assets/images/img_x7.jpg"></td><td>
 <p style="text-align:left">
 Smaller version of Taranis Plus with:<br>
-Smaller LCD 128x64<br>
+Black & White LCD 128x64<br>
 6 Switches 4 x 3-position, 1 momentary, 1 x 2-position<br>
 2 Pots<br>
 No Sliders<br>
