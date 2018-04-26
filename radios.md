@@ -17,6 +17,7 @@ Black & White LCD 128x64<br>
 4 Switches 2 x 3-position, 2 x 2-position<br>
 No Pots<br>
 2 Sliders<br>
+S.Port<br>
 Haptic vibration<br>
 </p>
 </td></tr></table>
@@ -45,7 +46,7 @@ Black & White LCD 128x64<br>
 6 Switches 4 x 3-position, 1 momentary, 1 x 2-position<br>
 2 Pots<br>
 No Sliders<br>
-S.Port Jack<br>
+S.Port<br>
 Haptic vibration<br>
 </p>
 </td></tr></table>
