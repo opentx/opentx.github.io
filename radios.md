@@ -34,7 +34,7 @@ Colour outdoor TFT 480x272<br>
 2 Extra trims<br>
 Haptic vibration<br>
 Wireless trainer<br>
-2 internal antennas<br>
+2 Internal antennas<br>
 </p>
 </td></tr></table>
 
@@ -75,7 +75,7 @@ Tray version of Taranis Plus with:<br>
 Color OLED top mounted display for basic telemetry data<br>
 Quality 4 bearing gimbals<br>
 Bluetooth support<br>
-2 additional sliders<br>
+2 Additional sliders<br>
 Safe start and safe shutdown power switch<br>
 Haptic vibration <br>
 Improved audio circuits<br>
