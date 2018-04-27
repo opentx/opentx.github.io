@@ -36,6 +36,22 @@ Haptic vibration<br>
 </p>
 </td></tr></table>
 
+<img src="assets/images/head_x10.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_x10.jpg"></td><td>
+<p style="text-align:left">
+Similar to the X12S transmitter with:<br>
+Colour outdoor TFT 480x272<br>
+8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
+3 Pots 1 x 6-position, 2 smooth<br>
+2 Sliders 2 rear, 2 front<br>
+2 Extra trims<br>
+Haptic vibration<br>
+Wireless trainer<br>
+2 Internal antennas<br>
+</p>
+</td></tr></table>
+
 <img src="assets/images/head_x12s.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_x12s.jpg"></td><td>
@@ -76,7 +92,7 @@ Tray version of Taranis Plus with:<br>
 Color OLED top mounted display for basic telemetry data<br>
 Quality 4 bearing gimbals<br>
 Bluetooth support<br>
-2 additional sliders<br>
+2 Additional sliders<br>
 Safe start and safe shutdown power switch<br>
 Haptic vibration <br>
 Improved audio circuits<br>
