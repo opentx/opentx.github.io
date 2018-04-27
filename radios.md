@@ -26,7 +26,7 @@ Haptic vibration<br>
 
 <table><tr><td style="width:220px"><img src="assets/images/img_x10.jpg"></td><td>
 <p style="text-align:left">
-cSimilar to the X12S transmitter with:<br>
+Similar to the X12S transmitter with:<br>
 Colour outdoor TFT 480x272<br>
 8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
 3 Pots 1 x 6-position, 2 smooth<br>
