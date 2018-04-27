@@ -22,6 +22,20 @@ RAM 8MB
 </p>
 </td></tr></table>
 
+<img src="assets/images/head_xlite.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
+<p style="text-align:left">
+Game style version the Taranis:<br>
+Black & White LCD 128x64<br>
+4 Switches 2 x 3-position, 2 x 2-position<br>
+No Pots<br>
+2 Sliders<br>
+S.Port<br>
+Haptic vibration<br>
+</p>
+</td></tr></table>
+
 <img src="assets/images/head_x12s.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_x12s.jpg"></td><td>
@@ -44,11 +58,11 @@ RAM 8MB
 <table><tr><td style="width:220px"><img src="assets/images/img_x7.jpg"></td><td>
 <p style="text-align:left">
 Smaller version of Taranis Plus with:<br>
-Smaller LCD 128x64<br>
+Black & White LCD 128x64<br>
 6 Switches 4 x 3-position, 1 momentary, 1 x 2-position<br>
 2 Pots<br>
 No Sliders<br>
-S.Port Jack<br>
+S.Port<br>
 Haptic vibration<br>
 RAM  128K
 </p>
