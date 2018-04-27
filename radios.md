@@ -33,7 +33,6 @@ Colour outdoor TFT 480x272<br>
 2 Sliders 2 rear, 2 front<br>
 2 Extra trims<br>
 Haptic vibration<br>
-Wireless trainer<br>
 </p>
 </td></tr></table>
 
