@@ -7,21 +7,6 @@ group: navigation
 {% include JB/setup %}
 
 The following radios and radio boards are compatible with OpenTX. 
-<img src="assets/images/head_x10s.png">
-
-<table><tr><td style="width:220px"><img src="assets/images/img_x10.png"></td><td>
-<p style="text-align:left">
-Colour outdoor TFT 480x272<br>
-8 Switches - 6 x 3-position, 1 momentary, 1 x 2-position<br>
-3 Pots 1 x 6-position, 2 smooth<br>
-2 Sliders<br>
-2 extra trims<br>
-Haptic vibration<br>
-Wireless trainer<br>
-RAM 8MB
-</p>
-</td></tr></table>
-
 <img src="assets/images/head_xlite.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
@@ -33,6 +18,7 @@ No Pots<br>
 2 Sliders<br>
 S.Port<br>
 Haptic vibration<br>
+RAM  128K
 </p>
 </td></tr></table>
 
@@ -49,6 +35,7 @@ Colour outdoor TFT 480x272<br>
 Haptic vibration<br>
 Wireless trainer<br>
 2 Internal antennas<br>
+RAM 8MB
 </p>
 </td></tr></table>
 
