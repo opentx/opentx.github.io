@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
+# pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -29,6 +29,7 @@ production_url : http://www.open-tx.org
 # become obsolete. Kramdown will be used instead. Rather than waiting for the inevitable
 # we take the plunge right away.
 markdown: kramdown
+highlighter: rouge
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
