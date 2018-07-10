@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-The following radios and radio boards are compatible with OpenTX. 
+The following radios and radio boards are compatible with current versions of OpenTX. 
 <img src="assets/images/head_xlite.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
@@ -128,6 +128,21 @@ SD data logger<br>
 </p>
 </td></tr></table>
 
+<img src="assets/images/head_ar9x.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_ar9x.jpeg"></td><td>
+<p style="text-align:left">
+ARM Cortex M3 32-bit 64MHz<br>
+LCD 128x64<br>
+6 Switched 4 x 3-position, 1 momentary, 1 x 2-position<br>
+2 Pots, 1 with detent, 1 without detent<br>
+LCD backlight option<br>
+Haptic vibration option<br>
+</p>
+</td></tr></table>
+
+The following radios and radio boards are compatible with versions 2.1.x of OpenTX. 
+
 <img src="assets/images/head_aruni.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_aruni.jpeg"></td><td>
@@ -156,16 +171,6 @@ SD data logger<br>
 </p>
 </td></tr></table>
 
-<img src="assets/images/head_9xr.png">
-
-<table><tr><td style="width:220px"><img src="assets/images/img_9xr.png"></td><td>
-<p style="text-align:left">
-ATmega128 8-bit 16MHz  <br>
-30 models  <br>
-5 flight modes  <br>
-</p>
-</td></tr></table>
-
 <img src="assets/images/head_flysky9x.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_flysky9x.png"></td><td>
@@ -178,18 +183,16 @@ A lot of mods supported (audio, voice, telemetry, rotary encoder navigation, ...
 </p>
 </td></tr></table>
 
-<img src="assets/images/head_ar9x.png">
+<img src="assets/images/head_9xr.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_ar9x.jpeg"></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_9xr.png"></td><td>
 <p style="text-align:left">
-ARM Cortex M3 32-bit 64MHz<br>
-LCD 128x64<br>
-6 Switched 4 x 3-position, 1 momentary, 1 x 2-position<br>
-2 Pots, 1 with detent, 1 without detent<br>
-LCD backlight option<br>
-Haptic vibration option<br>
+ATmega128 8-bit 16MHz  <br>
+30 models  <br>
+5 flight modes  <br>
 </p>
 </td></tr></table>
+
 
 <img src="assets/images/head_sky9x.png">
 
