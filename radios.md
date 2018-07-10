@@ -158,7 +158,7 @@ SD data logger  <br>
 </td></tr></table>
 
 
-***The following radios and radio boards are compatible with versions 2.1.x of OpenTX. 
+The following radios and radio boards are compatible with versions 2.1.x of OpenTX. 
 
 <img src="assets/images/head_aruni.png">
 
