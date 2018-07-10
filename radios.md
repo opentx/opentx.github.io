@@ -7,6 +7,8 @@ group: navigation
 {% include JB/setup %}
 
 The following radios and radio boards are compatible with current versions of OpenTX. 
+
+
 <img src="assets/images/head_xlite.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
@@ -141,6 +143,21 @@ Haptic vibration option<br>
 </p>
 </td></tr></table>
 
+<img src="assets/images/head_sky9x.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_sky.png"></td><td>
+<p style="text-align:left">
+ARM Cortex M3 32-bit 36MHz  <br>
+60 models + infinite on SD  <br>
+9 flight modes  <br>
+Rotary encoder navigation  <br>
+Telemetry  <br>
+Advanced audio functions (voice files from SD, vario, ...)  <br>
+SD data logger  <br>
+</p>
+</td></tr></table>
+
+
 The following radios and radio boards are compatible with versions 2.1.x of OpenTX. 
 
 <img src="assets/images/head_aruni.png">
@@ -190,21 +207,6 @@ A lot of mods supported (audio, voice, telemetry, rotary encoder navigation, ...
 ATmega128 8-bit 16MHz  <br>
 30 models  <br>
 5 flight modes  <br>
-</p>
-</td></tr></table>
-
-
-<img src="assets/images/head_sky9x.png">
-
-<table><tr><td style="width:220px"><img src="assets/images/img_sky.png"></td><td>
-<p style="text-align:left">
-ARM Cortex M3 32-bit 36MHz  <br>
-60 models + infinite on SD  <br>
-9 flight modes  <br>
-Rotary encoder navigation  <br>
-Telemetry  <br>
-Advanced audio functions (voice files from SD, vario, ...)  <br>
-SD data logger  <br>
 </p>
 </td></tr></table>
 
