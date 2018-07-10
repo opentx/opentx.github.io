@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-#The following radios and radio boards are compatible with current versions of OpenTX. 
+<b>The following radios and radio boards are compatible with current versions of OpenTX. </b>
 
 
 <img src="assets/images/head_xlite.png">
@@ -158,7 +158,7 @@ SD data logger  <br>
 </td></tr></table>
 
 
-#The following radios and radio boards are compatible with legacy versions 2.1.x of OpenTX. 
+<b>The following radios and radio boards are compatible with legacy versions 2.1.x of OpenTX. </b>
 
 <img src="assets/images/head_aruni.png">
 
