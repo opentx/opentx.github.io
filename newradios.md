@@ -34,9 +34,9 @@ Firstly you should know that by the very nature of OpenTX and its license you ar
 
 Should you rather desire to become an integral part of the OpenTX family the first step is obviously to contact the OpenTX team and state your inquiries and intentions with project details, the [chat](https://chat.open-tx.org) is a good point of entry where we can provide additional direct contact methods. We are used to dealing with confidential projects and maintaining separation between our different partners during development.
 
-Obviously since you are here you understand that OpenTX is also a brand, and by joining the family you would benefit from the value of a platform well known for its reliability, flexibility, power and popularity gained over 6 years of voluntary work by numerous contributors that obviously can go a long way into reducing your workload to get a product on the market.
+Obviously since you are here you understand that OpenTX is also a brand, and by joining the family you would benefit from the value of a platform well known for its reliability, flexibility, power and popularity gained over 6 years of voluntary work by numerous contributors that certainly can go a long way into reducing your workload to get a product on the market.
 
-Obviously that added value comes with contstraints, notably the first requirement to join the family is to share the main values of the project, of which the most relevant is sharing. To benefit from the above you are required to give back something significant to the community and industry that made it possible for the project to reach this level.
+That added value does come with contstraints, notably the first requirement to join the family is to share the main values of the project, of which the most relevant is sharing. To benefit from the above you are required to give back something significant to the community and industry that made it possible for the project to reach this level.
 In essence, what we are looking for in new cooperations is contributions to:
 
 * Innovation
