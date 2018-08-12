@@ -49,7 +49,7 @@ Additional constraints that come with the OpenTX brand are:
 
 * Although the project is licensed under the GPL V2 which excludes all kinds of responsibility regarding the proper operation of the provided tools or fitness for any purpose, safety of system operation is very highly considered and an important contributor to the value of the OpenTX brand, meaning that proper safety-oriented logic and coding as well as extensive testing is mandatory before a release is made
 * As mentioned previously, proper integration within all the tools we provide in order to ensure a consistent user experience is required
-* Both the above points mean that your product will be subject to our internal testing and release schedule. Initial general public availability must conincide with a release of ours, which itself is constrained by testing and validation on all the platforms we support. Exceptions can be made only in specific cases and a product launched with at minimum a release candidate status if we have been able to concentrate testing on your plaform before others and reached a satisfactory level of confidence, at the sole discretion of the project's core members.
+* Both the above points mean that your product will be subject to our internal testing and release schedule. Initial general public availability must conincide with a release of ours, which itself is constrained by testing and validation on all the platforms we support. Exceptions can be made only in specific cases and a product launched with at minimum a release candidate status if we have been able to concentrate testing on your platform before others and reached a satisfactory level of confidence, at the sole discretion of the project's core members.
 
 ### I do fit in and want to join!
 
