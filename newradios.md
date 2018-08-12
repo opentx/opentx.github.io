@@ -62,6 +62,8 @@ Awesome! At this point the most popular ways to go about actual integration are:
 
 For all options we require hardware to be provided to us at no cost for either goods, shipping and eventual import taxes for testing and validation (usually 2-4 sets, must include the main product and every accessory that is to be available at that time). 
 
+The timeframe required to add support for a new hardware platform is very variable depending on the characteristics of your hardware and collaboration method, but typically ranges between 4 and 15 months. If you are interested DO contact us as soon as possible with as many details as you can for an estimation.
+
 As mentioned previously we are able and used to working in private during the development phase of a product and keeping concurrent developments separate / avoiding conflicts of interest as much as possible to ensure privacy of your unique features until product launch, but as you have certainly understood from the above per the license terms and for practical project management reasons close to the launch of your product all the work that has been done will be made public and available for everyone to use, including your competitors. This is likely what brought you here in the first place, so we believe you understand the value of that process for continued improvement in the industry.
 
 If you have read until this point then it is likely we can work together, so don't hesitate to contact us :)
