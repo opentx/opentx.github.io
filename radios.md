@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+Manufacturers: Please read [this page](newradios.html) for information about getting OpenTX for your product.  
+
 <b>The following radios and radio boards are compatible with current versions of OpenTX. </b>
 
 

@@ -37,3 +37,7 @@ You find the latest OpenTX Companion versions in [Downloads](downloads.html).
     </div>
 {% endfor %}
 </ul>
+
+## Manufacturers
+
+Please read [this page](newradios.html) for information about getting OpenTX for your product.
