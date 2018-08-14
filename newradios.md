@@ -43,7 +43,7 @@ In essence, what we are looking for in new cooperations is contributions to:
 * Progress
 * Diversity
 
-We are for example not interested in copycats or lowballers who only hurt the industry and users by robbing innovators who do real efforts to provide value from the success they deserve.
+We are for example not interested in copycats or lowballers who only hurt the industry and users by robbing innovators who do real efforts to provide value from the success they deserve. We reserve the right not to integrate a product in our systems or allow the use of the OpenTX name for a project if we do not consider it appropriate or if it is potentially damaging to our brand. 
 
 Additional constraints that come with the OpenTX brand are:
 
