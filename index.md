@@ -23,7 +23,8 @@ OpenTX Speaker and OpenTXRecorder are available for Windows7.
 ## Installation
 The first step to upgrade your radio with the latest OpenTX version is to install OpenTX Companion on your computer.  
 Then you select the firmware configuration you want and let OpenTX Companion download and install it to your radio.  
-You find the latest OpenTX Companion versions in [Downloads](downloads.html).
+You can find the latest OpenTX Companion versions in [Downloads](downloads.html).
+Since 2.2 the changelogs for each release are in the news posts below.
     
 ## News
 <ul class="posts">
