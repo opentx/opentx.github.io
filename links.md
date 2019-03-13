@@ -40,4 +40,5 @@ group: navigation
 [er9x](http://code.google.com/p/er9x) project home page  
 [ersky9x](http://code.google.com/p/ersky9x) project home page  
 [SkyRaccoon](http://www.skyraccoon.com/) SkyRaccoon model icons site
+[French tutorial database](http://opentx.ademic85.fr/) French tutorial and user created documentation database (in french)
 
