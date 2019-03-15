@@ -35,10 +35,9 @@ group: navigation
 [opentx-doc](https://groups.google.com/forum/#!forum/opentx-doc) (for people working on the docs)
 
 ## Community
-[OpenTX 2.2 documentation](http://openrcforums.com/forum/viewtopic.php?f=45&t=10905) comprehensive documentation by Martin Phillips  
-[openRCforums](http://openrcforums.com) developer forum  
-[er9x](http://code.google.com/p/er9x) project home page  
-[ersky9x](http://code.google.com/p/ersky9x) project home page  
-[SkyRaccoon](http://www.skyraccoon.com/) SkyRaccoon model icons site  
-![French](assets/images/flags/fr.png) [French tutorial database](http://opentx-doc.fr/) French tutorial and user created documentation database (in french)
-
+![English](assets/images/flags/gb.png) [OpenTX 2.2 documentation](http://openrcforums.com/forum/viewtopic.php?f=45&t=10905) comprehensive documentation by Martin Phillips  
+![English](assets/images/flags/gb.png) [openRCforums](http://openrcforums.com) developer forum  
+![English](assets/images/flags/gb.png) [er9x](http://code.google.com/p/er9x) project home page  
+![English](assets/images/flags/gb.png) [ersky9x](http://code.google.com/p/ersky9x) project home page  
+![English](assets/images/flags/gb.png) [SkyRaccoon](http://www.skyraccoon.com/) SkyRaccoon model icons site  
+![French](assets/images/flags/fr.png) [French tutorial database](http://opentx-doc.fr/) French tutorial and user created documentation database
