@@ -7,4 +7,4 @@ tags: [Documents, French, News]
 ---
 {% include JB/setup %}
 
-[Document Link](http://frskytaranis.forumactif.org/t1839-mega-tuto-liste-de-tous-les-liens-utiles)
+[Document Link](http://opentx-doc.fr)
