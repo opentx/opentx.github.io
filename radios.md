@@ -206,6 +206,10 @@ A lot of mods supported (audio, voice, telemetry, rotary encoder navigation, ...
 
 <table><tr><td style="width:220px"><img src="assets/images/img_9xr.png"></td><td>
 <p style="text-align:left">
+Compatible with 
+<a href="https://www.open-tx.org/2016/09/15/opentx-2.1.9">OpenTX 2.1 branch</a> 
+and earlier releases 
+(<a href="https://www.open-tx.org/2018/02/26/avr-pull">see issue</a>)<br>
 ATmega128 8-bit 16MHz  <br>
 30 models  <br>
 5 flight modes  <br>
