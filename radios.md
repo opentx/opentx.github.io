@@ -166,6 +166,10 @@ SD data logger  <br>
 
 <table><tr><td style="width:220px"><img src="assets/images/img_aruni.jpeg"></td><td>
 <p style="text-align:left">
+Compatible with 
+<a href="https://www.open-tx.org/2016/09/15/opentx-2.1.9">OpenTX 2.1 branch</a> 
+and earlier releases 
+(<a href="https://www.open-tx.org/2018/02/26/avr-pull">see issue</a>)<br>
 Smaller version of the AR9X board<br>
 Upgrade option for the Flysky TH9X and Turnigy 9X<br>
 ARM Cortex M3 32-bit 64MHz<br>
@@ -181,6 +185,10 @@ Haptic vibration option<br>
 
 <table><tr><td style="width:220px"><img src="assets/images/img_mega2560.jpg"></td><td>
 <p style="text-align:left">
+Compatible with 
+<a href="https://www.open-tx.org/2016/09/15/opentx-2.1.9">OpenTX 2.1 branch</a> 
+and earlier releases 
+(<a href="https://www.open-tx.org/2018/02/26/avr-pull">see issue</a>)<br>
 Arduino (or clone) MEGA2560 16MHz  <br>
 30 models + infinite on SD  <br>
 6 flight modes  <br>
@@ -194,6 +202,10 @@ SD data logger<br>
 
 <table><tr><td style="width:220px"><img src="assets/images/img_flysky9x.png"></td><td>
 <p style="text-align:left">
+Compatible with 
+<a href="https://www.open-tx.org/2016/09/15/opentx-2.1.9">OpenTX 2.1 branch</a> 
+and earlier releases 
+(<a href="https://www.open-tx.org/2018/02/26/avr-pull">see issue</a>)<br>
 Also exist as Turnigy 9X  <br>
 Atmega64  <br>
 16 models    <br>
@@ -220,6 +232,10 @@ ATmega128 8-bit 16MHz  <br>
 
 <table><tr><td style="width:220px"><img src="assets/images/img_gruvin.png"></td><td>
 <p style="text-align:left">
+Compatible with 
+<a href="https://www.open-tx.org/2016/09/15/opentx-2.1.9">OpenTX 2.1 branch</a> 
+and earlier releases 
+(<a href="https://www.open-tx.org/2018/02/26/avr-pull">see issue</a>)<br>
 ATmega2560 8-bit 16MHz  <br>
 30 models + infinite on SD  <br>
 6 flight modes  <br>
