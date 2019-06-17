@@ -10,6 +10,22 @@ Manufacturers: Please read [this page](newradios.html) for information about get
 
 <b>The following radios and radio boards are compatible with current versions of OpenTX. </b>
 
+<img src="assets/images/head_t12.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_t12.jpg"></td><td>
+<p style="text-align:left">
+Small Jumper radio with:<br>
+Multimodule in JR bay (no  internal module)<br>
+Black & White LCD 128x64<br>
+6 Switches 4 x 3-position, 2 x 2-position<br>
+2 Knobs<br>
+No Sliders<br>
+S.Port<br>
+Haptic vibration<br>
+RAM  128K <br>
+Available in several colors
+</p>
+</td></tr></table>
 
 <img src="assets/images/head_xlite.png">
 
