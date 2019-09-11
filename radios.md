@@ -27,10 +27,42 @@ Available in several colors
 </p>
 </td></tr></table>
 
+<img src="assets/images/head_x9lite.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_taranisx9lite.png"></td><td>
+<p style="text-align:left">
+Smaller version the Taranis:<br>
+ACCESS with small module bay
+Black & White LCD 128x64<br>
+5 Switches <br>
+1 Pot<br>
+No Sliders<br>
+S.Port<br>
+Haptic vibration<br>
+RAM  128K
+</p>
+</td></tr></table>
+
+<img src="assets/images/head_x9d+2019.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_taranisx9d+2019.png"></td><td>
+<p style="text-align:left">
+ACCESS with JR module bay
+Black & White LCD 212x64<br>
+8 Switches <br>
+2 Pots<br>
+2 Sliders<br>
+1 AUX pushbutton<br>
+S.Port<br>
+Haptic vibration<br>
+</p>
+</td></tr></table>
+
 <img src="assets/images/head_xlite.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
 <p style="text-align:left">
+Exists also in version S and Pro with ACCESS support<br><br>
 Game style version the Taranis:<br>
 Black & White LCD 128x64<br>
 4 Switches 2 x 3-position, 2 x 2-position<br>
@@ -46,6 +78,7 @@ RAM  128K
 
 <table><tr><td style="width:220px"><img src="assets/images/img_x10.jpg"></td><td>
 <p style="text-align:left">
+Exists also in version X10 Express with ACCESS support<br><br> 
 Similar to the X12S transmitter with:<br>
 Colour outdoor TFT 480x272<br>
 8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
