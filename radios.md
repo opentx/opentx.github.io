@@ -12,7 +12,7 @@ Manufacturers: Please read [this page](newradios.html) for information about get
 
 <img src="assets/images/head_t12.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_t12.jpg"></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_t12.png"></td><td>
 <p style="text-align:left">
 Small Jumper radio with:<br>
 Multimodule in JR bay (no  internal module)<br>
