@@ -10,88 +10,6 @@ Manufacturers: Please read [this page](newradios.html) for information about get
 
 <b>The following radios and radio boards are compatible with current versions of OpenTX. </b>
 
-<img src="assets/images/head_t12.png">
-
-<table><tr><td style="width:220px"><img src="assets/images/img_t12.png"></td><td>
-<p style="text-align:left">
-Small Jumper radio with:<br>
-Multimodule in JR bay (no  internal module)<br>
-Black & White LCD 128x64<br>
-6 Switches 4 x 3-position, 2 x 2-position<br>
-2 Knobs<br>
-No Sliders<br>
-S.Port<br>
-Haptic vibration<br>
-RAM  128K <br>
-Available in several colors
-</p>
-</td></tr></table>
-
-<img src="assets/images/head_x9lite.png">
-
-<table><tr><td style="width:220px"><img src="assets/images/img_taranisx9lite.png"></td><td>
-<p style="text-align:left">
-Smaller version the Taranis:<br>
-ACCESS with small module bay
-Black & White LCD 128x64<br>
-5 Switches <br>
-1 Pot<br>
-No Sliders<br>
-S.Port<br>
-Haptic vibration<br>
-RAM  128K
-</p>
-</td></tr></table>
-
-<img src="assets/images/head_x9d+2019.png">
-
-<table><tr><td style="width:220px"><img src="assets/images/img_taranisx9d+2019.png"></td><td>
-<p style="text-align:left">
-ACCESS with JR module bay
-Black & White LCD 212x64<br>
-8 Switches <br>
-2 Pots<br>
-2 Sliders<br>
-1 AUX pushbutton<br>
-S.Port<br>
-Haptic vibration<br>
-</p>
-</td></tr></table>
-
-<img src="assets/images/head_xlite.png">
-
-<table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
-<p style="text-align:left">
-Exists also in version S and Pro with ACCESS support<br><br>
-Game style version the Taranis:<br>
-Black & White LCD 128x64<br>
-4 Switches 2 x 3-position, 2 x 2-position<br>
-No Pots<br>
-2 Sliders<br>
-S.Port<br>
-Haptic vibration<br>
-RAM  128K
-</p>
-</td></tr></table>
-
-<img src="assets/images/head_x10.png">
-
-<table><tr><td style="width:220px"><img src="assets/images/img_x10.jpg"></td><td>
-<p style="text-align:left">
-Exists also in version X10 Express with ACCESS support<br><br> 
-Similar to the X12S transmitter with:<br>
-Colour outdoor TFT 480x272<br>
-8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
-3 Pots 1 x 6-position, 2 smooth<br>
-2 Sliders 2 rear, 2 front<br>
-2 Extra trims<br>
-Haptic vibration<br>
-Wireless trainer<br>
-2 Internal antennas<br>
-RAM 8MB
-</p>
-</td></tr></table>
-
 <img src="assets/images/head_x12s.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_x12s.jpg"></td><td>
@@ -105,30 +23,86 @@ Colour outdoor TFT 480x272<br>
 GPS and 6 axis sensors<br>
 Haptic vibration<br>
 Wireless trainer<br>
+Optional ACCESS support<br>
 RAM 8MB
 </p>
 </td></tr></table>
 
-<img src="assets/images/head_x7.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_x7.jpg"></td><td>
-<p style="text-align:left">
-Smaller version of Taranis Plus with:<br>
-Black & White LCD 128x64<br>
-6 Switches 4 x 3-position, 1 momentary, 1 x 2-position<br>
-2 Pots<br>
-No Sliders<br>
-S.Port<br>
+<img src="assets/images/head_x10.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_x10.jpg"></td><td>
+<p style="text-align:left"> 
+Similar to the X12S transmitter with:<br>
+Colour outdoor TFT 480x272<br>
+8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
+3 Pots 1 x 6-position, 2 smooth<br>
+2 Sliders 2 rear, 2 front<br>
+2 Extra trims<br>
 Haptic vibration<br>
-RAM  128K
+Wireless trainer<br>
+2 Internal antennas<br>
+Optional ACCESS support<br>
+RAM 8MB
 </p>
 </td></tr></table>
 
-<img src="assets/images/head_taranisx9e.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_taranisx9e.jpg"></td><td>
+<img src="assets/images/head_x10express.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_x10express.jpg"></td><td>
 <p style="text-align:left">
-Tray version of Taranis Plus with:<br>
+Colour outdoor TFT 480x272<br>
+8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
+3 Pots 1 x 6-position, 2 smooth<br>
+2 Sliders 2 rear, 2 front<br>
+2 Extra trims<br>
+Haptic vibration<br>
+Wireless trainer<br>
+2 Internal antennas<br>
+Out of box ACCESS support<br>
+RAM 8MB
+</p>
+</td></tr></table>
+
+
+<img src="assets/images/head_x9d+2019.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_taranisx9d+2019.png"></td><td>
+<p style="text-align:left">
+212x64 LCD with gray scales<br>
+8 Switches <br>
+2 Pots<br>
+2 Sliders<br>
+1 AUX pushbutton<br>
+S.Port<br>
+Haptic vibration<br>
+Out of box ACCESS support<br>
+RAM 192K
+</p>
+</td></tr></table>
+
+
+<img src="assets/images/head_x9d+.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_x9d+.jpg"></td><td>
+<p style="text-align:left">
+212x64 LCD with gray scales<br>
+8 Switches <br>
+2 Pots<br>
+2 Sliders<br>
+S.Port<br>
+Haptic vibration<br>
+RAM 128K
+</p>
+</td></tr></table>
+
+
+<img src="assets/images/head_x9e.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_x9e.jpg"></td><td>
+<p style="text-align:left">
+Tray version of Taranis X9D+ with:<br>
 Color OLED top mounted display for basic telemetry data<br>
 Quality 4 bearing gimbals<br>
 Bluetooth support<br>
@@ -136,27 +110,16 @@ Bluetooth support<br>
 Safe start and safe shutdown power switch<br>
 Haptic vibration <br>
 Improved audio circuits<br>
-RAM  192K
-  </p>
+RAM 192K
+</p>
 </td></tr></table>
 
-<img src="assets/images/head_taranisplus.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_taranisplus.jpg"></td><td>
+<img src="assets/images/head_x9d.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_x9d.jpg"></td><td>
 <p style="text-align:left">
-New version of Taranis with:  <br>
-Haptic vibration <br>
-Multi colored LCD background light <br>
-Improved LCD display  <br>
-Improved audio circuits <br>
-RAM  128K
-  </p>
-</td></tr></table>
-
-<img src="assets/images/head_taranis.png">
-
-<table><tr><td style="width:220px"><img src="assets/images/img_taranis.jpg"></td><td>
-<p style="text-align:left">
+Previous version of the Taranis X9D+ with:<br>
 ARM Cortex M3 32-bit 120MHz  <br>
 212x64 LCD with gray scales  <br>
 60 models + infinite on SD  <br>
@@ -165,8 +128,91 @@ Telemetry  <br>
 Advanced audio functions (voice files from SD, vario, ...)  <br>
 SD data logger  <br>
 RAM  128K
-  </p>
+</p>
 </td></tr></table>
+
+
+<img src="assets/images/head_xlitepro.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_xlitepro.jpg"></td><td>
+<p style="text-align:left">
+Game style version the Taranis:<br>
+Black & White LCD 128x64<br>
+6 Switches 2 x 3-position, 2 x 2-position, 2 x toggle<br>
+No Pots<br>
+2 Sliders<br>
+S.Port<br>
+Haptic vibration<br>
+Out of box ACCESS support<br>
+RAM 128K
+</p>
+</td></tr></table>
+
+
+<img src="assets/images/head_xlite.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
+<p style="text-align:left">
+Black & White LCD 128x64<br>
+4 Switches 2 x 3-position, 2 x 2-position<br>
+No Pots<br>
+2 Sliders<br>
+S.Port<br>
+Haptic vibration<br>
+RAM 128K
+</p>
+</td></tr></table>
+
+
+<img src="assets/images/head_x9lite.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_taranisx9lite.png"></td><td>
+<p style="text-align:left">
+Smaller version the Taranis X9D+:<br>
+ACCESS with small module bay
+Black & White LCD 128x64<br>
+5 Switches <br>
+1 Pot<br>
+No Sliders<br>
+S.Port<br>
+Haptic vibration<br>
+Out of box ACCESS support<br>
+RAM 128K
+</p>
+</td></tr></table>
+
+
+
+<img src="assets/images/head_x7.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_x7.jpg"></td><td>
+<p style="text-align:left">
+Black & White LCD 128x64<br>
+6 Switches 4 x 3-position, 1 momentary, 1 x 2-position<br>
+2 Pots<br>
+No Sliders<br>
+S.Port<br>
+Haptic vibration<br>
+RAM 128K
+</p>
+</td></tr></table>
+
+
+<img src="assets/images/head_t12.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_t12.png"></td><td>
+<p style="text-align:left">
+Small Jumper radio with:<br>
+Multimodule in JR bay (no  internal module)<br>
+Black & White LCD 128x64<br>
+6 Switches 4 x 3-position, 2 x 2-position<br>
+2 Knobs<br>
+No Sliders<br>
+Haptic vibration<br>
+RAM 128K <br>
+</p>
+</td></tr></table>
+
 
 <img src="assets/images/head_9xrpro.png">
 
@@ -181,6 +227,7 @@ SD data logger<br>
 </p>
 </td></tr></table>
 
+
 <img src="assets/images/head_ar9x.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_ar9x.jpeg"></td><td>
@@ -193,6 +240,7 @@ LCD backlight option<br>
 Haptic vibration option<br>
 </p>
 </td></tr></table>
+
 
 <img src="assets/images/head_sky9x.png">
 
