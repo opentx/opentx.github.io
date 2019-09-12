@@ -68,7 +68,7 @@ RAM 8MB
 
 <img src="assets/images/head_x9d+2019.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_taranisx9d+2019.png"></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_x9d+2019.png"></td><td>
 <p style="text-align:left">
 212x64 LCD with gray scales<br>
 8 Switches <br>
@@ -166,7 +166,7 @@ RAM 128K
 
 <img src="assets/images/head_x9lite.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_taranisx9lite.png"></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_x9lite.png"></td><td>
 <p style="text-align:left">
 Smaller version the Taranis X9D+:<br>
 ACCESS with small module bay
