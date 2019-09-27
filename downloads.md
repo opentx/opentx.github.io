@@ -8,9 +8,28 @@ group: navigation
 
 ## OpenTX downloads
 
+### OpenTX 2.3 branch
+
+Latest OpenTX major version with added support for the FrSky X10 Express, X9D+ 2019, X-Lite S/Pro, X9 Lite and Jumper T12 radios, the new FrSky ACCESS system, and lots of new features including significant latency improvements with FrSky radios/modules. Please read [this page](http://www.open-tx.org/2019/09/27/opentx-2.3.0) for more details about other changes. As usual with each major release new sound packs are needed, information is on the page.
+
+<ul class="posts">
+
+<!-- Insert Fixed List Items Here -->
+
+{% for post in site.tags.Releases23 %}
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+{% endfor %}
+</ul>
+
+
 ### OpenTX 2.2 branch
 
-Latest OpenTX major version with added support for the FrSky Horus X12S and X10 and Taranis Q X7 radios (plus X-Lite starting with 2.2.2). Please read [this page](http://www.open-tx.org/2017/05/30/opentx-2.2.0) for more details about other changes. As usual with each major release new sound packs are needed, information is on the page.
+Previous major version, now stable and still supported for normal use, but no new features or bugfixes will be implemented. 2.2 added support for the FrSky Horus X12S and X10 and Taranis Q X7 radios (plus X-Lite starting with 2.2.2). This version drops support for AVR-based radios, for those see 2.1 below. Please read [this page](http://www.open-tx.org/2017/05/30/opentx-2.2.0) for more details about other changes. As usual with each major release new sound packs are needed, information is on the page.
 
 <ul class="posts">
 
@@ -48,7 +67,7 @@ and
 
 ### OpenTX 2.1 branch
 
-Previous major version, now stable and still supported for normal use, but no new features or bugfixes will be implemented. 2.1 introduced completely new telemetry handling compared to 2.0, and also requires a different sound pack (see below). The original upgrade notes from 2.0 to 2.1 can be found [here](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239).
+Deprecated, no more support will be given but firmware downloads are still available for the time being. It is the last version to support AVR-based radios (9X/9XR with stock board, Gruvin9x, DIY MEGA2560). 2.1 introduced completely new telemetry handling compared to 2.0, and also requires a different sound pack (see below). The original upgrade notes from 2.0 to 2.1 can be found [here](http://www.openrcforums.com/forum/viewtopic.php?f=45&t=7239).
 
 This branch is the first to support the FrSky Taranis X9E (tray version).
 
