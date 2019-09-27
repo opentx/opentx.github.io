@@ -133,6 +133,7 @@ Sound packs can be downloaded either through companion (the Download dialog will
 [Sound packs for OpenTX 2.0](http://voices-20.open-tx.org)  
 [Sound packs for OpenTX 2.1](http://voices-21.open-tx.org)  
 [SD card contents for OpenTX 2.2, with sound packs](https://downloads.open-tx.org/2.2/sdcard/)
+[SD card contents for OpenTX 2.3, with sound packs](https://downloads.open-tx.org/2.3/release/sdcard/)
 
 
 ## About OpenTX versions
@@ -144,8 +145,8 @@ We recommend "normal users" not to jump on a new major revision straight away as
 
 Currently, the supported major versions of OpenTX are:
 <ul>
-<li>OpenTX 2.1</li>
 <li>OpenTX 2.2</li>
+<li>OpenTX 2.3</li>
 </ul>
 
 Major releases are independent, OpenTX companion 2.0.x will download firmware 2.0.x, OpenTX companion 2.1.x will download firmware 2.1.x etc. Updates between major versions are manual, you need to download the required companion yourself, no updates will be automatically offered. When upgrading from one major version to the next it is recommended to backup both your current firmware and settings, and to thoroughly check all of your models' functions still operate correctly after the built-in upgrade procedure has completed. Downgrading models and settings is not possible, so should you want to switch back to an older major version you will need to either reload your backup or start from scratch again.
