@@ -10,7 +10,7 @@ group: navigation
 
 ### OpenTX 2.3 branch
 
-Latest OpenTX major version with added support for the FrSky X10 Express, X9D+ 2019, X-Lite S/Pro, X9 Lite and Jumper T12 radios, the new FrSky ACCESS system, and lots of new features including significant latency improvements with FrSky radios/modules. Please read [this page](http://www.open-tx.org/2019/09/27/opentx-2.3.0) for more details about other changes. As usual with each major release new sound packs are needed, information is on the page.
+Latest OpenTX major version with added support for the FrSky X10 Express, X9D+ 2019, X-Lite S/Pro, X9 Lite and Jumper T12 radios, the new FrSky ACCESS system, and lots of new features including significant latency improvements with FrSky radios/modules. Please read [this page](http://www.open-tx.org/2019/09/27/opentx-2.3.0) for more details about other changes. As usual with each major release new SD card contents are needed, information is on the page.
 
 <ul class="posts">
 
@@ -29,7 +29,7 @@ Latest OpenTX major version with added support for the FrSky X10 Express, X9D+ 2
 
 ### OpenTX 2.2 branch
 
-Previous major version, now stable and still supported for normal use, but no new features or bugfixes will be implemented. 2.2 added support for the FrSky Horus X12S and X10 and Taranis Q X7 radios (plus X-Lite starting with 2.2.2). This version drops support for AVR-based radios, for those see 2.1 below. Please read [this page](http://www.open-tx.org/2017/05/30/opentx-2.2.0) for more details about other changes. As usual with each major release new sound packs are needed, information is on the page.
+Previous major version, now stable and still supported for normal use, but no new features or bugfixes will be implemented. 2.2 added support for the FrSky Horus X12S and X10 and Taranis Q X7 radios (plus X-Lite starting with 2.2.2). This version drops support for AVR-based radios, for those see 2.1 below. Please read [this page](http://www.open-tx.org/2017/05/30/opentx-2.2.0) for more details about other changes. As usual with each major release new SD card contents are needed, information is on the page.
 
 <ul class="posts">
 
