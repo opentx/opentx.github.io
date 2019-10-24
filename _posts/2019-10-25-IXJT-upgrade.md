@@ -12,7 +12,7 @@ OpenTX only got the code required to answer this authentication request merged i
 
 It was expected that the modules would simply not work without valid authentication, but the first owners have reported that they allow binding, give control, but then periodically cause intentional erratic, uncommanded channel movements instead.  
 
-This means that **anyone turning the upgrade module on with an OpenTX build older than mentioned above and binding it to a live model risks having broken servos/linkages, or worse erratic electric motor starts**
+This means that **anyone turning the upgrade module on with an OpenTX build older than mentioned above and binding it to a live model risks having broken servos/linkages, or worse erratic electric motor starts.**
 
 We thus warn everyone to **not use the module on anything other than a harmless bench setup until they have been able to upgrade OpenTX to a version with proper support for the module.**
 
