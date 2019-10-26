@@ -25,7 +25,7 @@ group: navigation
 </div>
 
 ## OpenTX Nightly Builds
-[2.1 - 'discontinued' branch](http://downloads-21.open-tx.org/nightly/companion)  
+[2.1 - 'Deprecated' branch](http://downloads-21.open-tx.org/nightly/companion)  
 [2.2 - 'previous' branch](https://downloads.open-tx.org/2.2/nightlies/companion/)
 [2.3 - 'current' branch](https://downloads.open-tx.org/2.3/nightlies/companion/)    
 

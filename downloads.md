@@ -54,14 +54,14 @@ should be done before flashing these firmware. The nightly builds are
 only intented to verify if bugfixes/new features work as expected. We
 provide no changelogs for these builds. To get a rough idea about the
 changes you can look at the
-[git commit log](https://github.com/opentx/opentx/commits/2.2).
+[git commit log](https://github.com/opentx/opentx/commits/2.3).
 
-[macOS nightly builds](http://downloads.open-tx.org/2.2/nightlies/companion/macosx/),
-[Windows nightly builds](http://downloads.open-tx.org/2.2/nightlies/companion/windows/)
+[macOS nightly builds](http://downloads.open-tx.org/2.3/nightlies/companion/macosx/),
+[Windows nightly builds](http://downloads.open-tx.org/2.3/nightlies/companion/windows/)
 and
-[Linux nightly builds](http://downloads.open-tx.org/2.2/nightlies/companion/linux/)
+[Linux nightly builds](http://downloads.open-tx.org/2.3/nightlies/companion/linux/)
 
-[SD Card contents for nightly builds](http://downloads.open-tx.org/2.2/nightlies/sdcard/)
+[SD Card contents for nightly builds](http://downloads.open-tx.org/2.3/nightlies/sdcard/)
 
 
 
