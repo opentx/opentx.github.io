@@ -14,7 +14,6 @@ Manufacturers: Please read [this page](newradios.html) for information about get
 
 <table><tr><td style="width:220px"><img src="assets/images/img_x12s.jpg"></td><td>
 <p style="text-align:left">
-Top of the line transmitter with:<br>
 Colour outdoor TFT 480x272<br>
 8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
 3 Pots 1 x 6-position, 2 smooth<br>
@@ -27,7 +26,6 @@ Optional ACCESS support<br>
 RAM 8MB
 </p>
 </td></tr></table>
-
 
 <img src="assets/images/head_x10express.png">
 
@@ -64,6 +62,20 @@ RAM 8MB
 </p>
 </td></tr></table>
 
+<img src="assets/images/head_t16.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_t16.jpg"></td><td>
+<p style="text-align:left">
+Colour outdoor TFT 480x272<br>
+8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
+2 Pots<br>
+1 button bar with led indication (6 positions) <br>
+2 Sliders<br>
+2 Extra trims<br>
+Available with internal MULTI module<br>
+RAM 8MB
+</p>
+</td></tr></table>
 
 <img src="assets/images/head_x9d+2019.png">
 
