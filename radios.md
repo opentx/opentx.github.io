@@ -64,7 +64,7 @@ RAM 8MB
 
 <img src="assets/images/head_t16.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_t16.jpg"></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_t16.png"></td><td>
 <p style="text-align:left">
 Colour outdoor TFT 480x272<br>
 8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
