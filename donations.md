@@ -14,7 +14,7 @@ Another reason is that OpenTX maintains a build server that serves firmware comp
 
 The OpenTX team is grateful to those who have donated to the project. You have helped making OpenTX and OpenTX Companion great. 
 
-The [Github Donor List](https://github.com/opentx/opentx/blob/2.2/CREDITS.txt) is updated at each OpenTX release.
+The [Github Donor List](https://github.com/opentx/opentx/blob/2.3/CREDITS.txt) is updated at each OpenTX release.
 
 If you would like to contribute to OpenTX, donations are welcome and appreciated:
 
