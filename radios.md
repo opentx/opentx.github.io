@@ -8,6 +8,24 @@ group: navigation
 
 Manufacturers: Please read [this page](newradios.html) for information about getting OpenTX for your product.  
 
+<b>Coming soon ! The following radios are being worked on for future OpenTX support. </b>
+
+<img src="assets/images/head_nv14.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_nv14.jpg"></td><td>
+<p style="text-align:left">
+Target release : 2.4.x
+</p>
+</td></tr></table>
+
+<img src="assets/images/head_radiomaster-tx16s.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_tx16s.jpg"></td><td>
+<p style="text-align:left">
+Target release : 2.3.x
+</p>
+</td></tr></table>
+
 <b>The following radios and radio boards are compatible with current versions of OpenTX. </b>
 
 <img src="assets/images/head_x12s.png">
