@@ -12,7 +12,7 @@ Manufacturers: Please read [this page](newradios.html) for information about get
 
 <img src="assets/images/head_nv14.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_nv14.jpg"></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_nv14.png"></td><td>
 <p style="text-align:left">
 Target release : 2.4.x
 </p>
@@ -20,7 +20,7 @@ Target release : 2.4.x
 
 <img src="assets/images/head_radiomaster-tx16s.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_tx16s.jpg"></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_tx16s.png"></td><td>
 <p style="text-align:left">
 Target release : 2.3.x
 </p>
