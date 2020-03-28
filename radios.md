@@ -22,7 +22,7 @@ Target release : 2.4.x
 
 <table><tr><td style="width:220px"><img src="assets/images/img_tx16s.png"></td><td>
 <p style="text-align:left">
-Target release : 2.3.x
+Target release : 2.3.7
 </p>
 </td></tr></table>
 
