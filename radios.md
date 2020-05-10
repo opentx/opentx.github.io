@@ -11,18 +11,23 @@ Manufacturers: Please read [this page](newradios.html) for information about get
 <b>Coming soon ! The following radios are being worked on for future OpenTX support. </b>
 
 <img src="assets/images/head_nv14.png">
-
 <table><tr><td style="width:220px"><img src="assets/images/img_nv14.png"></td><td>
 <p style="text-align:left">
 Target release : 2.4.x
 </p>
 </td></tr></table>
 
-<img src="assets/images/head_radiomaster-tx16s.png">
+<img src="assets/images/head_radiomaster-t18.png">
+<table><tr><td style="width:220px"><img src="assets/images/img_t18.png"></td><td>
+<p style="text-align:left">
+Target release : 2.3.x
+</p>
+</td></tr></table>
 
+<img src="assets/images/head_radiomaster-tx16s.png">
 <table><tr><td style="width:220px"><img src="assets/images/img_tx16s.png"></td><td>
 <p style="text-align:left">
-Target release : 2.3.7
+Target release : 2.3.8
 </p>
 </td></tr></table>
 
