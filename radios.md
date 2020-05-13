@@ -28,6 +28,8 @@ Target release : 2.3.x
 <table><tr><td style="width:220px"><img src="assets/images/img_tx16s.png"></td><td>
 <p style="text-align:left">
 Target release : 2.3.8
+
+Supported in nightlies since 2.3.8N200
 </p>
 </td></tr></table>
 
