@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 ## OpenTX
-[![Join the Discord chat](https://img.shields.io/badge/discord-join_chat-yellow.svg)](https://discord.gg/CZCwVx2)
+[![Join the Discord chat](https://img.shields.io/badge/discord-join_chat-yellow.svg)](https://discord.gg/CZCwVx2)  
 [OpenTX GitHub Project](https://github.com/opentx/opentx)   
 [OpenTX University](http://open-txu.org)  
 [OpenTX RSS Feed](rss.xml)  
