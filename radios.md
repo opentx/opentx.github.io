@@ -20,7 +20,7 @@ Target release : 2.4.x
 <img src="assets/images/head_t18.png">
 <table><tr><td style="width:220px"><img src="assets/images/img_t18.png"></td><td>
 <p style="text-align:left">
-Target release : 2.3.x
+Target release : 2.3.10
 </p>
 </td></tr></table>
 
