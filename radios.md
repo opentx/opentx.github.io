@@ -249,8 +249,9 @@ RAM 128K
 <table><tr><td style="width:220px"><img src="assets/images/img_t12.png"></td><td>
 <p style="text-align:left">
 Small Jumper radio with:<br>
-Multimodule in JR bay (no  internal module)<br>
-Black & White LCD 128x64<br>
+Multimodule in JR bay<br>
+Internal multimodule (PRO version only)<br>
+Black & White LCD 128x64 (PRO version is bigger)<br>
 6 Switches 4 x 3-position, 2 x 2-position<br>
 2 Knobs<br>
 No Sliders<br>
