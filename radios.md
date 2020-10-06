@@ -17,13 +17,6 @@ Target release : 2.4.x
 </p>
 </td></tr></table>
 
-<img src="assets/images/head_t18.png">
-<table><tr><td style="width:220px"><img src="assets/images/img_t18.png"></td><td>
-<p style="text-align:left">
-Target release : 2.3.10
-</p>
-</td></tr></table>
-
 <b>The following radios and radio boards are compatible with current versions of OpenTX. </b>
 
 <img src="assets/images/head_radiomaster-tx16s.png">
@@ -94,6 +87,23 @@ Optional ACCESS support<br>
 RAM 8MB
 </p>
 </td></tr></table>
+
+<img src="assets/images/head_t18.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_t18.png"></td><td>
+<p style="text-align:left">
+Colour outdoor TFT 480x272<br>
+8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
+6 pos button bar <br>
+2 Pots<br>
+2 Sliders<br>
+2 extra trims<br>
+Haptic vibration<br>
+Some version do include 900 MHz multimodule<br>
+RAM 8MB
+</p>
+</td></tr></table>
+
 
 <img src="assets/images/head_t16.png">
 
