@@ -17,8 +17,8 @@ Target release : 2.4.x
 </p>
 </td></tr></table>
 
-<img src="assets/images/head_radiomaster-tx8.png">
-<table><tr><td style="width:220px"><img src="assets/images/img_tx8.png"></td><td>
+<img src="assets/images/head_radiomaster-t8.png">
+<table><tr><td style="width:220px"><img src="assets/images/img_t8.png"></td><td>
 <p style="text-align:left">
 Target release : 2.3.12
 </p>
