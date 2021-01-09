@@ -31,13 +31,6 @@ Target release : 2.3.12
 </p>
 </td></tr></table>
 
-<img src="assets/images/head_radiomaster-tx12.png">
-<table><tr><td style="width:220px"><img src="assets/images/img_tx12.png"></td><td>
-<p style="text-align:left">
-Target release : 2.3.11
-</p>
-</td></tr></table>
-
 <b>The following radios and radio boards are compatible with current versions of OpenTX. </b>
 
 <img src="assets/images/head_radiomaster-tx16s.png">
@@ -275,7 +268,24 @@ RAM 128K
 </td></tr></table>
 
 
+<img src="assets/images/head_radiomaster-tx12.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_tx12.png"></td><td>
+<p style="text-align:left">
+Small Radiomaster radio with:<br>
+Internal multimodule<br>
+External JR bay<br>
+Black & White LCD 128x64<br>
+4 Switches 4 x 3-position<br>
+2 Push buttons<br>
+2 Sliders<br>
+6 UI buttons and rotary encoder
+Haptic vibration<br>
+RAM 128K <br>
+</p>
+</td></tr></table>
 <img src="assets/images/head_t12.png">
+
 
 <table><tr><td style="width:220px"><img src="assets/images/img_t12.png"></td><td>
 <p style="text-align:left">
