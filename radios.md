@@ -17,20 +17,6 @@ Target release : 2.4.x
 </p>
 </td></tr></table>
 
-<img src="assets/images/head_radiomaster-t8.png">
-<table><tr><td style="width:220px"><img src="assets/images/img_t8.png"></td><td>
-<p style="text-align:left">
-Target release : 2.3.12
-</p>
-</td></tr></table>
-
-<img src="assets/images/head_jumper-tlite.png">
-<table><tr><td style="width:220px"><img src="assets/images/img_tlite.png"></td><td>
-<p style="text-align:left">
-Target release : 2.3.12
-</p>
-</td></tr></table>
-
 <b>The following radios and radio boards are compatible with current versions of OpenTX. </b>
 
 <img src="assets/images/head_radiomaster-tx16s.png">
@@ -228,6 +214,36 @@ Black & White LCD 128x64<br>
 No Pots<br>
 2 Sliders<br>
 S.Port<br>
+Haptic vibration<br>
+RAM 128K
+</p>
+</td></tr></table>
+
+
+<img src="assets/images/head_jumper-tlite.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_tlite.png></td><td>
+<p style="text-align:left">
+Black & White LCD 128x64<br>
+4 Switches, 2 x 3-positions, , 2 x 2-positions <br>
+No Pots<br>
+No Sliders<br>
+Built in Multimodule<br>
+Haptic vibration<br>
+RAM 128K
+</p>
+</td></tr></table>
+
+
+<img src="assets/images/head_radiomaster-t8.png">
+
+<table><tr><td style="width:220px"><img src="assets/images/img_t8.png></td><td>
+<p style="text-align:left">
+Optionnal Black & White LCD 128x64<br>
+4 Switches, 2 x 3-positions, , 2 x 2-positions <br>
+No Pots<br>
+No Sliders<br>
+Built in Multimodule<br>
 Haptic vibration<br>
 RAM 128K
 </p>
