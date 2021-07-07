@@ -7,6 +7,9 @@ tags: [News, Downloads]
 ---
 {% include JB/setup %}
 
+Please read this Wiki article before installing Zadig
+[Does the user need to install zadig](https://github.com/opentx/opentx/wiki/Taranis-Bootloaders#does-the-user-need-to-install-zadig-or-dfu-util-separately-when-connecting-using-opentx-bootloader-mode)
+
 Zading 2.1.0 was recently released. The earlier 2.0.1 version had problems with USB3 stacks and crashed on certain machines. One example of such problematic machines are Samsung Ultrabooks running Windows 7.
 
 Not being able to use Zadig made it quite hard to install the necessary STM32 device driver. Without this the Taranis can not be flashed from a Windows machine. The new Zadig version is highly recomended.
