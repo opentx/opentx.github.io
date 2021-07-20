@@ -17,6 +17,38 @@ Target release : 2.4.x
 </p>
 </td></tr></table>
 
+<img src="assets/images/head_tango.png">
+<table><tr><td style="width:220px"><img src="assets/images/img_tango.png"></td><td>
+<p style="text-align:left">
+Target release : 2.3.x
+Design: Compact yet ergonomic design. 
+Gimbals: Full-size hal sensor 
+Built-in TX: TBS Crossfire (868/915hz)(25mw-1W)(50/150hz)
+Exp. Slot: Module bay add-on (Lite Style)(Available Seperately)
+Battery: 5000mah 1S 2A Charging (USB-C)
+Switches: 2 x 2Positions, 2 x 3Positions, 2 x Momentary 
+Display: High Res OLED panel (128 x 96)
+Voice Support: 1W Speak / 3.5mm headphone jack 
+Wifi: TBS Clound Ready
+</p>
+</td></tr></table>
+
+<img src="assets/images/head_mambo.png">
+<table><tr><td style="width:220px"><img src="assets/images/img_mambo.png"></td><td>
+<p style="text-align:left">
+Target release : 2.3.x
+Design: Full-size ergonomic design.  
+Gimbals: Full-size hal sensor 
+Built-in TX: TBS Tracer (2G4)(25mw-100mw + Ludicrous Mode)(250hz)
+Exp. Slot: JR Bay
+Battery: 18650 x 2 (not included), 1A Charging (USB-C)
+Switches: 1 x 2Positions, 4 x 3Positions, 1 x Momentary, 2 x Pots
+Display: 3.5” LCD panel (128 x 64)
+Voice Support: 1W Speak / 3.5mm headphone jack 
+Wifi: TBS Clound Ready
+</p>
+</td></tr></table>
+
 <b>The following radios and radio boards are compatible with current versions of OpenTX. </b>
 
 <img src="assets/images/head_radiomaster-tx16s.png">
