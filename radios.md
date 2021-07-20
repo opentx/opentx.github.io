@@ -29,7 +29,7 @@ Battery: 5000mah 1S 2A Charging (USB-C)<br>
 Switches: 2 x 2Positions, 2 x 3Positions, 2 x Momentary <br>
 Display: High Res OLED panel (128 x 96)<br>
 Voice Support: 1W Speak / 3.5mm headphone jack <br>
-Wifi: TBS Clound Ready<br>
+Wifi: TBS Cloud Ready<br>
 </p>
 </td></tr></table>
 
@@ -45,7 +45,7 @@ Battery: 18650 x 2 (not included), 1A Charging (USB-C)<br>
 Switches: 1 x 2Positions, 4 x 3Positions, 1 x Momentary, 2 x Pots<br>
 Display: 3.5” LCD panel (128 x 64)<br>
 Voice Support: 1W Speak / 3.5mm headphone jack <br>
-Wifi: TBS Clound Ready<br>
+Wifi: TBS Cloud Ready<br>
 </p>
 </td></tr></table>
 
