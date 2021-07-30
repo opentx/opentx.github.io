@@ -42,3 +42,4 @@ group: navigation
 ![English](assets/images/flags/gb.png) [ersky9x](http://code.google.com/p/ersky9x) project home page  
 ![English](assets/images/flags/gb.png) [SkyRaccoon](http://www.skyraccoon.com/) SkyRaccoon model icons site  
 ![French](assets/images/flags/fr.png) [French tutorial database](http://opentx-doc.fr/) French tutorial and user created documentation database
+![English](assets/images/flags/gb.png) [RC Helicopter Fun](https://www.rchelicopterfun.com/) RC Helicopter site 
