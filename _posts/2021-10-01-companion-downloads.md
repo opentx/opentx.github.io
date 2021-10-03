@@ -16,6 +16,11 @@ We have rebuilt Companion 2.3.14 with a newer version of the libraries to fix th
 
 [OpenTX Companion 2.3.14  - Windows Installer](https://downloads.open-tx.org/2.3/release/companion/windows/companion-windows-2.3.14.exe)  
 
+If you see no improvement check in companion Help -> About that your version is from Oct. 1st. If not your browser may have served you the old version, clear your browser cache and redownload/reinstall.  
+  
+<img src="../assets/images/companion_oct1.png">  
+  
+
 
 **Support OpenTX**
 
