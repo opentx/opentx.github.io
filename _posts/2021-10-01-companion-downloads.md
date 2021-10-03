@@ -18,7 +18,7 @@ We have rebuilt Companion 2.3.14 with a newer version of the libraries to fix th
 
 If you see no improvement check in companion Help -> About that your version is from Oct. 1st. If not your browser may have served you the old version, clear your browser cache and redownload/reinstall.  
   
-<img src="../assets/images/companion_oct1.png">  
+![](/assets/images/companion_oct1.png)
   
 
 
