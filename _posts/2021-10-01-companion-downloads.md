@@ -11,12 +11,15 @@ Since Sept 30th, 2021 OpenTX Companion for Windows is not able to check for upda
 
 This is caused by the combination of [the expiration of a Let's Encrypt root certificate](https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/) and the fact that the OpenSSL library that has been bundled with the Windows version of Companion is too old to support the transition method that Let's Encrypt has used. Companion thus can't reach the download server anymore.  
 We have rebuilt Companion 2.3.14 with a newer version of the libraries to fix the problem. Unfortunately since this breaks the auto-update mechanism it's not possible to distribute that fix automatically, so you will have to download and install the fixed installer manually below. Sorry for the inconvenience.  
+If you see no improvement check in Companion Help -> About that your version is from Oct. 1st. If not your browser may have served you the old version, clear your browser cache and redownload/reinstall.  
+If that still does not work your system might be missing the new root certificate, which you can check [here](https://valid-isrgrootx1.letsencrypt.org/), this will also install it automatically if needed if your system is supported. For out of support OSes like Windows 7 you need to do a manual install, [documentation here](https://docs.certifytheweb.com/docs/kb/kb-202109-letsencrypt/#windows-pcs).  
+If you wish to continue using older Companion versions you will have to download the new SSL libraries linked below and drop them in the install folder, replacing the older files.  
 
 ### Download links:  
 
 [OpenTX Companion 2.3.14  - Windows Installer](https://downloads.open-tx.org/2.3/release/companion/windows/companion-windows-2.3.14.exe)  
+[Replacement ibraries for older companion versions](https://downloads.open-tx.org/tools/openssl-1.0.2u.zip)  
 
-If you see no improvement check in companion Help -> About that your version is from Oct. 1st. If not your browser may have served you the old version, clear your browser cache and redownload/reinstall.  
   
 ![](/assets/images/companion_oct1.png)
   
