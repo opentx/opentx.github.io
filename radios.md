@@ -254,7 +254,7 @@ RAM 128K
 
 <img src="assets/images/head_jumper-tlite.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_tlite.png></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_tlite.png"></td><td>
 <p style="text-align:left">
 Black & White LCD 128x64<br>
 4 Switches, 2 x 3-positions, , 2 x 2-positions <br>
@@ -269,7 +269,7 @@ RAM 128K
 
 <img src="assets/images/head_radiomaster-t8.png">
 
-<table><tr><td style="width:220px"><img src="assets/images/img_t8.png></td><td>
+<table><tr><td style="width:220px"><img src="assets/images/img_t8.png"></td><td>
 <p style="text-align:left">
 Optionnal Black & White LCD 128x64<br>
 4 Switches, 2 x 3-positions, , 2 x 2-positions <br>
