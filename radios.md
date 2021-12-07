@@ -10,6 +10,21 @@ Manufacturers: Please read [this page](newradios.html) for information about get
 
 <b>Coming soon ! The following radios are being worked on for future OpenTX support. </b>
 
+<img src="assets/images/head_zorro.png">
+<table><tr><td style="width:220px"><img src="assets/images/img_zorro.png"></td><td>
+<p style="text-align:left">
+Target release : 2.3.15<br>
+Design: Compact yet ergonomic design. <br>
+Gimbals: Hall Sensor with travel adjustment<br>
+Built-in TX: CC2500, 4in1 or ELRS<br>
+Exp. Slot: Module bay add-on (Lite Style)<br>
+Battery: 2x 18350 900mah Li-ion (not included), external connector for extra 2S<br>
+Switches: 2 x 2Positions, 2 x 3Positions, 4 x Momentary <br>
+Display: Large backlit LCD panel (128 x 64)<br>
+Keys: full OTX navigation with roller.<br>
+</p>
+</td></tr></table>
+
 <img src="assets/images/head_nv14.png">
 <table><tr><td style="width:220px"><img src="assets/images/img_nv14.png"></td><td>
 <p style="text-align:left">
